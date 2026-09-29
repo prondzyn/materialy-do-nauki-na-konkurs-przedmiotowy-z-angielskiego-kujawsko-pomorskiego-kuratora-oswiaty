@@ -18,6 +18,19 @@ typ nie występuje (0 pkt), ale ta sama gramatyka daje 20 pkt w zad. 5 i 7.
 - W tekstach z lukami czytaj całe zdanie do kropki: o wyborze często decyduje to, co stoi po luce
   (*so successful … not just because*, *such important issues as*).
 
+**Spis treści**
+
+- [Czasy, tryby warunkowe i formy czasownika](#czasy-tryby-warunkowe-i-formy-czasownika)
+- [Czasowniki modalne](#czasowniki-modalne)
+- [Stopniowanie i porównania; so/such, too/enough](#stopniowanie-i-porównania-sosuch-tooenough)
+- [Kwantyfikatory, przedimki, liczba mnoga](#kwantyfikatory-przedimki-liczba-mnoga)
+- [Zaimki, zdania względne, question tags, pytania pośrednie](#zaimki-zdania-względne-question-tags-pytania-pośrednie)
+- [Przyimki i czasowniki frazalne w wyborze](#przyimki-i-czasowniki-frazalne-w-wyborze)
+- [Teksty z lukami (a/b/c/d)](#teksty-z-lukami-abcd)
+  - [Enola Holmes *(2020/21, zad. 1)* — pozycje 54–63](#enola-holmes-202021-zad-1--pozycje-5463)
+  - [Riverdale *(2019/20, zad. 8)* — pozycje 64–73](#riverdale-201920-zad-8--pozycje-6473)
+- [Klucz odpowiedzi](#klucz-odpowiedzi)
+
 ---
 
 ## Czasy, tryby warunkowe i formy czasownika

@@ -19,6 +19,18 @@ decyzji naraz.
    *disagreements*).
 4. Na koniec przeliteruj wyraz w myślach, bo ortografia decyduje o punkcie.
 
+**Spis treści**
+
+- [A. Stopniowanie i liczba mnoga](#a-stopniowanie-i-liczba-mnoga)
+- [B. Przysłówek (-ly)](#b-przysłówek--ly)
+- [C. Przymiotnik (od rzeczownika lub czasownika)](#c-przymiotnik-od-rzeczownika-lub-czasownika)
+- [D. Rzeczownik (od czasownika lub przymiotnika)](#d-rzeczownik-od-czasownika-lub-przymiotnika)
+- [E. Przedrostki przeczące (un- / im- / in- / il-)](#e-przedrostki-przeczące-un---im---in---il-)
+- [F. Przedrostki over- / fore- / ex- i złożenia](#f-przedrostki-over---fore---ex--i-złożenia)
+- [G. Przekształcenia nieregularne i podwójne](#g-przekształcenia-nieregularne-i-podwójne)
+- [Klucz odpowiedzi](#klucz-odpowiedzi)
+- [Rodziny wyrazów](#rodziny-wyrazów)
+
 ---
 
 ## A. Stopniowanie i liczba mnoga

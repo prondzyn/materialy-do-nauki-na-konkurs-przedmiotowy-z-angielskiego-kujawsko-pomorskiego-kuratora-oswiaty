@@ -17,6 +17,19 @@ skreślaniu. Starsze zadania bez ramki są wyraźnie trudniejsze.
 - Przy przyimkach czasu i miejsca pamiętaj o prostych regułach: *on* + data/dzień, *at* + godzina,
   *in* + miasto (*arrive in Warsaw*), *on foot*, *on the left*.
 
+**Spis treści**
+
+- [A. Z ramką (obecny format)](#a-z-ramką-obecny-format)
+  - [2018/19, zad. 8 — pozycje 1–10](#201819-zad-8--pozycje-110)
+  - [2025/26, zad. 8 — pozycje 11–20](#202526-zad-8--pozycje-1120)
+  - [2024/25, zad. 8 — pozycje 21–30](#202425-zad-8--pozycje-2130)
+  - [2022/23, zad. 8 — pozycje 31–40](#202223-zad-8--pozycje-3140)
+  - [2023/24, zad. 8 — pozycje 41–50](#202324-zad-8--pozycje-4150)
+- [B. DO / GET / MAKE](#b-do--get--make)
+- [C. Bez ramki](#c-bez-ramki)
+- [Klucz odpowiedzi](#klucz-odpowiedzi)
+- [Ściąga: wyrażenia z tego pliku (alfabetycznie)](#ściąga-wyrażenia-z-tego-pliku-alfabetycznie)
+
 ---
 
 ## A. Z ramką (obecny format)

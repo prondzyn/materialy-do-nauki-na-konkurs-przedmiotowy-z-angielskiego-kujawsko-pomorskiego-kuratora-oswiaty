@@ -19,6 +19,16 @@ tylko rozpoznać fakt. Ryzyko błędu rośnie w dwóch miejscach: przy czasownik
   *What is she like?* (charakter) / *What does she look like?* (wygląd).
 - W pytaniach z **NIE** podkreśl sobie przeczenie w poleceniu, zanim zaczniesz czytać opcje.
 
+**Spis treści**
+
+- [Reagowanie na podziękowania, przeprosiny i nowiny](#reagowanie-na-podziękowania-przeprosiny-i-nowiny)
+- [Propozycje, zaproszenia, przyjmowanie i odmowa](#propozycje-zaproszenia-przyjmowanie-i-odmowa)
+- [Zakupy, usługi, podróż, pytanie o informacje](#zakupy-usługi-podróż-pytanie-o-informacje)
+- [Prośby, oferowanie i uzyskiwanie pomocy](#prośby-oferowanie-i-uzyskiwanie-pomocy)
+- [Opinie, rady, zgoda i niezgoda, wyrażanie emocji](#opinie-rady-zgoda-i-niezgoda-wyrażanie-emocji)
+- [„Czego NIE powiesz / NIE usłyszysz” — pytania z przeczeniem](#czego-nie-powiesz--nie-usłyszysz--pytania-z-przeczeniem)
+- [Klucz odpowiedzi](#klucz-odpowiedzi)
+
 ---
 
 ## Reagowanie na podziękowania, przeprosiny i nowiny

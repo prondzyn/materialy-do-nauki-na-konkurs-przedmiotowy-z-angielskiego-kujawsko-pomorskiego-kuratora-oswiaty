@@ -19,6 +19,30 @@ fragmentów (2019/20, 2020/21), 10 mini-dialogów (2018/19) — razem **85 pozyc
 - **Sens nie może się zmienić.** Przeczenie zostaje przeczeniem, czas zostaje ten sam
   (chyba że struktura wymusza zmianę, jak *last saw* → *haven't seen*).
 
+**Spis treści**
+
+- [Transformacje ze słowem kluczem](#transformacje-ze-słowem-kluczem)
+  - [1. let / make / allow](#1-let--make--allow)
+  - [2. Czasowniki z przyimkiem i wyrażenia stałe](#2-czasowniki-z-przyimkiem-i-wyrażenia-stałe)
+  - [3. Czasowniki modalne: zakaz, brak konieczności, umiejętność, przypuszczenie](#3-czasowniki-modalne-zakaz-brak-konieczności-umiejętność-przypuszczenie)
+  - [4. Past Simple → Present Perfect (for / since)](#4-past-simple--present-perfect-for--since)
+  - [5. Stopniowanie i określenia ilości](#5-stopniowanie-i-określenia-ilości)
+  - [6. too / enough, so / such](#6-too--enough-so--such)
+  - [7. Strona bierna](#7-strona-bierna)
+  - [8. Zdania warunkowe](#8-zdania-warunkowe)
+  - [9. Propozycje i prośby](#9-propozycje-i-prośby)
+  - [10. Konstrukcje specjalne](#10-konstrukcje-specjalne)
+- [Tłumaczenie fragmentów (starsze arkusze)](#tłumaczenie-fragmentów-starsze-arkusze)
+  - [Wiek i opis osoby](#wiek-i-opis-osoby)
+  - [Wyrażenia stałe](#wyrażenia-stałe)
+  - [Czasy](#czasy)
+  - [Czasowniki z przyimkiem i upodobania](#czasowniki-z-przyimkiem-i-upodobania)
+  - [Porównania](#porównania)
+  - [Modalne i warunkowe](#modalne-i-warunkowe)
+- [Mini-dialogi z podanymi wyrazami](#mini-dialogi-z-podanymi-wyrazami)
+- [Klucz odpowiedzi](#klucz-odpowiedzi)
+- [Ściąga struktur](#ściąga-struktur)
+
 ---
 
 ## Transformacje ze słowem kluczem

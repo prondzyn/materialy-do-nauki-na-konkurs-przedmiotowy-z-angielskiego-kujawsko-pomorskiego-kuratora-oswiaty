@@ -22,6 +22,16 @@ Najwięcej punktów traci się na pytaniach o podmiot i na pytaniach z przyimkie
 4. Zamieniaj osoby tak, jakbyś zadawał pytanie rozmówcy: *I → you*, *my → your*, *we → you*
    (klucze często dopuszczają też formę bez zamiany).
 
+**Spis treści**
+
+- [A. Miejsce, czas, wiek, sposób (Where / When / What time / How old / How long / How fast)](#a-miejsce-czas-wiek-sposób-where--when--what-time--how-old--how-long--how-fast)
+- [B. Dopełnienie w czasach prostych (do / does / did)](#b-dopełnienie-w-czasach-prostych-do--does--did)
+- [C. Dopełnienie w czasach złożonych i z czasownikami modalnymi](#c-dopełnienie-w-czasach-złożonych-i-z-czasownikami-modalnymi)
+- [D. Pytania z przyimkiem na końcu](#d-pytania-z-przyimkiem-na-końcu)
+- [E. Pytania o podmiot (bez do / does / did)](#e-pytania-o-podmiot-bez-do--does--did)
+- [F. Pytania o czynność (What … do?) oraz Why / Whose](#f-pytania-o-czynność-what--do-oraz-why--whose)
+- [Klucz odpowiedzi](#klucz-odpowiedzi)
+
 ---
 
 ## A. Miejsce, czas, wiek, sposób (Where / When / What time / How old / How long / How fast)

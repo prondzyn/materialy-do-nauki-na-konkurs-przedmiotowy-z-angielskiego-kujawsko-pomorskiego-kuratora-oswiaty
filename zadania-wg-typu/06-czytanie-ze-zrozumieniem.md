@@ -19,6 +19,20 @@ wiadomo, ile czasu zostało.
 4. W pytaniach a/b/c/d odpowiedź prawie zawsze jest **parafrazą** tekstu (*hop-on hop-off* →
    *get on and off in different places*), a dystraktory powtarzają słowa z tekstu w złym kontekście.
 
+**Spis treści**
+
+- [Pytania a/b/c/d do tekstu](#pytania-abcd-do-tekstu)
+  - [1. Unforgettable train trips *(2025/26, zad. 1)*](#1-unforgettable-train-trips-202526-zad-1)
+- [Uzupełnianie luk w tekście po polsku](#uzupełnianie-luk-w-tekście-po-polsku)
+  - [2. Would you like to be my friend? *(2018/19, zad. 1)*](#2-would-you-like-to-be-my-friend-201819-zad-1)
+- [Luki — fragmenty zdań](#luki--fragmenty-zdań)
+  - [3. Colombian Lord of Books *(2022/23, zad. 1)*](#3-colombian-lord-of-books-202223-zad-1)
+- [Luki — całe zdania](#luki--całe-zdania)
+  - [4. Social media and FOMO *(2019/20, zad. 1)*](#4-social-media-and-fomo-201920-zad-1)
+  - [5. Start-up helps fight mosquitoes *(2023/24, zad. 1)*](#5-start-up-helps-fight-mosquitoes-202324-zad-1)
+  - [6. Sir Alexander Fleming and the accident that changed modern medicine *(2024/25, zad. 1)*](#6-sir-alexander-fleming-and-the-accident-that-changed-modern-medicine-202425-zad-1)
+- [Klucz odpowiedzi](#klucz-odpowiedzi)
+
 ---
 
 ## Pytania a/b/c/d do tekstu

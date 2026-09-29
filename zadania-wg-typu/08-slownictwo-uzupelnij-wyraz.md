@@ -17,6 +17,17 @@ zad. 4 = **15 pkt** (w latach 2022/23–2024/25 było za 10 pkt).
 - Po wpisaniu porównaj każdą literę z literami pomocniczymi. Muszą stać dokładnie na swoich miejscach.
 - Pisz drukowanymi literami, czytelnie. Nieczytelna litera liczy się jak błąd.
 
+**Spis treści**
+
+- [Dom i przedmioty codzienne](#dom-i-przedmioty-codzienne)
+- [Jedzenie, zakupy, restauracja](#jedzenie-zakupy-restauracja)
+- [Ludzie, rodzina, relacje, wygląd](#ludzie-rodzina-relacje-wygląd)
+- [Zawody, szkoła, praca, media](#zawody-szkoła-praca-media)
+- [Sport, podróże, przyroda, miasto](#sport-podróże-przyroda-miasto)
+- [Wyrażenia, słowa abstrakcyjne i funkcyjne](#wyrażenia-słowa-abstrakcyjne-i-funkcyjne)
+- [Klucz odpowiedzi](#klucz-odpowiedzi)
+- [Pułapki ortograficzne](#pułapki-ortograficzne)
+
 ---
 
 ## Dom i przedmioty codzienne

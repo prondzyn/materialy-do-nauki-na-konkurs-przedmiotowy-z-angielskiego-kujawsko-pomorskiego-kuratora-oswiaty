@@ -21,6 +21,30 @@ ten typ trzeba przerobić **przed** konkursem. Pytania i motywy często się pow
 - Symbole narodowe: Anglia — róża, Szkocja — oset (*thistle*), Walia — por i żonkil (*leek, daffodil*),
   Irlandia — koniczyna (*shamrock*).
 
+**Spis treści**
+
+- [Wielka Brytania — rodzina królewska i monarchia](#wielka-brytania--rodzina-królewska-i-monarchia)
+- [USA — historia i polityka](#usa--historia-i-polityka)
+- [Wielka Brytania — geografia, symbole narodowe, jednostki](#wielka-brytania--geografia-symbole-narodowe-jednostki)
+- [Wielka Brytania — kultura: film, muzyka, literatura, sztuka, jedzenie](#wielka-brytania--kultura-film-muzyka-literatura-sztuka-jedzenie)
+- [USA — geografia, symbole, popkultura](#usa--geografia-symbole-popkultura)
+- [Wielka Brytania — historia i polityka](#wielka-brytania--historia-i-polityka)
+- [Inne kraje anglojęzyczne — Kanada, Australia, Nowa Zelandia](#inne-kraje-anglojęzyczne--kanada-australia-nowa-zelandia)
+- [Irlandia](#irlandia)
+- [Różne — święta i daty](#różne--święta-i-daty)
+- [Powtarzające się motywy](#powtarzające-się-motywy)
+- [Klucz odpowiedzi](#klucz-odpowiedzi)
+- [Ściąga — najważniejsze fakty](#ściąga--najważniejsze-fakty)
+  - [Kto teraz rządzi](#kto-teraz-rządzi)
+  - [Kto był w ostatnich latach](#kto-był-w-ostatnich-latach)
+  - [Rodzina królewska (poz. 1–12)](#rodzina-królewska-poz-112)
+  - [USA — historia i polityka (poz. 13–28)](#usa--historia-i-polityka-poz-1328)
+  - [USA — geografia, symbole, popkultura (poz. 53–62)](#usa--geografia-symbole-popkultura-poz-5362)
+  - [Wielka Brytania — kraje, symbole, geografia (poz. 29–41)](#wielka-brytania--kraje-symbole-geografia-poz-2941)
+  - [Wielka Brytania — kultura (poz. 42–52)](#wielka-brytania--kultura-poz-4252)
+  - [Wielka Brytania — historia i legendy (poz. 63–69)](#wielka-brytania--historia-i-legendy-poz-6369)
+  - [Inne kraje i święta (poz. 72–79)](#inne-kraje-i-święta-poz-7279)
+
 ---
 
 ## Wielka Brytania — rodzina królewska i monarchia

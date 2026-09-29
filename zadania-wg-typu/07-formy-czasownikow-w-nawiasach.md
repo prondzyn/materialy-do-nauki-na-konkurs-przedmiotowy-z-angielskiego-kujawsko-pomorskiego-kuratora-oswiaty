@@ -18,6 +18,17 @@ Zadanie trwa krócej niż transformacje, ale błędów robi się tu dużo, bo lu
 - Po wpisaniu przeczytaj całe zdanie jeszcze raz, razem z tym, co stoi przed luką i za nią.
   Nie powtarzaj podmiotu, który już jest wydrukowany.
 
+**Spis treści**
+
+- [Past Simple i Past Continuous](#past-simple-i-past-continuous)
+- [Present Perfect i Present Perfect Continuous](#present-perfect-i-present-perfect-continuous)
+- [Pytania z przysłówkami (ever, always)](#pytania-z-przysłówkami-ever-always)
+- [First conditional / unless](#first-conditional--unless)
+- [Strona bierna (w przeszłości i z czasownikiem modalnym)](#strona-bierna-w-przeszłości-i-z-czasownikiem-modalnym)
+- [Stopniowanie i mowa zależna](#stopniowanie-i-mowa-zależna)
+- [Najczęstsze pułapki (ściąga)](#najczęstsze-pułapki-ściąga)
+- [Klucz odpowiedzi](#klucz-odpowiedzi)
+
 ---
 
 ## Past Simple i Past Continuous

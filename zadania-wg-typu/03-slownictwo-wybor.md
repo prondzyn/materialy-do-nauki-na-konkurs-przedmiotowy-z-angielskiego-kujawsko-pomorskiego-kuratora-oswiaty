@@ -17,6 +17,15 @@ z dwóch) = **10 pkt**. Starsze zadania a/b/c/d i dopasowanie definicji są mate
 - Pary mylone ze ściągi na końcu pliku przepisz do zeszytu błędów i powtarzaj — wracają co roku
   (*factory* było w 2023/24 i 2025/26, *receipt/prescription* w czterech arkuszach).
 
+**Spis treści**
+
+- [A. Dopasowanie definicji](#a-dopasowanie-definicji)
+- [B. Słownictwo tematyczne (a/b/c/d)](#b-słownictwo-tematyczne-abcd)
+- [C. Kolokacje, idiomy i stałe zwroty](#c-kolokacje-idiomy-i-stałe-zwroty)
+- [D. Pary mylone](#d-pary-mylone)
+- [Pary mylone — ściąga](#pary-mylone--ściąga)
+- [Klucz odpowiedzi](#klucz-odpowiedzi)
+
 ---
 
 ## A. Dopasowanie definicji
