@@ -25,19 +25,19 @@ Zadanie trwa krócej niż transformacje, ale błędów robi się tu dużo, bo lu
 Zakończona czynność w przeszłości albo czynność w trakcie, którą coś przerwało (*while*, *when*).
 
 1. He ________ (fall) off his bike but luckily escaped unhurt. *(2025/26, zad. 7.1)*
-   <details><summary>odpowiedź</summary>fell</details>
+   <details><summary>odpowiedź</summary>fell</details><br>
 2. The floor was so slippery that he ________ (fall) down and twisted his ankle. *(2022/23, zad. 7.5)*
-   <details><summary>odpowiedź</summary>fell</details>
+   <details><summary>odpowiedź</summary>fell</details><br>
 3. Sadly, she ________ (not/do) her biology homework yesterday. *(2024/25, zad. 7.3)*
-   <details><summary>odpowiedź</summary>did not do / didn't do</details>
+   <details><summary>odpowiedź</summary>did not do / didn't do</details><br>
 4. I'm afraid you ________ (not/do) your best in the exam. You got really low marks. *(2023/24, zad. 7.3)*
-   <details><summary>odpowiedź</summary>didn't do / haven't done</details>
+   <details><summary>odpowiedź</summary>didn't do / haven't done</details><br>
 5. Where ________ (you, go) when I saw you last night? *(2025/26, zad. 7.3)*
-   <details><summary>odpowiedź</summary>were you going</details>
+   <details><summary>odpowiedź</summary>were you going</details><br>
 6. While we ________ (work) the kitchen when somebody knocked on the door. *(2024/25, zad. 7.2)*
-   <details><summary>odpowiedź</summary>were working ⚠ w oryginale zdanie jest niegramatyczne (<i>While we … the kitchen when…</i>: brakuje <i>in</i>, a <i>while</i> i <i>when</i> stoją w tym samym zdaniu). Liczy się forma w luce.</details>
+   <details><summary>odpowiedź</summary>were working ⚠ w oryginale zdanie jest niegramatyczne (<i>While we … the kitchen when…</i>: brakuje <i>in</i>, a <i>while</i> i <i>when</i> stoją w tym samym zdaniu). Liczy się forma w luce.</details><br>
 7. We spent a great day on the beach yesterday. I was lying on the sand while my mum ________ (swim) in the sea. *(2023/24, zad. 7.2)*
-   <details><summary>odpowiedź</summary>was swimming</details>
+   <details><summary>odpowiedź</summary>was swimming</details><br>
 8. What ________ (you / do) while he was making the dessert? *(2022/23, zad. 7.2)*
    <details><summary>odpowiedź</summary>were you doing / did you do</details>
 
@@ -46,13 +46,13 @@ Zakończona czynność w przeszłości albo czynność w trakcie, którą coś p
 Doświadczenie (*never*), czynność trwająca do teraz (*for/since*, *now*) albo widoczny skutek (*Her hands are so dirty*).
 
 9. I ________ (never, make) any breakfast for my parents. They are disappointed with it. *(2025/26, zad. 7.4)*
-   <details><summary>odpowiedź</summary>have never made ⚠ w kluczu podano „I have never made”, ale <i>I</i> jest wydrukowane przed luką, więc wpisujemy samo „have never made”.</details>
+   <details><summary>odpowiedź</summary>have never made ⚠ w kluczu podano „I have never made”, ale <i>I</i> jest wydrukowane przed luką, więc wpisujemy samo „have never made”.</details><br>
 10. George ________ (not / see) his puppy for two weeks now. *(2022/23, zad. 7.3)*
-    <details><summary>odpowiedź</summary>hasn't seen / has not seen</details>
+    <details><summary>odpowiedź</summary>hasn't seen / has not seen</details><br>
 11. I ________ (wait) for you for 20 minutes now! Where are you?! *(2024/25, zad. 7.1)*
-    <details><summary>odpowiedź</summary>have been waiting / 've been waiting</details>
+    <details><summary>odpowiedź</summary>have been waiting / 've been waiting</details><br>
 12. They're tired because they ________ (run) for two hours. They still haven't caught their breath. *(2022/23, zad. 7.4)*
-    <details><summary>odpowiedź</summary>have been running / 've been running</details>
+    <details><summary>odpowiedź</summary>have been running / 've been running</details><br>
 13. She ________ (work) in the garden again! Her hands are so dirty. *(2023/24, zad. 7.4)*
     <details><summary>odpowiedź</summary>has been working / has worked</details>
 
@@ -61,11 +61,11 @@ Doświadczenie (*never*), czynność trwająca do teraz (*for/since*, *now*) alb
 Tu trzeba złożyć pytanie w poprawnym szyku: operator, podmiot, przysłówek, czasownik.
 
 14. ________ (they, ever, fight) such a hard battle before? *(2025/26, zad. 7.2)*
-    <details><summary>odpowiedź</summary>Have they ever fought</details>
+    <details><summary>odpowiedź</summary>Have they ever fought</details><br>
 15. ________ (your twin sister/ever/see) a waterfall? You should know that! *(2024/25, zad. 7.4)*
-    <details><summary>odpowiedź</summary>Has your twin sister ever seen</details>
+    <details><summary>odpowiedź</summary>Has your twin sister ever seen</details><br>
 16. ________ (you/ever/eat) snails? They are disgusting! *(2023/24, zad. 7.5)*
-    <details><summary>odpowiedź</summary>Have you ever eaten</details>
+    <details><summary>odpowiedź</summary>Have you ever eaten</details><br>
 17. ________ (she, always, tell) her friends what to do in complicated situations? *(2025/26, zad. 7.5)*
     <details><summary>odpowiedź</summary>Does she always tell / Is she always telling</details>
 
@@ -74,11 +74,11 @@ Tu trzeba złożyć pytanie w poprawnym szyku: operator, podmiot, przysłówek, 
 W zdaniu z *if/unless* stoi czas teraźniejszy, a w drugiej części *will*. W 3. osobie trzeba dodać **-s**.
 
 18. If he ________ (talk) to his teacher tomorrow, Mr. Smithson will let him retake the test. *(2022/23, zad. 7.1)*
-    <details><summary>odpowiedź</summary>talks</details>
+    <details><summary>odpowiedź</summary>talks</details><br>
 19. Unless she ________ (help) me with the cooking, I will not make any dinner today. *(2023/24, zad. 7.1)*
-    <details><summary>odpowiedź</summary>helps</details>
+    <details><summary>odpowiedź</summary>helps</details><br>
 20. Unless Jane ________ (apologise) to my best friend, I will not visit her soon. *(2024/25, zad. 7.5)*
-    <details><summary>odpowiedź</summary>apologises</details>
+    <details><summary>odpowiedź</summary>apologises</details><br>
 21. I won't talk to her ________ (unless/she/apologise) for her behaviour. *(2025/26, zad. 7.9)*
     <details><summary>odpowiedź</summary>unless she apologises</details>
 
@@ -87,7 +87,7 @@ W zdaniu z *if/unless* stoi czas teraźniejszy, a w drugiej części *will*. W 3
 Na zasadzie *be* w odpowiedniej formie + III forma. Nieregularną III formę trzeba znać na pamięć.
 
 22. I'm sure that my old bike ________ (not/steal) by Tom last night. *(2025/26, zad. 7.7)*
-    <details><summary>odpowiedź</summary>wasn't stolen / was not stolen</details>
+    <details><summary>odpowiedź</summary>wasn't stolen / was not stolen</details><br>
 23. This project ________ (must/prepare) today, don't you think? *(2025/26, zad. 7.10)*
     <details><summary>odpowiedź</summary>must be prepared</details>
 
@@ -96,7 +96,7 @@ Na zasadzie *be* w odpowiedniej formie + III forma. Nieregularną III formę trz
 W nawiasie nie zawsze jest czasownik. Od 2025/26 w zadaniu pojawiają się też inne struktury.
 
 24. I think flying a plane is ________ (demanding/than) driving a car. *(2025/26, zad. 7.6)*
-    <details><summary>odpowiedź</summary>more demanding than</details>
+    <details><summary>odpowiedź</summary>more demanding than</details><br>
 25. During the interview they asked me if ________ (I/can) speak Italian. *(2025/26, zad. 7.8)*
     <details><summary>odpowiedź</summary>I could / I can (w mowie zależnej standardowo <i>I could</i>)</details>
 

@@ -86,30 +86,30 @@ colourful artistic city known for its urban artworks, installations and performa
 jednego miasta, tak jest w oryginale arkusza).*
 
 1. What significant event happened in Darlington on 27 September 1825?
-   a) The first electric train was built
-   b) The first public passenger train journey took place
-   c) The first high-speed train was launched
-   d) The first railway museum was created
+   - a) The first electric train was built
+   - b) The first public passenger train journey took place
+   - c) The first high-speed train was launched
+   - d) The first railway museum was created
 2. Why is "Mr Henderson's Railway" in Spain also called a time capsule?
-   a) It has old-fashioned wooden carriages
-   b) It was filled with bandits
-   c) It still operates with steam engines
-   d) It reflects a moment in British and Spanish history
+   - a) It has old-fashioned wooden carriages
+   - b) It was filled with bandits
+   - c) It still operates with steam engines
+   - d) It reflects a moment in British and Spanish history
 3. What is so special about the Baltic Express train in Central Europe?
-   a) It only stops in major cities
-   b) It is the oldest train in the region
-   c) It allows passengers to get on and off in different places
-   d) It only runs during the summer months
+   - a) It only stops in major cities
+   - b) It is the oldest train in the region
+   - c) It allows passengers to get on and off in different places
+   - d) It only runs during the summer months
 4. Why is Japan's Shinkansen train famous?
-   a) It offers the cheapest train tickets in Japan
-   b) It was the first high-speed rail line and is very punctual
-   c) It is the only train in Japan with luxury cabins
-   d) It allows the Japanese to travel to other countries
+   - a) It offers the cheapest train tickets in Japan
+   - b) It was the first high-speed rail line and is very punctual
+   - c) It is the only train in Japan with luxury cabins
+   - d) It allows the Japanese to travel to other countries
 5. What makes the Vouga Historical Train ride in Portugal one-of-a-kind?
-   a) It travels through cities only at night
-   b) It is Portugal's only remaining narrow-gauge railway
-   c) It stops at castles and palaces
-   d) It uses modern electric engines and glass carriages
+   - a) It travels through cities only at night
+   - b) It is Portugal's only remaining narrow-gauge railway
+   - c) It stops at castles and palaces
+   - d) It uses modern electric engines and glass carriages
 
 **Odpowiedzi** (kliknij numer luki/pytania):
 

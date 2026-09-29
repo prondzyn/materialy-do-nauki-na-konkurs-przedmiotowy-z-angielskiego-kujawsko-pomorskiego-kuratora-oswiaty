@@ -29,10 +29,10 @@ Wzór: `allow sb to do` → `let sb do` (bez *to*); `make sb do` → `sb was mad
 
 1. My parents allowed me to go out very late last night. — **LET**
    → My parents ________ very late last night. *(2025/26, zad. 5.1)*
-   <details><summary>odpowiedź</summary>let me go out</details>
+   <details><summary>odpowiedź</summary>let me go out</details><br>
 2. They allowed the students to use a calculator. — **LET**
    → They ________ a calculator. *(2023/24, zad. 5.7)*
-   <details><summary>odpowiedź</summary>let the students use</details>
+   <details><summary>odpowiedź</summary>let the students use</details><br>
 3. They made me prepare the presentation on the topic I don't like. — **WAS**
    → I ________ the presentation on the topic I don't like. *(2024/25, zad. 5.8)*
    <details><summary>odpowiedź</summary>was made to prepare / was forced to prepare</details>
@@ -43,31 +43,31 @@ Wzór: znane połączenia — `belong to`, `be keen on`, `be interested in`, `ea
 
 4. Is it Rob's stapler? — **BELONG**
    → ________ Rob? *(2018/19, zad. 5.1)*
-   <details><summary>odpowiedź</summary>Does this stapler belong to</details>
+   <details><summary>odpowiedź</summary>Does this stapler belong to</details><br>
 5. Is this Bartek's sharpener? — **TO**
    → Does ________ Bartek? *(2022/23, zad. 5.2)*
-   <details><summary>odpowiedź</summary>this sharpener belong to / the sharpener belong to / it belong to</details>
+   <details><summary>odpowiedź</summary>this sharpener belong to / the sharpener belong to / it belong to</details><br>
 6. Do you like watching comedies? — **KEEN**
    → ________ watching comedies? *(2018/19, zad. 5.2)*
-   <details><summary>odpowiedź</summary>Are you keen on</details>
+   <details><summary>odpowiedź</summary>Are you keen on</details><br>
 7. Kate's into hockey. — **IN**
    → Kate ________ hockey. *(2018/19, zad. 5.9)*
-   <details><summary>odpowiedź</summary>is interested in</details>
+   <details><summary>odpowiedź</summary>is interested in</details><br>
 8. Tom's in love with Sue and Sue's in love with Tom. — **OTHER**
    → They love ________ . *(2018/19, zad. 5.10)*
-   <details><summary>odpowiedź</summary>each other</details>
+   <details><summary>odpowiedź</summary>each other</details><br>
 9. I learned about his problems last night. — **OUT**
    → I ________ problems last night. *(2025/26, zad. 5.5)*
-   <details><summary>odpowiedź</summary>found out about his</details>
+   <details><summary>odpowiedź</summary>found out about his</details><br>
 10. I didn't know how to do the chemistry task. — **DEAL**
     → I didn't know ________ the chemistry task. *(2018/19, zad. 5.5)*
-    <details><summary>odpowiedź</summary>how to deal with</details>
+    <details><summary>odpowiedź</summary>how to deal with</details><br>
 11. Peter: 'I'm sorry I stole the bag.' — **FOR**
     → Peter ________ bag. *(2023/24, zad. 5.1)*
-    <details><summary>odpowiedź</summary>apologised for stealing the / apologized for stealing the / said sorry for stealing the</details>
+    <details><summary>odpowiedź</summary>apologised for stealing the / apologized for stealing the / said sorry for stealing the</details><br>
 12. Monica: "Congratulations! You've got the license!" — **ON**
     → Monica ________ the license. *(2022/23, zad. 5.1)*
-    <details><summary>odpowiedź</summary>congratulated me on getting / has congratulated me on getting — ⚠ klucz zapisuje „(has) congratulated (me) on getting”, czyli dopuszcza pominięcie <i>me</i>; poprawnie po angielsku <i>congratulate <b>sb</b> on</i> — lepiej zawsze wpisywać <i>me</i>.</details>
+    <details><summary>odpowiedź</summary>congratulated me on getting / has congratulated me on getting — ⚠ klucz zapisuje „(has) congratulated (me) on getting”, czyli dopuszcza pominięcie <i>me</i>; poprawnie po angielsku <i>congratulate <b>sb</b> on</i> — lepiej zawsze wpisywać <i>me</i>.</details><br>
 13. I find people who drop litter very annoying. — **BY**
     → I ________ people who drop litter. *(2022/23, zad. 5.4)*
     <details><summary>odpowiedź</summary>am very annoyed by / get very annoyed by — ⚠ wersja bez <i>very</i> nie jest w kluczu wymieniona; bezpieczniej wpisać z <i>very</i>, bo zdanie wyjściowe ma <i>very annoying</i>.</details>
@@ -78,28 +78,28 @@ Wzór: `aren't allowed to` / `it is forbidden to` ↔ `mustn't`; `it isn't neces
 
 14. You aren't allowed to bring animals to the museum. — **MUST**
     → You ________ animals to the museum. *(2022/23, zad. 5.5)*
-    <details><summary>odpowiedź</summary>must not bring / mustn't bring</details>
+    <details><summary>odpowiedź</summary>must not bring / mustn't bring</details><br>
 15. You aren't allowed to take photos inside the cave. — **MUST**
     → You ________ photos inside the cave. *(2018/19, zad. 5.3)*
-    <details><summary>odpowiedź</summary>must not take / mustn't take</details>
+    <details><summary>odpowiedź</summary>must not take / mustn't take</details><br>
 16. It is forbidden to feed animals in the zoo. — **MUSTN'T**
     → You ________ the zoo. *(2023/24, zad. 5.2)*
-    <details><summary>odpowiedź</summary>mustn't feed animals in / must not feed animals in</details>
+    <details><summary>odpowiedź</summary>mustn't feed animals in / must not feed animals in</details><br>
 17. You mustn't talk in the exam room. — **FORBIDDEN**
     → It ________ in the exam room. *(2024/25, zad. 5.7)*
-    <details><summary>odpowiedź</summary>is forbidden to talk</details>
+    <details><summary>odpowiedź</summary>is forbidden to talk</details><br>
 18. It isn't necessary to pay at once. — **NEED**
     → You ________ at once. *(2024/25, zad. 5.4)*
-    <details><summary>odpowiedź</summary>don't need to pay</details>
+    <details><summary>odpowiedź</summary>don't need to pay</details><br>
 19. Is it really necessary to go there so early? — **HAVE**
     → Do you ________ there so early? *(2023/24, zad. 5.9)*
-    <details><summary>odpowiedź</summary>have to go / really have to go</details>
+    <details><summary>odpowiedź</summary>have to go / really have to go</details><br>
 20. Could you read when you were five? — **TO**
     → Were ________ read when you were five? *(2022/23, zad. 5.8)*
-    <details><summary>odpowiedź</summary>you able to</details>
+    <details><summary>odpowiedź</summary>you able to</details><br>
 21. Could you read when you were 5? — **TO**
     → Were ________ read when you were 5? *(2018/19, zad. 5.6)*
-    <details><summary>odpowiedź</summary>you able to</details>
+    <details><summary>odpowiedź</summary>you able to</details><br>
 22. I'm sure they are siblings. They look so alike. — **MUST**
     → They ________. They look so alike. *(2025/26, zad. 5.8)*
     <details><summary>odpowiedź</summary>must be siblings</details>
@@ -110,16 +110,16 @@ Wzór: `I last saw X … ago` / `The last time I … was … ago` / `It's been �
 
 23. I last saw my best friend three years ago. — **HAVE**
     → I ________ friend for three years. *(2025/26, zad. 5.3)*
-    <details><summary>odpowiedź</summary>have not seen my best / haven't seen my best</details>
+    <details><summary>odpowiedź</summary>have not seen my best / haven't seen my best</details><br>
 24. The last time I visited France was five years ago. — **FOR**
     → I ________ five years. *(2023/24, zad. 5.5)*
-    <details><summary>odpowiedź</summary>have not visited France for / haven't visited France for</details>
+    <details><summary>odpowiedź</summary>have not visited France for / haven't visited France for</details><br>
 25. It's been a long time since I saw my sister. — **NOT**
     → I ________ my sister for a long time. *(2022/23, zad. 5.9)*
-    <details><summary>odpowiedź</summary>have not seen / haven't seen</details>
+    <details><summary>odpowiedź</summary>have not seen / haven't seen</details><br>
 26. I last saw Tom in January. — **SINCE**
     → I ________ January. *(2018/19, zad. 5.8)*
-    <details><summary>odpowiedź</summary>haven't seen Tom since</details>
+    <details><summary>odpowiedź</summary>haven't seen Tom since</details><br>
 27. They got married five years ago. — *(bez słowa-klucza, max 4 wyrazy)*
     → They ________ five years. *(2020/21, zad. 6.1)*
     <details><summary>odpowiedź</summary>have been married for</details>
@@ -130,13 +130,13 @@ Wzór: `never … a better … than this` → `the best … I have ever …`; `n
 
 28. I have never read a better book than this one. — **EVER**
     → This is the ________ read. *(2025/26, zad. 5.2)*
-    <details><summary>odpowiedź</summary>best book I have ever / best book I've ever</details>
+    <details><summary>odpowiedź</summary>best book I have ever / best book I've ever</details><br>
 29. Nobody in the class runs as fast as Ben. — **RUNNER**
     → Ben ________ in the class. *(2025/26, zad. 5.9)*
-    <details><summary>odpowiedź</summary>is the fastest runner</details>
+    <details><summary>odpowiedź</summary>is the fastest runner</details><br>
 30. There are only a few musicians who are able to play this musical piece. — **MANY**
     → There ________ who are able to play this musical piece. *(2024/25, zad. 5.9)*
-    <details><summary>odpowiedź</summary>are not many musicians / aren't many musicians</details>
+    <details><summary>odpowiedź</summary>are not many musicians / aren't many musicians</details><br>
 31. We didn't have any milk at home. — **NO**
     → There ________ left at home. *(2022/23, zad. 5.3)*
     <details><summary>odpowiedź</summary>was no milk</details>
@@ -147,10 +147,10 @@ Wzór: `too + adj + to` → `not + adj (przeciwny) + enough + to`; `so + adj + t
 
 32. He is definitely too weak to lift this suitcase. — **ENOUGH**
     → He ________ lift this suitcase. *(2025/26, zad. 5.10)*
-    <details><summary>odpowiedź</summary>is not strong enough to / isn't strong enough to</details>
+    <details><summary>odpowiedź</summary>is not strong enough to / isn't strong enough to</details><br>
 33. Mary is too young to drink alcohol. — **ENOUGH**
     → Mary ________ drink alcohol. *(2023/24, zad. 5.6)*
-    <details><summary>odpowiedź</summary>is not old enough to / isn't old enough to</details>
+    <details><summary>odpowiedź</summary>is not old enough to / isn't old enough to</details><br>
 34. The exam was so challenging that I almost failed. — **SUCH**
     → It was ________ exam that I almost failed. *(2022/23, zad. 5.7)*
     <details><summary>odpowiedź</summary>such a challenging</details>
@@ -161,19 +161,19 @@ Wzór: `They produce X` → `X is/are produced`; `They should stop X` → `X sho
 
 35. They produce these engines in Germany. — **ARE**
     → These engines ________ in Germany. *(2018/19, zad. 5.7)*
-    <details><summary>odpowiedź</summary>are produced</details>
+    <details><summary>odpowiedź</summary>are produced</details><br>
 36. Thousands of people sing this song. — *(bez słowa-klucza, max 4 wyrazy)*
     → This ________ thousands of people. *(2020/21, zad. 6.2)*
-    <details><summary>odpowiedź</summary>song is sung by</details>
+    <details><summary>odpowiedź</summary>song is sung by</details><br>
 37. They should stop crime in this area. — **BE**
     → Crime in this area ________ *(2025/26, zad. 5.7)*
-    <details><summary>odpowiedź</summary>should be stopped</details>
+    <details><summary>odpowiedź</summary>should be stopped</details><br>
 38. We should stop football hooligans at last. — **BE**
     → Football ________ at last. *(2024/25, zad. 5.2)*
-    <details><summary>odpowiedź</summary>hooligans should be stopped</details>
+    <details><summary>odpowiedź</summary>hooligans should be stopped</details><br>
 39. The judge should fine the offender. — **BY**
     → The offender ________ the judge. *(2023/24, zad. 5.3)*
-    <details><summary>odpowiedź</summary>should be fined by</details>
+    <details><summary>odpowiedź</summary>should be fined by</details><br>
 40. The Prime Minister is going to give a speech tomorrow. — **BE**
     → A speech is going ________ by the Prime Minister tomorrow. *(2022/23, zad. 5.10)*
     <details><summary>odpowiedź</summary>to be given</details>
@@ -184,19 +184,19 @@ Wzór: rada/ostrzeżenie → 1. tryb (`If you go …, you will …`); fakt ogól
 
 41. Don't go there, or you'll regret it. — *(bez słowa-klucza, max 4 wyrazy)*
     → If ________ will be sorry. *(2020/21, zad. 6.3)*
-    <details><summary>odpowiedź</summary>you go there, you (brak przecinka nie odbiera punktu)</details>
+    <details><summary>odpowiedź</summary>you go there, you (brak przecinka nie odbiera punktu)</details><br>
 42. Teenagers are tired without eight hours of sleep. — **NOT**
     → If teenagers ________ at least eight hours, they are tired. *(2018/19, zad. 5.4)*
-    <details><summary>odpowiedź</summary>do not sleep / don't sleep</details>
+    <details><summary>odpowiedź</summary>do not sleep / don't sleep</details><br>
 43. We don't have a house so we can't keep a pet. — **IF**
     → We could keep a pet ________ . *(2023/24, zad. 5.4)*
-    <details><summary>odpowiedź</summary>if we had a house</details>
+    <details><summary>odpowiedź</summary>if we had a house</details><br>
 44. He never travels abroad alone because he doesn't speak English. — **IF**
     → He would travel abroad alone ________ English. *(2022/23, zad. 5.6)*
-    <details><summary>odpowiedź</summary>if he spoke / if he could speak</details>
+    <details><summary>odpowiedź</summary>if he spoke / if he could speak</details><br>
 45. I'm not the boss of this company so I can't make the important decisions. — **IF**
     → I could make the important decisions ________ of this company. *(2024/25, zad. 5.6)*
-    <details><summary>odpowiedź</summary>if I were the boss / if I was the boss — <i>were</i> to forma bezpieczniejsza (i jedyna w <i>If I were you</i>).</details>
+    <details><summary>odpowiedź</summary>if I were the boss / if I was the boss — <i>were</i> to forma bezpieczniejsza (i jedyna w <i>If I were you</i>).</details><br>
 46. It's not a good idea to tell her the truth. — **WERE**
     → If I ________ tell her the truth. *(2025/26, zad. 5.4)*
     <details><summary>odpowiedź</summary>were you, I wouldn't / were you, I would not</details>
@@ -207,10 +207,10 @@ Wzór: `Would you like me to …?` → `Shall I …?`; `Why don't we …?` → `
 
 47. Would you like me to bring the bag for you? — **SHALL**
     → ________ bag for you? *(2024/25, zad. 5.1)*
-    <details><summary>odpowiedź</summary>Shall I bring the</details>
+    <details><summary>odpowiedź</summary>Shall I bring the</details><br>
 48. Why don't we meet tomorrow at 5 in front of the cafe? — **ABOUT**
     → How ________ at 5 in front of the cafe? *(2024/25, zad. 5.3)*
-    <details><summary>odpowiedź</summary>about meeting tomorrow — ⚠ klucz dopuszcza też „about we meet”, co jest niegramatyczne; do nauki tylko <i>How about + -ing</i>.</details>
+    <details><summary>odpowiedź</summary>about meeting tomorrow — ⚠ klucz dopuszcza też „about we meet”, co jest niegramatyczne; do nauki tylko <i>How about + -ing</i>.</details><br>
 49. Could you close the door? — **MIND**
     → Would ________ the door? *(2023/24, zad. 5.10)*
     <details><summary>odpowiedź</summary>you mind closing</details>
@@ -221,19 +221,19 @@ Wzór: `What are you up to?` → `What are you going to do?`; `be good at -ing` 
 
 50. What are you up to? — *(bez słowa-klucza, max 4 wyrazy)*
     → What ________ to do? *(2020/21, zad. 6.4)*
-    <details><summary>odpowiedź</summary>are you going / are you planning / are you intending</details>
+    <details><summary>odpowiedź</summary>are you going / are you planning / are you intending</details><br>
 51. Amy is good at handling problems. — *(bez słowa-klucza, max 4 wyrazy)*
     → Amy ________ well. *(2020/21, zad. 6.5)*
-    <details><summary>odpowiedź</summary>handles problems / deals with problems / copes with problems / tackles problems</details>
+    <details><summary>odpowiedź</summary>handles problems / deals with problems / copes with problems / tackles problems</details><br>
 52. Speaking French with a good accent is difficult. — **SPEAK**
     → It ________ with a good accent. *(2024/25, zad. 5.5)*
-    <details><summary>odpowiedź</summary>is difficult to speak French</details>
+    <details><summary>odpowiedź</summary>is difficult to speak French</details><br>
 53. I spent five hours learning this poem by heart. — **TOOK**
     → It ________ learn this poem by heart. *(2023/24, zad. 5.8)*
-    <details><summary>odpowiedź</summary>took me five hours to</details>
+    <details><summary>odpowiedź</summary>took me five hours to</details><br>
 54. There was a lot more open space here before they built this metro station. — **USED**
     → There ________ more space here before they built this metro station. *(2025/26, zad. 5.6)*
-    <details><summary>odpowiedź</summary>used to be a lot</details>
+    <details><summary>odpowiedź</summary>used to be a lot</details><br>
 55. This lovely kitten proved to be female, didn't it? — **TURNED**
     → This lovely kitten ________ female, didn't it? *(2024/25, zad. 5.10)*
     <details><summary>odpowiedź</summary>turned out to be</details>
@@ -248,58 +248,58 @@ w luce). Ten typ nie występuje w obecnym formacie, ale ćwiczy dokładnie te sa
 ### Wiek i opis osoby
 
 56. Dorota's brother (ma jedenaście lat) ________. *(2020/21, zad. 8.1)*
-    <details><summary>odpowiedź</summary>is 11 / is eleven / is eleven years old</details>
+    <details><summary>odpowiedź</summary>is 11 / is eleven / is eleven years old</details><br>
 57. My neighbour (nie ma dziesięciu lat) ________ old. *(2019/20, zad. 9.1)*
-    <details><summary>odpowiedź</summary>is not ten years / isn't ten years / is not 10 years / isn't 10 years</details>
+    <details><summary>odpowiedź</summary>is not ten years / isn't ten years / is not 10 years / isn't 10 years</details><br>
 58. (Jaka jest) ________ your friend ________? *(2019/20, zad. 9.4)*
     <details><summary>odpowiedź</summary>What is … like / What's … like</details>
 
 ### Wyrażenia stałe
 
 59. (Z góry dziękuję) ________ for your help. *(2020/21, zad. 8.2)*
-    <details><summary>odpowiedź</summary>Thanks in advance / Thank you in advance</details>
+    <details><summary>odpowiedź</summary>Thanks in advance / Thank you in advance</details><br>
 60. We lost the game! (Jaka szkoda) ________. *(2020/21, zad. 8.5)*
-    <details><summary>odpowiedź</summary>What a pity / What a shame</details>
+    <details><summary>odpowiedź</summary>What a pity / What a shame</details><br>
 61. You can't come to my party? (Jaka szkoda!) ________! *(2019/20, zad. 9.6)*
-    <details><summary>odpowiedź</summary>What a pity / What a shame</details>
+    <details><summary>odpowiedź</summary>What a pity / What a shame</details><br>
 62. (Ile wynosi) ________ the rent? *(2020/21, zad. 8.4)*
-    <details><summary>odpowiedź</summary>How much is / How high is</details>
+    <details><summary>odpowiedź</summary>How much is / How high is</details><br>
 63. (Na zdjęciu) ________ we can see a windmill. *(2020/21, zad. 8.7)*
     <details><summary>odpowiedź</summary>In the photograph / In the photo</details>
 
 ### Czasy
 
 64. (Czy kiedykolwiek jedliście) ________ snails? *(2020/21, zad. 8.6)*
-    <details><summary>odpowiedź</summary>Have you ever eaten</details>
+    <details><summary>odpowiedź</summary>Have you ever eaten</details><br>
 65. (Gdzie byłeś) ________ last weekend? *(2020/21, zad. 8.8)*
-    <details><summary>odpowiedź</summary>Where were you</details>
+    <details><summary>odpowiedź</summary>Where were you</details><br>
 66. Franek (zamierza odwiedzić) ________ his aunt. *(2019/20, zad. 9.2)*
     <details><summary>odpowiedź</summary>is going to visit</details>
 
 ### Czasowniki z przyimkiem i upodobania
 
 67. This lovely dress (należy do mojej siostry) ________. *(2020/21, zad. 8.9)*
-    <details><summary>odpowiedź</summary>belongs to my sister (klucz: „belongs to my”)</details>
+    <details><summary>odpowiedź</summary>belongs to my sister (klucz: „belongs to my”)</details><br>
 68. (Wolę czytanie) ________ books to writing. *(2020/21, zad. 8.10)*
-    <details><summary>odpowiedź</summary>I prefer reading</details>
+    <details><summary>odpowiedź</summary>I prefer reading</details><br>
 69. We (nie interesujemy się) ________ in basketball. *(2019/20, zad. 9.5)*
-    <details><summary>odpowiedź</summary>are not interested / aren't interested</details>
+    <details><summary>odpowiedź</summary>are not interested / aren't interested</details><br>
 70. My sister's mood often (zależy od) ________ the weather. *(2019/20, zad. 9.9)*
-    <details><summary>odpowiedź</summary>depends on</details>
+    <details><summary>odpowiedź</summary>depends on</details><br>
 71. (Wszyscy lubią) ________ meeting with friends. *(2019/20, zad. 9.10)*
     <details><summary>odpowiedź</summary>Everyone likes / Everybody likes / Everyone enjoys / Everybody enjoys (nie: <i>All people</i>)</details>
 
 ### Porównania
 
 72. Your ideas are (tak ciekawe jak) ________ mine. *(2020/21, zad. 8.3)*
-    <details><summary>odpowiedź</summary>as interesting as</details>
+    <details><summary>odpowiedź</summary>as interesting as</details><br>
 73. Travelling by bus was (wygodniejsze niż) ________ going by train. *(2019/20, zad. 9.3)*
     <details><summary>odpowiedź</summary>more comfortable than / comfier than / more comfy than / more convenient than</details>
 
 ### Modalne i warunkowe
 
 74. Oni (nie muszą) ________ do the shopping today. *(2019/20, zad. 9.7)*
-    <details><summary>odpowiedź</summary>do not have to / don't have to / do not need to / don't need to — ⚠ podmiot „Oni” został w zdaniu po polsku, a klucz podaje sam czasownik; bezpiecznie napisać <i>They don't have to</i>.</details>
+    <details><summary>odpowiedź</summary>do not have to / don't have to / do not need to / don't need to — ⚠ podmiot „Oni” został w zdaniu po polsku, a klucz podaje sam czasownik; bezpiecznie napisać <i>They don't have to</i>.</details><br>
 75. (Czy poszlibyście) ________ to the concert if you got the tickets? *(2019/20, zad. 9.8)*
     <details><summary>odpowiedź</summary>Would you go</details>
 
@@ -310,35 +310,35 @@ w luce). Ten typ nie występuje w obecnym formacie, ale ćwiczy dokładnie te sa
 Polecenie (2018/19): użyj wyrazów z nawiasu w odpowiedniej formie, **nie zmieniaj ich kolejności**,
 dodaj brakujące wyrazy; max 5 wyrazów w luce, wliczając podane.
 
-76. A: I'm hungry.
+76. A: I'm hungry.<br>
     B: (Why / have) ________ something to eat? *(2018/19, zad. 10.1)*
-    <details><summary>odpowiedź</summary>Why don't you have</details>
-77. A: Be careful! Do you want to kill me with this hammer?!
+    <details><summary>odpowiedź</summary>Why don't you have</details><br>
+77. A: Be careful! Do you want to kill me with this hammer?!<br>
     B: Sorry, I (not / mean / hurt) ________ you. *(2018/19, zad. 10.2)*
-    <details><summary>odpowiedź</summary>didn't mean to hurt</details>
-78. A: Did you win?
+    <details><summary>odpowiedź</summary>didn't mean to hurt</details><br>
+78. A: Did you win?<br>
     B: No, (I / come / two) ________ . *(2018/19, zad. 10.3)*
-    <details><summary>odpowiedź</summary>I came second</details>
-79. A: Sorry, mum. My team lost the match.
+    <details><summary>odpowiedź</summary>I came second</details><br>
+79. A: Sorry, mum. My team lost the match.<br>
     B: Don't worry, Jimmy. Better (luck / time) ________ then. *(2018/19, zad. 10.4)*
-    <details><summary>odpowiedź</summary>luck next time</details>
-80. A: Have you finished yet?
+    <details><summary>odpowiedź</summary>luck next time</details><br>
+80. A: Have you finished yet?<br>
     B: No, I (not / even / start) ________ it. *(2018/19, zad. 10.5)*
-    <details><summary>odpowiedź</summary>haven't even started</details>
-81. A: Mary, what's your problem. Don't you understand that this material is really important?
+    <details><summary>odpowiedź</summary>haven't even started</details><br>
+81. A: Mary, what's your problem. Don't you understand that this material is really important?<br>
     B: Yes, Miss, but could (/ explain / me) ________ again what the result of the conflict was? *(2018/19, zad. 10.6)*
-    <details><summary>odpowiedź</summary>you explain to me</details>
-82. A: I'm glad the test is over.
-    B: (How / get) ________ on?
+    <details><summary>odpowiedź</summary>you explain to me</details><br>
+82. A: I'm glad the test is over.<br>
+    B: (How / get) ________ on?<br>
     A: Quite OK, I guess. *(2018/19, zad. 10.7)*
-    <details><summary>odpowiedź</summary>How did you get</details>
-83. A: (you / fancy / go) ________ for a walk?
+    <details><summary>odpowiedź</summary>How did you get</details><br>
+83. A: (you / fancy / go) ________ for a walk?<br>
     B: Why not. Give me ten minutes, please. *(2018/19, zad. 10.8)*
-    <details><summary>odpowiedź</summary>Do you fancy going</details>
-84. A: Where's the cinema?
+    <details><summary>odpowiedź</summary>Do you fancy going</details><br>
+84. A: Where's the cinema?<br>
     B: (Go / zebra) ________ crossing and then turn right. *(2018/19, zad. 10.9)*
-    <details><summary>odpowiedź</summary>Go across the zebra</details>
-85. A: Did you talk to him on the phone?
+    <details><summary>odpowiedź</summary>Go across the zebra</details><br>
+85. A: Did you talk to him on the phone?<br>
     B: No, I just heard a voice saying "Please leave (/ message / tone) ________." *(2018/19, zad. 10.10)*
     <details><summary>odpowiedź</summary>a message after the tone / your message after the tone</details>
 

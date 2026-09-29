@@ -24,57 +24,96 @@ typ nie występuje (0 pkt), ale ta sama gramatyka daje 20 pkt w zad. 5 i 7.
 
 Najbardziej przewidywalny podtyp: decyduje sygnał czasu albo typ zdania warunkowego.
 
-1. I can't go to the cinema with you because I ________ my homework yet.
-   A. wasn't finish B. not finished C. haven't finished D. won't be finished *(2021/22, zad. 3.36)*
-   <details><summary>odpowiedź</summary>C — haven't finished</details>
-2. Fiona will have to wait here until it ________ raining.
-   A. will stop B. stops C. has to stop D. stopping *(2021/22, zad. 3.37)*
-   <details><summary>odpowiedź</summary>B — stops</details>
-3. This club is for those over 16. Jamie is only 14, so he ________ here.
-   A. not belonging B. doesn't belong C. don't belong D. isn't belonging *(2021/22, zad. 3.38)*
-   <details><summary>odpowiedź</summary>B — doesn't belong</details>
-4. While I ________ my favourite cereal for breakfast, my phone started ringing.
-   A. had B. was having C. have had D. have *(2021/22, zad. 3.39)*
-   <details><summary>odpowiedź</summary>B — was having</details>
-5. Martha ________ the trumpet for two years now.
-   A. have play B. plays C. is playing D. has played *(2021/22, zad. 3.40)*
-   <details><summary>odpowiedź</summary>D — has played</details>
-6. I last ________ my cute little cat two months ago.
-   A. have seen B. had seen C. saw D. was seeing *(2021/22, zad. 3.41)*
-   <details><summary>odpowiedź</summary>C — saw</details>
-7. The telephone ________ by Graham Bell in 1876.
-   A. invented B. has been invented C. was invented D. was invention *(2021/22, zad. 3.45)*
-   <details><summary>odpowiedź</summary>C — was invented</details>
-8. Don't forget ________ some more low-carb products, Angie.
-   A. to buy B. buying C. and will buy D. about buying *(2021/22, zad. 3.46)*
-   <details><summary>odpowiedź</summary>A — to buy</details>
-9. Tony ________ his lessons until 9:00 on Mondays but this week he ________ his first Monday lesson at 10:30.
-   A. doesn't usually starts / is starting
-   B. doesn't usually start / starts
-   C. is usually starting / is starting
-   D. doesn't usually start / is starting *(2021/22, zad. 3.51)*
-   <details><summary>odpowiedź</summary>D — doesn't usually start / is starting</details>
-10. Have you seen Enola Holmes ________ ?
-    a) yet b) just c) already d) yesterday *(2020/21, zad. 4.14)*
-    <details><summary>odpowiedź</summary>a — yet</details>
-11. The past participle of "catch" is ________.
-    a) catched b) caught c) cought d) catchet *(2020/21, zad. 4.15)*
-    <details><summary>odpowiedź</summary>b — caught</details>
-12. If I were you, I ________ the doctor. This knee looks really bad.
-    a) will see b) saw c) would see d) am seeing *(2020/21, zad. 4.16)*
-    <details><summary>odpowiedź</summary>c — would see</details>
-13. Look at my ticket! Next Friday at 8 p.m. I ________ to a concert!
-    a) might go b) will go c) am going d) go *(2020/21, zad. 4.22)*
-    <details><summary>odpowiedź</summary>c — am going</details>
-14. Sam ________ you a glass of water if you are thirsty.
-    a) would bring b) bring c) will bring d) brought *(2020/21, zad. 4.30)*
-    <details><summary>odpowiedź</summary>c — will bring</details>
+1. I can't go to the cinema with you because I ________ my homework yet. *(2021/22, zad. 3.36)*
+   - A. wasn't finish
+   - B. not finished
+   - C. haven't finished
+   - D. won't be finished
+   <details><summary>odpowiedź</summary>C — haven't finished</details><br>
+2. Fiona will have to wait here until it ________ raining. *(2021/22, zad. 3.37)*
+   - A. will stop
+   - B. stops
+   - C. has to stop
+   - D. stopping
+   <details><summary>odpowiedź</summary>B — stops</details><br>
+3. This club is for those over 16. Jamie is only 14, so he ________ here. *(2021/22, zad. 3.38)*
+   - A. not belonging
+   - B. doesn't belong
+   - C. don't belong
+   - D. isn't belonging
+   <details><summary>odpowiedź</summary>B — doesn't belong</details><br>
+4. While I ________ my favourite cereal for breakfast, my phone started ringing. *(2021/22, zad. 3.39)*
+   - A. had
+   - B. was having
+   - C. have had
+   - D. have
+   <details><summary>odpowiedź</summary>B — was having</details><br>
+5. Martha ________ the trumpet for two years now. *(2021/22, zad. 3.40)*
+   - A. have play
+   - B. plays
+   - C. is playing
+   - D. has played
+   <details><summary>odpowiedź</summary>D — has played</details><br>
+6. I last ________ my cute little cat two months ago. *(2021/22, zad. 3.41)*
+   - A. have seen
+   - B. had seen
+   - C. saw
+   - D. was seeing
+   <details><summary>odpowiedź</summary>C — saw</details><br>
+7. The telephone ________ by Graham Bell in 1876. *(2021/22, zad. 3.45)*
+   - A. invented
+   - B. has been invented
+   - C. was invented
+   - D. was invention
+   <details><summary>odpowiedź</summary>C — was invented</details><br>
+8. Don't forget ________ some more low-carb products, Angie. *(2021/22, zad. 3.46)*
+   - A. to buy
+   - B. buying
+   - C. and will buy
+   - D. about buying
+   <details><summary>odpowiedź</summary>A — to buy</details><br>
+9. Tony ________ his lessons until 9:00 on Mondays but this week he ________ his first Monday lesson at 10:30. *(2021/22, zad. 3.51)*
+   - A. doesn't usually starts / is starting
+   - B. doesn't usually start / starts
+   - C. is usually starting / is starting
+   - D. doesn't usually start / is starting
+   <details><summary>odpowiedź</summary>D — doesn't usually start / is starting</details><br>
+10. Have you seen Enola Holmes ________ ? *(2020/21, zad. 4.14)*
+    - a) yet
+    - b) just
+    - c) already
+    - d) yesterday
+    <details><summary>odpowiedź</summary>a — yet</details><br>
+11. The past participle of "catch" is ________. *(2020/21, zad. 4.15)*
+    - a) catched
+    - b) caught
+    - c) cought
+    - d) catchet
+    <details><summary>odpowiedź</summary>b — caught</details><br>
+12. If I were you, I ________ the doctor. This knee looks really bad. *(2020/21, zad. 4.16)*
+    - a) will see
+    - b) saw
+    - c) would see
+    - d) am seeing
+    <details><summary>odpowiedź</summary>c — would see</details><br>
+13. Look at my ticket! Next Friday at 8 p.m. I ________ to a concert! *(2020/21, zad. 4.22)*
+    - a) might go
+    - b) will go
+    - c) am going
+    - d) go
+    <details><summary>odpowiedź</summary>c — am going</details><br>
+14. Sam ________ you a glass of water if you are thirsty. *(2020/21, zad. 4.30)*
+    - a) would bring
+    - b) bring
+    - c) will bring
+    - d) brought
+    <details><summary>odpowiedź</summary>c — will bring</details><br>
 15. I feel like *to go / going* to the cinema this Saturday. *(2019/20, zad. 10.1)*
-    <details><summary>odpowiedź</summary>going</details>
+    <details><summary>odpowiedź</summary>going</details><br>
 16. Tamara *is seeing / sees* a new boyfriend. *(2019/20, zad. 10.2)*
-    <details><summary>odpowiedź</summary>is seeing</details>
+    <details><summary>odpowiedź</summary>is seeing</details><br>
 17. *I've played / I play* the guitar since I turned 7. *(2019/20, zad. 10.4)*
-    <details><summary>odpowiedź</summary>I've played</details>
+    <details><summary>odpowiedź</summary>I've played</details><br>
 18. If you *went / go* with me, I will be happy. *(2019/20, zad. 10.5)*
     <details><summary>odpowiedź</summary>go</details>
 
@@ -82,20 +121,32 @@ Najbardziej przewidywalny podtyp: decyduje sygnał czasu albo typ zdania warunko
 
 Trzeba odróżnić zakaz (*mustn't*) od braku konieczności (*don't have to*) i dedukcję (*can't be*).
 
-19. My mum ________ to work yesterday.
-    A. no need to go B. wasn't necessary to go C. didn't have to go D. didn't need going *(2021/22, zad. 3.44)*
-    <details><summary>odpowiedź</summary>C — didn't have to go</details>
-20. You ________ park your car here! It's against the law!
-    A. don't have to B. don't need to C. mustn't D. aren't allowed *(2021/22, zad. 3.47)*
-    <details><summary>odpowiedź</summary>C — mustn't</details>
-21. You must be joking! That ________ be Tamara! She's away in Greece now.
-    A. can B. has C. mustn't D. can't *(2021/22, zad. 3.48)*
-    <details><summary>odpowiedź</summary>D — can't</details>
-22. You ________ eat in the library. It is absolutely forbidden.
-    a) shouldn't b) needn't c) don't have to d) mustn't *(2020/21, zad. 4.21)*
-    <details><summary>odpowiedź</summary>d — mustn't</details>
+19. My mum ________ to work yesterday. *(2021/22, zad. 3.44)*
+    - A. no need to go
+    - B. wasn't necessary to go
+    - C. didn't have to go
+    - D. didn't need going
+    <details><summary>odpowiedź</summary>C — didn't have to go</details><br>
+20. You ________ park your car here! It's against the law! *(2021/22, zad. 3.47)*
+    - A. don't have to
+    - B. don't need to
+    - C. mustn't
+    - D. aren't allowed
+    <details><summary>odpowiedź</summary>C — mustn't</details><br>
+21. You must be joking! That ________ be Tamara! She's away in Greece now. *(2021/22, zad. 3.48)*
+    - A. can
+    - B. has
+    - C. mustn't
+    - D. can't
+    <details><summary>odpowiedź</summary>D — can't</details><br>
+22. You ________ eat in the library. It is absolutely forbidden. *(2020/21, zad. 4.21)*
+    - a) shouldn't
+    - b) needn't
+    - c) don't have to
+    - d) mustn't
+    <details><summary>odpowiedź</summary>d — mustn't</details><br>
 23. You *mustn't / don't have to* drive here! It's against the law. *(2019/20, zad. 10.7)*
-    <details><summary>odpowiedź</summary>mustn't</details>
+    <details><summary>odpowiedź</summary>mustn't</details><br>
 24. I won't *can / be able to* buy you another leather jacket. *(2019/20, zad. 10.8)*
     <details><summary>odpowiedź</summary>be able to</details>
 
@@ -103,51 +154,87 @@ Trzeba odróżnić zakaz (*mustn't*) od braku konieczności (*don't have to*) i 
 
 Pułapki w szyku (*old enough*, nie *enough old*) i w przedimku (*such a lovely evening*).
 
-25. It was ________ lovely evening that we stayed out till midnight.
-    A. such B. so C. such a D. a such *(2021/22, zad. 3.49)*
-    <details><summary>odpowiedź</summary>C — such a</details>
-26. Tim isn't ________ to go on holiday without his parents.
-    A. enough old B. old enough C. too older D. enough older *(2021/22, zad. 3.50)*
-    <details><summary>odpowiedź</summary>B — old enough</details>
-27. My suitcase was ________ heavy. I couldn't lift it!
-    A. too B. to C. enough D. that so *(2021/22, zad. 3.52)*
-    <details><summary>odpowiedź</summary>A — too</details>
-28. Mark's a great driver. He can drive very ________ .
-    A. good B. well C. better D. much better *(2021/22, zad. 3.58)*
-    <details><summary>odpowiedź</summary>B — well</details>
-29. The test doesn't seem ________ hard ________ I thought it'd be.
-    A. as / such B. as / so C. as / as D. such / as *(2021/22, zad. 3.62)*
-    <details><summary>odpowiedź</summary>C — as / as</details>
-30. Our summer camp took ________ than originally planned, which was great!
-    A. longer B. long C. longest D. the longer *(2021/22, zad. 3.63)*
-    <details><summary>odpowiedź</summary>A — longer</details>
-31. They say that ________ you are the more friends you have.
-    a) the richest b) the richer c) more richer d) the most rich *(2018/19, zad. 4.6)*
+25. It was ________ lovely evening that we stayed out till midnight. *(2021/22, zad. 3.49)*
+    - A. such
+    - B. so
+    - C. such a
+    - D. a such
+    <details><summary>odpowiedź</summary>C — such a</details><br>
+26. Tim isn't ________ to go on holiday without his parents. *(2021/22, zad. 3.50)*
+    - A. enough old
+    - B. old enough
+    - C. too older
+    - D. enough older
+    <details><summary>odpowiedź</summary>B — old enough</details><br>
+27. My suitcase was ________ heavy. I couldn't lift it! *(2021/22, zad. 3.52)*
+    - A. too
+    - B. to
+    - C. enough
+    - D. that so
+    <details><summary>odpowiedź</summary>A — too</details><br>
+28. Mark's a great driver. He can drive very ________ . *(2021/22, zad. 3.58)*
+    - A. good
+    - B. well
+    - C. better
+    - D. much better
+    <details><summary>odpowiedź</summary>B — well</details><br>
+29. The test doesn't seem ________ hard ________ I thought it'd be. *(2021/22, zad. 3.62)*
+    - A. as / such
+    - B. as / so
+    - C. as / as
+    - D. such / as
+    <details><summary>odpowiedź</summary>C — as / as</details><br>
+30. Our summer camp took ________ than originally planned, which was great! *(2021/22, zad. 3.63)*
+    - A. longer
+    - B. long
+    - C. longest
+    - D. the longer
+    <details><summary>odpowiedź</summary>A — longer</details><br>
+31. They say that ________ you are the more friends you have. *(2018/19, zad. 4.6)*
+    - a) the richest
+    - b) the richer
+    - c) more richer
+    - d) the most rich
     <details><summary>odpowiedź</summary>b — the richer</details>
 
 ## Kwantyfikatory, przedimki, liczba mnoga
 
 *Few/little*, *much/many*, *a lot/a lot of*, przedimki przed nazwami i rzeczowniki występujące tylko w liczbie mnogiej.
 
-32. Aidan has just got ________ friends, not too ________ .
-    A. little / much B. little / many C. a few / much D. a few / many *(2021/22, zad. 3.53)*
-    <details><summary>odpowiedź</summary>D — a few / many</details>
-33. When Brandon arrived at ________ airport, he had ________ sandwich while waiting for his flight.
-    A. the / a B. ---- / ---- C. the / ---- D. an / a *(2021/22, zad. 3.61)*
-    <details><summary>odpowiedź</summary>A — the / a</details>
-34. The party was a disaster. There weren't ________ people and it was so boring!
-    a) much b) little c) few d) many *(2020/21, zad. 4.24)*
-    <details><summary>odpowiedź</summary>d — many</details>
-35. Tina sings ________ when she is at home.
-    a) a lot of b) a lot c) lots of d) loads *(2020/21, zad. 4.25)*
-    <details><summary>odpowiedź</summary>b — a lot</details>
-36. She has ________ hope of getting a well-paid job.
-    a) little b) both c) several d) few *(2018/19, zad. 4.9)*
-    <details><summary>odpowiedź</summary>a — little</details>
+32. Aidan has just got ________ friends, not too ________ . *(2021/22, zad. 3.53)*
+    - A. little / much
+    - B. little / many
+    - C. a few / much
+    - D. a few / many
+    <details><summary>odpowiedź</summary>D — a few / many</details><br>
+33. When Brandon arrived at ________ airport, he had ________ sandwich while waiting for his flight. *(2021/22, zad. 3.61)*
+    - A. the / a
+    - B. ---- / ----
+    - C. the / ----
+    - D. an / a
+    <details><summary>odpowiedź</summary>A — the / a</details><br>
+34. The party was a disaster. There weren't ________ people and it was so boring! *(2020/21, zad. 4.24)*
+    - a) much
+    - b) little
+    - c) few
+    - d) many
+    <details><summary>odpowiedź</summary>d — many</details><br>
+35. Tina sings ________ when she is at home. *(2020/21, zad. 4.25)*
+    - a) a lot of
+    - b) a lot
+    - c) lots of
+    - d) loads
+    <details><summary>odpowiedź</summary>b — a lot</details><br>
+36. She has ________ hope of getting a well-paid job. *(2018/19, zad. 4.9)*
+    - a) little
+    - b) both
+    - c) several
+    - d) few
+    <details><summary>odpowiedź</summary>a — little</details><br>
 37. What's the capital of *Northern Ireland / the Northern Ireland*. *(2019/20, zad. 10.6)*
-    <details><summary>odpowiedź</summary>Northern Ireland</details>
+    <details><summary>odpowiedź</summary>Northern Ireland</details><br>
 38. *These / This* scissors aren't sharp enough. *(2019/20, zad. 10.9)*
-    <details><summary>odpowiedź</summary>These</details>
+    <details><summary>odpowiedź</summary>These</details><br>
 39. He didn't know *anyone / no one* at the party. *(2019/20, zad. 10.10)*
     <details><summary>odpowiedź</summary>anyone</details>
 
@@ -155,51 +242,90 @@ Pułapki w szyku (*old enough*, nie *enough old*) i w przedimku (*such a lovely 
 
 Najwięcej tu konstrukcji, które po polsku wyglądają inaczej (*a friend of mine*, *what time it is*, *find it difficult*).
 
-40. Veronica is a friend of ________ .
-    A. me B. mine C. myself D. my *(2021/22, zad. 3.42)*
-    <details><summary>odpowiedź</summary>B — mine</details>
-41. I don't know what happened. The electricity went off by ________.
-    a) ourselves b) itself c) myself d) yourselves *(2020/21, zad. 4.27)*
-    <details><summary>odpowiedź</summary>b — itself</details>
+40. Veronica is a friend of ________ . *(2021/22, zad. 3.42)*
+    - A. me
+    - B. mine
+    - C. myself
+    - D. my
+    <details><summary>odpowiedź</summary>B — mine</details><br>
+41. I don't know what happened. The electricity went off by ________. *(2020/21, zad. 4.27)*
+    - a) ourselves
+    - b) itself
+    - c) myself
+    - d) yourselves
+    <details><summary>odpowiedź</summary>b — itself</details><br>
 42. John's looking at *his / himself* in the mirror. He's in shock to see another pimple on his right cheek. *(2019/20, zad. 10.3)*
-    <details><summary>odpowiedź</summary>himself</details>
-43. Do you find ________ to learn foreign languages?
-    a) difficulty b) difficult c) a difficulty d) it difficult *(2018/19, zad. 4.7)*
-    <details><summary>odpowiedź</summary>d — it difficult</details>
-44. Jan Matejko, ________ painted "The Battle of Grunwald", died in 1893.
-    A. that B. which C. who D. whose *(2021/22, zad. 3.54)*
-    <details><summary>odpowiedź</summary>C — who</details>
-45. ________ I really want is peace and quiet.
-    A. It is B. That which C. That what D. What *(2021/22, zad. 3.55)*
-    <details><summary>odpowiedź</summary>D — What</details>
-46. ________ during your last summer holidays?
-    A. Who did you meet B. Whom you met C. Who you met D. Who have you met *(2021/22, zad. 3.56)*
-    <details><summary>odpowiedź</summary>A — Who did you meet</details>
-47. You know all the answers here, ________?
-    A. will you B. know you C. know you not D. don't you *(2021/22, zad. 3.57)*
-    <details><summary>odpowiedź</summary>D — don't you</details>
-48. Could you please tell me ________ ?
-    a) what is the time b) what time is it c) what time it is d) what time was it *(2020/21, zad. 4.26)*
+    <details><summary>odpowiedź</summary>himself</details><br>
+43. Do you find ________ to learn foreign languages? *(2018/19, zad. 4.7)*
+    - a) difficulty
+    - b) difficult
+    - c) a difficulty
+    - d) it difficult
+    <details><summary>odpowiedź</summary>d — it difficult</details><br>
+44. Jan Matejko, ________ painted "The Battle of Grunwald", died in 1893. *(2021/22, zad. 3.54)*
+    - A. that
+    - B. which
+    - C. who
+    - D. whose
+    <details><summary>odpowiedź</summary>C — who</details><br>
+45. ________ I really want is peace and quiet. *(2021/22, zad. 3.55)*
+    - A. It is
+    - B. That which
+    - C. That what
+    - D. What
+    <details><summary>odpowiedź</summary>D — What</details><br>
+46. ________ during your last summer holidays? *(2021/22, zad. 3.56)*
+    - A. Who did you meet
+    - B. Whom you met
+    - C. Who you met
+    - D. Who have you met
+    <details><summary>odpowiedź</summary>A — Who did you meet</details><br>
+47. You know all the answers here, ________? *(2021/22, zad. 3.57)*
+    - A. will you
+    - B. know you
+    - C. know you not
+    - D. don't you
+    <details><summary>odpowiedź</summary>D — don't you</details><br>
+48. Could you please tell me ________ ? *(2020/21, zad. 4.26)*
+    - a) what is the time
+    - b) what time is it
+    - c) what time it is
+    - d) what time was it
     <details><summary>odpowiedź</summary>c — what time it is</details>
 
 ## Przyimki i czasowniki frazalne w wyborze
 
 Ten sam materiał co w pliku 05, tylko z opcjami do wyboru.
 
-49. Nina has been here ________ Monday.
-    A. since B. from C. for D. on *(2021/22, zad. 3.43)*
-    <details><summary>odpowiedź</summary>A — since</details>
-50. What's ________ TV tonight? Any thriller?
-    A. in B. on C. at D. onto *(2021/22, zad. 3.59)*
-    <details><summary>odpowiedź</summary>B — on</details>
-51. They've got a lovely cottage ________ the country.
-    A. in B. into C. on D. at *(2021/22, zad. 3.60)*
-    <details><summary>odpowiedź</summary>A — in</details>
-52. You're walking way too fast! I can't catch ________ you anymore!
-    A. up on B. with C. up with D. on after *(2021/22, zad. 3.64)*
-    <details><summary>odpowiedź</summary>C — up with</details>
-53. Lydia ________ her mother. I mean they've got the same rosy cheeks, the same radiant smile.
-    A. looks after B. takes after C. looks for D. similar after *(2021/22, zad. 3.65)*
+49. Nina has been here ________ Monday. *(2021/22, zad. 3.43)*
+    - A. since
+    - B. from
+    - C. for
+    - D. on
+    <details><summary>odpowiedź</summary>A — since</details><br>
+50. What's ________ TV tonight? Any thriller? *(2021/22, zad. 3.59)*
+    - A. in
+    - B. on
+    - C. at
+    - D. onto
+    <details><summary>odpowiedź</summary>B — on</details><br>
+51. They've got a lovely cottage ________ the country. *(2021/22, zad. 3.60)*
+    - A. in
+    - B. into
+    - C. on
+    - D. at
+    <details><summary>odpowiedź</summary>A — in</details><br>
+52. You're walking way too fast! I can't catch ________ you anymore! *(2021/22, zad. 3.64)*
+    - A. up on
+    - B. with
+    - C. up with
+    - D. on after
+    <details><summary>odpowiedź</summary>C — up with</details><br>
+53. Lydia ________ her mother. I mean they've got the same rosy cheeks, the same radiant smile. *(2021/22, zad. 3.65)*
+    - A. looks after
+    - B. takes after
+    - C. looks for
+    - D. similar after
     <details><summary>odpowiedź</summary>B — takes after</details>
 
 ## Teksty z lukami (a/b/c/d)
@@ -231,23 +357,23 @@ another part of The Enola Holmes Mysteries about the teenage detective?
 *(adapted from: https://www.commonsensemedia.org/movie-reviews/enola-holmes/)*
 
 54. a. didn't b. don't c. haven't d. hasn't
-    <details><summary>odpowiedź</summary>c — haven't</details>
+    <details><summary>odpowiedź</summary>c — haven't</details><br>
 55. a. its b. it is c. it's d. their
-    <details><summary>odpowiedź</summary>a — its</details>
+    <details><summary>odpowiedź</summary>a — its</details><br>
 56. a. by b. as c. on d. from
-    <details><summary>odpowiedź</summary>d — from</details>
+    <details><summary>odpowiedź</summary>d — from</details><br>
 57. a. exceptionally b. unexpected c. exceptional d. except
-    <details><summary>odpowiedź</summary>a — exceptionally</details>
+    <details><summary>odpowiedź</summary>a — exceptionally</details><br>
 58. a. politic b. political c. politics d. politician
-    <details><summary>odpowiedź</summary>d — politician</details>
+    <details><summary>odpowiedź</summary>d — politician</details><br>
 59. a. on b. for c. since d. by
-    <details><summary>odpowiedź</summary>b — for</details>
+    <details><summary>odpowiedź</summary>b — for</details><br>
 60. a. boarding b. dorm c. board d. dormant
-    <details><summary>odpowiedź</summary>a — boarding</details>
+    <details><summary>odpowiedź</summary>a — boarding</details><br>
 61. a. none b. brothers c. both d. either
-    <details><summary>odpowiedź</summary>c — both</details>
+    <details><summary>odpowiedź</summary>c — both</details><br>
 62. a. self b. alone c. own d. lonely
-    <details><summary>odpowiedź</summary>c — own</details>
+    <details><summary>odpowiedź</summary>c — own</details><br>
 63. a. in order b. according c. so d. thanks
     <details><summary>odpowiedź</summary>a — in order</details>
 
@@ -274,23 +400,23 @@ All in all, the show has something for everyone.
 *(adapted from: https://heatworld.com/entertainment/tv-movies/riverdale-everything-need-know/)*
 
 64. A. teens B. tiny C. teen
-    <details><summary>odpowiedź</summary>C — teen</details>
+    <details><summary>odpowiedź</summary>C — teen</details><br>
 65. A. tells B. speaks C. says
-    <details><summary>odpowiedź</summary>A — tells</details>
+    <details><summary>odpowiedź</summary>A — tells</details><br>
 66. A. improve B. solve C. prove
-    <details><summary>odpowiedź</summary>B — solve</details>
+    <details><summary>odpowiedź</summary>B — solve</details><br>
 67. A. in B. through C. behind
-    <details><summary>odpowiedź</summary>B — through</details>
+    <details><summary>odpowiedź</summary>B — through</details><br>
 68. A. recently B. last year C. in 2018
-    <details><summary>odpowiedź</summary>A — recently</details>
+    <details><summary>odpowiedź</summary>A — recently</details><br>
 69. A. wants B. imagines C. looks forward
-    <details><summary>odpowiedź</summary>A — wants</details>
+    <details><summary>odpowiedź</summary>A — wants</details><br>
 70. A. that B. who C. which
-    <details><summary>odpowiedź</summary>B — who</details>
+    <details><summary>odpowiedź</summary>B — who</details><br>
 71. A. loving B. loved C. in love
-    <details><summary>odpowiedź</summary>C — in love</details>
+    <details><summary>odpowiedź</summary>C — in love</details><br>
 72. A. adopt B. adapt C. adept
-    <details><summary>odpowiedź</summary>B — adapt</details>
+    <details><summary>odpowiedź</summary>B — adapt</details><br>
 73. A. such B. so C. like
     <details><summary>odpowiedź</summary>A — such</details>
 

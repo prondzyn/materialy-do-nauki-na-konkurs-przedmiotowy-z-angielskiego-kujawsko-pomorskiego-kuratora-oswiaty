@@ -31,33 +31,33 @@ zostaje bez zmian.
 *Reguła: zaimek + operator + podmiot + czasownik + reszta: They are waiting in the city centre → Where are they waiting for Mike?*
 
 1. The twins are **10**. ________ ? *(2022/23, zad. 3.8)*
-   <details><summary>odpowiedź</summary>How old are the twins?</details>
+   <details><summary>odpowiedź</summary>How old are the twins?</details><br>
 2. My stepbrother is only **5**. ________ ? *(2023/24, zad. 3.8)*
-   <details><summary>odpowiedź</summary>How old is your stepbrother? — ⚠ w kluczu: <i>How old is your brother?</i> To błąd klucza, bo w zdaniu jest <i>stepbrother</i>. Pisz <i>stepbrother</i>.</details>
+   <details><summary>odpowiedź</summary>How old is your stepbrother? — ⚠ w kluczu: <i>How old is your brother?</i> To błąd klucza, bo w zdaniu jest <i>stepbrother</i>. Pisz <i>stepbrother</i>.</details><br>
 3. It's **sunny** today. ________ ? *(2018/19, zad. 6.8)*
-   <details><summary>odpowiedź</summary>What's the weather like (today)? / How's the weather (today)?</details>
+   <details><summary>odpowiedź</summary>What's the weather like (today)? / How's the weather (today)?</details><br>
 4. I'll be back **at 7:00**. ________ back? *(2020/21, zad. 5.1)*
-   <details><summary>odpowiedź</summary>When will you be back?</details>
+   <details><summary>odpowiedź</summary>When will you be back?</details><br>
 5. They are waiting for Mike **in the city centre**. ________ ? *(2025/26, zad. 3.8)*
-   <details><summary>odpowiedź</summary>Where are they waiting for Mike?</details>
+   <details><summary>odpowiedź</summary>Where are they waiting for Mike?</details><br>
 6. There was a plant **by the window**. ________ a plant? *(2020/21, zad. 5.2)*
-   <details><summary>odpowiedź</summary>Where was there a plant? (klucz: nie uznaje się <i>Where was a plant?</i>)</details>
+   <details><summary>odpowiedź</summary>Where was there a plant? (klucz: nie uznaje się <i>Where was a plant?</i>)</details><br>
 7. She has lived in Greece **for 5 years**. ________ ? *(2018/19, zad. 6.3)*
-   <details><summary>odpowiedź</summary>How long has she lived in Greece?</details>
+   <details><summary>odpowiedź</summary>How long has she lived in Greece?</details><br>
 8. We had to leave for school **at 7.30**. ________ ? *(2025/26, zad. 3.7)*
-   <details><summary>odpowiedź</summary>What time did we have to leave for school? — ⚠ naturalniej <i>What time did you have to leave for school?</i> (zamiana <i>we → you</i>). Klucz podaje wersję z <i>we</i>.</details>
+   <details><summary>odpowiedź</summary>What time did we have to leave for school? — ⚠ naturalniej <i>What time did you have to leave for school?</i> (zamiana <i>we → you</i>). Klucz podaje wersję z <i>we</i>.</details><br>
 9. I met him **just before he moved to the USA**. ________ ? *(2024/25, zad. 3.2)*
-   <details><summary>odpowiedź</summary>When did you meet him? / When did I meet him?</details>
+   <details><summary>odpowiedź</summary>When did you meet him? / When did I meet him?</details><br>
 10. Mike was standing **outside the bank** when he saw the robbers. ________ ? *(2024/25, zad. 3.4)*
-    <details><summary>odpowiedź</summary>Where was Mike standing when he saw the robbers?</details>
+    <details><summary>odpowiedź</summary>Where was Mike standing when he saw the robbers?</details><br>
 11. My twin brother prefers spending his free time **in the gym**. ________ ? *(2025/26, zad. 3.10)*
-    <details><summary>odpowiedź</summary>Where does my twin brother prefer spending his free time? — ⚠ naturalniej <i>your twin brother</i>. Klucz podaje <i>my</i>.</details>
+    <details><summary>odpowiedź</summary>Where does my twin brother prefer spending his free time? — ⚠ naturalniej <i>your twin brother</i>. Klucz podaje <i>my</i>.</details><br>
 12. My grandma invited me **to her favourite cafeteria**. ________ ? *(2024/25, zad. 3.10)*
-    <details><summary>odpowiedź</summary>Where did your grandma invite you? — ⚠ w kluczu: <i>Where did grandma invite me?</i> Zgubiono zaimek (<i>my/your grandma</i>). Poprawnie: <i>Where did your grandma invite you?</i> lub <i>Where did my grandma invite me?</i></details>
+    <details><summary>odpowiedź</summary>Where did your grandma invite you? — ⚠ w kluczu: <i>Where did grandma invite me?</i> Zgubiono zaimek (<i>my/your grandma</i>). Poprawnie: <i>Where did your grandma invite you?</i> lub <i>Where did my grandma invite me?</i></details><br>
 13. Mrs Tomson loves painting; she keeps spending a lot of time **in her studio**. ________ ? *(2023/24, zad. 3.6)*
-    <details><summary>odpowiedź</summary>Where does she keep spending a lot of time? / Where does Mrs Tomson keep spending a lot of time? — ⚠ klucz podaje <i>much time</i> i dopisek „(a lot of time – informal)”. Obie formy powinny być uznane, a bezpieczniej przepisać tę ze zdania: <i>a lot of time</i>.</details>
+    <details><summary>odpowiedź</summary>Where does she keep spending a lot of time? / Where does Mrs Tomson keep spending a lot of time? — ⚠ klucz podaje <i>much time</i> i dopisek „(a lot of time – informal)”. Obie formy powinny być uznane, a bezpieczniej przepisać tę ze zdania: <i>a lot of time</i>.</details><br>
 14. She's been feeling **under the weather** lately. ________ ? *(2022/23, zad. 3.9)*
-    <details><summary>odpowiedź</summary>How has she been feeling (lately)?</details>
+    <details><summary>odpowiedź</summary>How has she been feeling (lately)?</details><br>
 15. They're going to drive **at 120 km/h**. ________ drive? *(2020/21, zad. 5.10)*
     <details><summary>odpowiedź</summary>How fast are they going to drive? / At what speed are they going to drive?</details>
 
@@ -68,11 +68,11 @@ trzeba go dodać.
 *Reguła: What + do/does/did + podmiot + czasownik w formie podstawowej: He picked up this leaflet → What did he pick up?*
 
 16. A lot of teenagers speak **English** very well. ________ ? *(2025/26, zad. 3.6)*
-    <details><summary>odpowiedź</summary>What do a lot of teenagers speak very well? / What do many teenagers speak very well?</details>
+    <details><summary>odpowiedź</summary>What do a lot of teenagers speak very well? / What do many teenagers speak very well?</details><br>
 17. Travel broadens **the mind**. ________ ? *(2024/25, zad. 3.9)*
-    <details><summary>odpowiedź</summary>What does travel broaden?</details>
+    <details><summary>odpowiedź</summary>What does travel broaden?</details><br>
 18. He picked up **this leaflet** in the bank. ________ ? *(2025/26, zad. 3.3)*
-    <details><summary>odpowiedź</summary>What did he pick up in the bank?</details>
+    <details><summary>odpowiedź</summary>What did he pick up in the bank?</details><br>
 19. Veronica cut **her finger** on a piece of glass. ________ on a piece of glass? *(2020/21, zad. 5.3)*
     <details><summary>odpowiedź</summary>What did Veronica cut on a piece of glass?</details>
 
@@ -83,17 +83,17 @@ podmiot. Nie dodajemy *do/does/did*.
 *Reguła: What + operator + podmiot + reszta czasownika: You must wear a helmet → What must you wear…?*
 
 20. You must wear **a helmet** when riding a bike. ________ ? *(2025/26, zad. 3.9)*
-    <details><summary>odpowiedź</summary>What must you wear when riding a bike? / What do you have to wear when riding a bike?</details>
+    <details><summary>odpowiedź</summary>What must you wear when riding a bike? / What do you have to wear when riding a bike?</details><br>
 21. She's going to study **medicine**. ________ ? *(2018/19, zad. 6.6)*
-    <details><summary>odpowiedź</summary>What is she going to study?</details>
+    <details><summary>odpowiedź</summary>What is she going to study?</details><br>
 22. Mary is discussing **the biology project** with her classmates at present. ________ ? *(2023/24, zad. 3.2)*
-    <details><summary>odpowiedź</summary>What is Mary discussing with her classmates (at present)?</details>
+    <details><summary>odpowiedź</summary>What is Mary discussing with her classmates (at present)?</details><br>
 23. The men in the room were wearing **ties**. ________ wearing? *(2020/21, zad. 5.6)*
-    <details><summary>odpowiedź</summary>What were the men (in the room) wearing?</details>
+    <details><summary>odpowiedź</summary>What were the men (in the room) wearing?</details><br>
 24. Arnie's got **a bunch of roses** in his hand. ________ in his hand? *(2020/21, zad. 5.5)*
-    <details><summary>odpowiedź</summary>What has Arnie got in his hand? / What has he got in his hand? (klucz: nie uznaje się <i>What does he have…</i>, bo zmienia strukturę zdania wyjściowego)</details>
+    <details><summary>odpowiedź</summary>What has Arnie got in his hand? / What has he got in his hand? (klucz: nie uznaje się <i>What does he have…</i>, bo zmienia strukturę zdania wyjściowego)</details><br>
 25. He has never seen **such a breathtaking view** before. ________ ? *(2024/25, zad. 3.6)*
-    <details><summary>odpowiedź</summary>What has he never seen before?</details>
+    <details><summary>odpowiedź</summary>What has he never seen before?</details><br>
 26. Cathy would really like to be **a scientist** one day. ________ ? *(2023/24, zad. 3.5)*
     <details><summary>odpowiedź</summary>Who would Cathy like to be one day? — ⚠ klucz podaje <i>Who</i>. Przy zawodach częściej pyta się <i>What would Cathy (really) like to be one day?</i> Ta forma powinna być uznana, ale nie ma jej w kluczu.</details>
 
@@ -104,23 +104,23 @@ na jego końcu. Zgubienie go to najczęstsza przyczyna utraty punktu w tej grupi
 *Reguła: waiting for her brother → Who has she been waiting for? · depends on my mum → Who does my decision depend on?*
 
 27. They are looking for **the car keys**. ________ ? *(2018/19, zad. 6.1)*
-    <details><summary>odpowiedź</summary>What are they looking for?</details>
+    <details><summary>odpowiedź</summary>What are they looking for?</details><br>
 28. She is an expert in **psychology**. ________ ? *(2024/25, zad. 3.8)*
-    <details><summary>odpowiedź</summary>What is she an expert in?</details>
+    <details><summary>odpowiedź</summary>What is she an expert in?</details><br>
 29. Jim is having problems with **his history class** right now. ________ ? *(2022/23, zad. 3.2)*
-    <details><summary>odpowiedź</summary>What is Jim having problems with (right now)?</details>
+    <details><summary>odpowiedź</summary>What is Jim having problems with (right now)?</details><br>
 30. She has been waiting for **her brother** at home. ________ ? *(2025/26, zad. 3.1)*
-    <details><summary>odpowiedź</summary>Who has she been waiting for at home?</details>
+    <details><summary>odpowiedź</summary>Who has she been waiting for at home?</details><br>
 31. I dream of **meeting Taylor Swift** one day. ________ ? *(2024/25, zad. 3.5)*
-    <details><summary>odpowiedź</summary>What do you dream of? / What do I dream of?</details>
+    <details><summary>odpowiedź</summary>What do you dream of? / What do I dream of?</details><br>
 32. She won't help you with **your maths homework**. ________ ? *(2022/23, zad. 3.6)*
-    <details><summary>odpowiedź</summary>What won't she help you with? / What will she not help you with?</details>
+    <details><summary>odpowiedź</summary>What won't she help you with? / What will she not help you with?</details><br>
 33. My decision depends on **my mum**. ________ ? *(2018/19, zad. 6.4)*
-    <details><summary>odpowiedź</summary>Who does my decision depend on? / Who does this decision depend on?</details>
+    <details><summary>odpowiedź</summary>Who does my decision depend on? / Who does this decision depend on?</details><br>
 34. She always asks **her mum** for help. ________ ? *(2018/19, zad. 6.10)*
-    <details><summary>odpowiedź</summary>Who does she always ask for help?</details>
+    <details><summary>odpowiedź</summary>Who does she always ask for help?</details><br>
 35. I was in London **with my best friend**. ________ ? *(2018/19, zad. 6.5)*
-    <details><summary>odpowiedź</summary>Who were you in London with? / Who was with you in London?</details>
+    <details><summary>odpowiedź</summary>Who were you in London with? / Who was with you in London?</details><br>
 36. Greg's been suffering from **a splitting headache** for two hours now. ________ ? *(2023/24, zad. 3.9)*
     <details><summary>odpowiedź</summary>What problem has Greg been suffering from? — ⚠ naturalniej i bezpieczniej: <i>What has Greg been suffering from (for two hours now)?</i> Klucz podaje wersję z <i>problem</i>.</details>
 
@@ -133,23 +133,23 @@ stoi w 3. osobie liczby pojedynczej. To najczęstszy błąd w całym zadaniu: od
 *Reguła: Doctor Smith visits my grandma → Who visits my grandma every Saturday? · His records sell well → What sells well in America?*
 
 37. **Mark** builds houses. ________ ? *(2018/19, zad. 6.7)*
-    <details><summary>odpowiedź</summary>Who builds houses?</details>
+    <details><summary>odpowiedź</summary>Who builds houses?</details><br>
 38. **Doctor Smith** visits my grandma every Saturday. ________ ? *(2024/25, zad. 3.3)*
-    <details><summary>odpowiedź</summary>Who visits my grandma every Saturday?</details>
+    <details><summary>odpowiedź</summary>Who visits my grandma every Saturday?</details><br>
 39. **Tom** cooks better than anyone else. ________ anyone else? *(2020/21, zad. 5.8)*
-    <details><summary>odpowiedź</summary>Who cooks better than anyone else?</details>
+    <details><summary>odpowiedź</summary>Who cooks better than anyone else?</details><br>
 40. **Our photo exhibition** starts promptly at 4 p.m. ________ ? *(2023/24, zad. 3.1)*
-    <details><summary>odpowiedź</summary>What starts promptly at 4 p.m.?</details>
+    <details><summary>odpowiedź</summary>What starts promptly at 4 p.m.?</details><br>
 41. **My train** never arrives on time. ________ ? *(2022/23, zad. 3.1)*
-    <details><summary>odpowiedź</summary>What never arrives on time? / Which train never arrives on time? / Whose train never arrives on time? — ⚠ klucz dopuszcza trzy wersje, więc podkreślenie obejmowało zapewne <i>My train</i> albo samo <i>My</i>. Nie da się tego ustalić z tekstu.</details>
+    <details><summary>odpowiedź</summary>What never arrives on time? / Which train never arrives on time? / Whose train never arrives on time? — ⚠ klucz dopuszcza trzy wersje, więc podkreślenie obejmowało zapewne <i>My train</i> albo samo <i>My</i>. Nie da się tego ustalić z tekstu.</details><br>
 42. **His records** sell well in America. ________ ? *(2025/26, zad. 3.2)*
-    <details><summary>odpowiedź</summary>What sells well in America?</details>
+    <details><summary>odpowiedź</summary>What sells well in America?</details><br>
 43. **My best friend Ann** performed in the school play last week. ________ ? *(2023/24, zad. 3.3)*
-    <details><summary>odpowiedź</summary>Who performed in the school play last week?</details>
+    <details><summary>odpowiedź</summary>Who performed in the school play last week?</details><br>
 44. **They** paid all the money the kidnappers demanded. ________ ? *(2022/23, zad. 3.3)*
-    <details><summary>odpowiedź</summary>Who paid all the money (the kidnappers demanded)?</details>
+    <details><summary>odpowiedź</summary>Who paid all the money (the kidnappers demanded)?</details><br>
 45. **The flight** was cancelled because of storm. ________ ? *(2024/25, zad. 3.7)*
-    <details><summary>odpowiedź</summary>What was cancelled because of storm? (brak <i>the</i> przed <i>storm</i> jest w oryginalnym zdaniu)</details>
+    <details><summary>odpowiedź</summary>What was cancelled because of storm? (brak <i>the</i> przed <i>storm</i> jest w oryginalnym zdaniu)</details><br>
 46. **The minister** had to resign because of health problems. ________ ? *(2025/26, zad. 3.5)*
     <details><summary>odpowiedź</summary>Who had to resign because of health problems?</details>
 
@@ -161,31 +161,31 @@ przynależność (*Whose* + rzeczownik).
 *Reguła: Martha was taking a bath → What was Martha doing…? · Dave hasn't written any emails → What hasn't Dave done yet? · Samantha's ponytail → Whose ponytail…?*
 
 47. She should **leave** before the storm begins. ________ ? *(2024/25, zad. 3.1)*
-    <details><summary>odpowiedź</summary>What should she do before the storm begins?</details>
+    <details><summary>odpowiedź</summary>What should she do before the storm begins?</details><br>
 48. Ben could **code** when he was eight years old. ________ ? *(2023/24, zad. 3.7)*
-    <details><summary>odpowiedź</summary>What could Ben do when he was eight years old?</details>
+    <details><summary>odpowiedź</summary>What could Ben do when he was eight years old?</details><br>
 49. Arianna could **sing well** when she was just five. ________ ? *(2022/23, zad. 3.7)*
-    <details><summary>odpowiedź</summary>What could Arianna do when she was just five?</details>
+    <details><summary>odpowiedź</summary>What could Arianna do when she was just five?</details><br>
 50. Chris would really like to **go to the cinema with us**. ________ ? *(2022/23, zad. 3.5)*
-    <details><summary>odpowiedź</summary>What would Chris really like to do?</details>
+    <details><summary>odpowiedź</summary>What would Chris really like to do?</details><br>
 51. The pupils have to **follow all the ten rules** here. ________ ? *(2022/23, zad. 3.10)*
-    <details><summary>odpowiedź</summary>What do the pupils have to do (here)?</details>
+    <details><summary>odpowiedź</summary>What do the pupils have to do (here)?</details><br>
 52. The airline passengers have to **follow air travel rules**. ________ ? *(2023/24, zad. 3.10)*
-    <details><summary>odpowiedź</summary>What do the airline passengers have to do? — klucz: <i>What do the passengers have to do?</i></details>
+    <details><summary>odpowiedź</summary>What do the airline passengers have to do? — klucz: <i>What do the passengers have to do?</i></details><br>
 53. Mr. Cormack couldn't **come to work** yesterday. ________ yesterday? *(2020/21, zad. 5.4)*
-    <details><summary>odpowiedź</summary>What couldn't Mr. Cormack do yesterday? / What could Mr. Cormack not do yesterday?</details>
+    <details><summary>odpowiedź</summary>What couldn't Mr. Cormack do yesterday? / What could Mr. Cormack not do yesterday?</details><br>
 54. While Martha **was taking a bath**, there was a blackout. ________ ? *(2022/23, zad. 3.4)*
-    <details><summary>odpowiedź</summary>What was Martha doing when there was a blackout?</details>
+    <details><summary>odpowiedź</summary>What was Martha doing when there was a blackout?</details><br>
 55. While the doctor **was prescribing medication**, someone knocked at the door. ________ ? *(2023/24, zad. 3.4)*
-    <details><summary>odpowiedź</summary>What was the doctor doing when someone knocked at the door?</details>
+    <details><summary>odpowiedź</summary>What was the doctor doing when someone knocked at the door?</details><br>
 56. Dave hasn't **written any emails** yet. ________ yet? *(2020/21, zad. 5.7)*
-    <details><summary>odpowiedź</summary>What hasn't Dave done yet? / What has Dave not done yet?</details>
+    <details><summary>odpowiedź</summary>What hasn't Dave done yet? / What has Dave not done yet?</details><br>
 57. This bag is **John's**. ________ ? *(2018/19, zad. 6.2)*
-    <details><summary>odpowiedź</summary>Whose is this bag? / Whose bag is this?</details>
+    <details><summary>odpowiedź</summary>Whose is this bag? / Whose bag is this?</details><br>
 58. **Samantha's** ponytail is longer than Joan's. ________ than Joan's? *(2020/21, zad. 5.9)*
-    <details><summary>odpowiedź</summary>Whose ponytail is longer than Joan's?</details>
+    <details><summary>odpowiedź</summary>Whose ponytail is longer than Joan's?</details><br>
 59. She can't stop playing this computer game **because it's good**. ________ ? *(2025/26, zad. 3.4)*
-    <details><summary>odpowiedź</summary>Why can't she stop playing this computer game?</details>
+    <details><summary>odpowiedź</summary>Why can't she stop playing this computer game?</details><br>
 60. The test will take two hours **because there are plenty of detailed questions**. ________ ? *(2018/19, zad. 6.9)*
     <details><summary>odpowiedź</summary>Why will the test take two hours?</details>
 
