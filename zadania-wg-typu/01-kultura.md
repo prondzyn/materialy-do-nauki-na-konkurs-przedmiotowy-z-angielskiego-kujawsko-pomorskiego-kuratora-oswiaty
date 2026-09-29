@@ -8,6 +8,8 @@ ten typ trzeba przerobić **przed** konkursem. Pytania i motywy często się pow
 
 - **W pliku:** 79 pytań z 8 arkuszy etapu szkolnego (2018/19 – 2025/26).
 - **W obecnym formacie (2022/23 – 2025/26):** zadanie 10, **10 pkt** (10 pytań po 1 pkt).
+- **Szybka powtórka:** [Ściąga — najważniejsze fakty](#ściąga--najważniejsze-fakty) (kto teraz rządzi,
+  kto był wcześniej, daty, symbole) na samym końcu pliku, za kluczem.
 
 **Wskazówki**
 - Najpierw eliminuj opcje: autorzy często dokładają dystraktory z innego kraju (np. Lough Neagh jest
@@ -426,7 +428,7 @@ Mniej przewidywalne: bohaterowie narodowi, premierzy, legendy i prehistoria.
     - b) Theresa May
     - c) Boris Johnson
     - d) Liz Truss
-    <details><summary>odpowiedź</summary>d — Liz Truss ⚠ poprawne w dniu konkursu (13.10.2022). Truss urzędowała tylko 7 tygodni, po niej był Rishi Sunak, a od lipca 2024 premierem jest Keir Starmer — sprawdź przed konkursem, czy to nadal aktualne.</details><br>
+    <details><summary>odpowiedź</summary>d — Liz Truss ⚠ poprawne w dniu konkursu (13.10.2022). Truss urzędowała tylko 7 tygodni, po niej był Rishi Sunak, od lipca 2024 Keir Starmer, a od 20 lipca 2026 premierem jest <b>Andy Burnham</b>.</details><br>
 66. After Theresa May __________ became another British Prime Minister. *(2019/20, zad. 12.10)*
     - a) David Cameron
     - b) Boris Johnson
@@ -614,7 +616,7 @@ Te fakty padły w arkuszach szkolnych więcej niż raz — nauczyć się ich na 
 62. b — DC
 63. b — William Wallace
 64. c — 2 (1940–1945 i 1951–1955)
-65. d — Liz Truss ⚠ poprawne w dniu konkursu (13.10.2022). Truss urzędowała tylko 7 tygodni, po niej był Rishi Sunak, a od lipca 2024 premierem jest Keir Starmer — sprawdź przed konkursem, czy to nadal aktualne.
+65. d — Liz Truss ⚠ poprawne w dniu konkursu (13.10.2022). Truss urzędowała tylko 7 tygodni, po niej był Rishi Sunak, od lipca 2024 Keir Starmer, a od 20 lipca 2026 premierem jest **Andy Burnham**.
 66. b — Boris Johnson
 67. c — Old
 68. b — Lady Guinevere
@@ -629,3 +631,150 @@ Te fakty padły w arkuszach szkolnych więcej niż raz — nauczyć się ich na 
 77. c — Ireland
 78. a — September 26th
 79. b — Halloween (31 października)
+
+---
+
+## Ściąga — najważniejsze fakty
+
+Wszystko, o co pytano w arkuszach, zebrane w jednym miejscu, plus kilka faktów „obok”, które
+autorzy mogą łatwo zamienić w pytanie (np. zamiast czwartej żony Henryka VIII — szóstą).
+Stan na **29 września 2026**.
+
+### Kto teraz rządzi
+
+Pytania o „aktualnego” premiera czy prezydenta padają prawie co roku. Przed konkursem sprawdź,
+czy nic się nie zmieniło.
+
+| Kraj / urząd | Obecnie | Od kiedy |
+|---|---|---|
+| Wielka Brytania — monarcha | **King Charles III** (Karol III), żona: Queen Camilla | 8.09.2022 (koronacja 6.05.2023) |
+| Wielka Brytania — następca tronu | **Prince William**, Prince of Wales; drugi w kolejce: Prince George | 8.09.2022 |
+| Wielka Brytania — premier (*Prime Minister*) | **Andy Burnham** (Labour) | 20.07.2026 |
+| USA — prezydent | **Donald Trump** — 47. prezydent (był też 45.) | 20.01.2025 |
+| USA — wiceprezydent | **JD Vance** | 20.01.2025 |
+| USA — pierwsza dama | **Melania Trump** | 20.01.2025 |
+| Kanada — premier | **Mark Carney** | 14.03.2025 |
+| Australia — premier | **Anthony Albanese** | 2022 |
+| Nowa Zelandia — premier | **Christopher Luxon** (wybory 7.11.2026 — może się zmienić!) | 2023 |
+| Irlandia — premier (*Taoiseach*) | **Micheál Martin** | 23.01.2025 |
+| Irlandia — prezydent | **Catherine Connolly** | 11.11.2025 |
+| Szkocja — *First Minister* | John Swinney | 2024 |
+| Walia — *First Minister* | Rhun ap Iorwerth | 12.05.2026 |
+| Londyn — burmistrz (*Mayor of London*) | Sadiq Khan | 2016 |
+
+Król Karol III jest też głową państwa w Kanadzie, Australii i Nowej Zelandii.
+
+### Kto był w ostatnich latach
+
+**Premierzy Wielkiej Brytanii** (poz. 64–66)
+- David Cameron 2010–2016
+- Theresa May 2016–2019
+- Boris Johnson 2019–2022
+- Liz Truss wrzesień–październik 2022 (tylko 7 tygodni, najkrócej w historii)
+- Rishi Sunak 2022–2024
+- Keir Starmer 2024–2026
+- Andy Burnham od lipca 2026
+- Winston Churchill był premierem **dwa razy**: 1940–1945 (II wojna światowa) i 1951–1955.
+
+**Prezydenci USA** (poz. 17, 20, 25, 27)
+- Bill Clinton 1993–2001 (42.)
+- George W. Bush 2001–2009 (43.)
+- Barack Obama 2009–2017 (44.), wybrany w **2008**
+- Donald Trump 2017–2021 (45.), żona **Melania**
+- Joe Biden 2021–2025 (46.), wiceprezydent: Kamala Harris
+- Donald Trump od 2025 (47.)
+
+**Inni premierzy** (poz. 70, 71)
+- Kanada: Justin Trudeau 2015–2025 (w arkuszu przekręcony na *Jason*), potem Mark Carney.
+- Australia: Scott Morrison 2018–2022, potem Anthony Albanese.
+- Nowa Zelandia: Jacinda Ardern 2017–2023, Chris Hipkins 2023, potem Christopher Luxon.
+
+### Rodzina królewska (poz. 1–12)
+
+- **Elżbieta II** (*Elizabeth II*): urodzona 21.04.**1926**, królowa 1952–2022 (70 lat, najdłużej
+  w historii), zmarła 8.09.2022 w zamku **Balmoral** (Szkocja). Miała **8 wnuków**. Kochała psy
+  **corgi**.
+- **Książę Filip** (*Prince Philip*) — mąż Elżbiety II, zmarł 9.04.2021.
+- **Karol III** (*Charles III*) — syn Elżbiety II, urodzony 14.11.**1948**.
+- **Księżna Diana** (*Diana Spencer*) — „**the People's Princess**”, pierwsza żona Karola, matka
+  Williama i Harry'ego, zginęła w 1997 w Paryżu.
+- **Buckingham Palace** — oficjalna rezydencja monarchy od królowej Wiktorii (1837–1901).
+  Inne zamki: Windsor Castle, Balmoral (Szkocja), Holyrood Palace (Edynburg).
+- **Henryk VIII** (1509–1547) — **sześć żon**; w latach 1530. (1534) założył **Kościół anglikański**
+  (*Church of England*). Żony po kolei: Catherine of Aragon, Anne Boleyn, Jane Seymour,
+  **Anne of Cleves** (4.), Catherine Howard, Catherine Parr. Wierszyk: *divorced, beheaded, died,
+  divorced, beheaded, survived*.
+
+### USA — historia i polityka (poz. 13–28)
+
+- **4 lipca 1776** — Deklaracja Niepodległości, początek USA → **Independence Day** (*the Fourth of July*).
+- **11 września 2001** — zamachy na World Trade Center w Nowym Jorku.
+- **Capitol** (Kapitol) w Waszyngtonie — siedziba **Congress** (Senat + Izba Reprezentantów).
+  Prezydent urzęduje w **White House**.
+- Stany: **50**; ostatnie dodane w 1959 — Alaska (49.) i **Hawaii (50.)**.
+- Osadnicy: **Plymouth** 1620 (statek *Mayflower*, pielgrzymi); wcześniej Jamestown 1607.
+  Nowy Jork założyli **Holendrzy** (*the Dutch*) w XVII w. jako *New Amsterdam*.
+- Pierwsi mieszkańcy Ameryki: **Native Americans**. (Inuit — Arktyka, Aborigines — Australia.)
+- Pierwszy Europejczyk na Hawajach: **James Cook** (1778).
+
+### USA — geografia, symbole, popkultura (poz. 53–62)
+
+- Flaga: **50 gwiazd** (stany) i 13 pasów (pierwsze kolonie). Przydomki: *Old Glory*,
+  *the Stars and Stripes*, *the Red, White and Blue*. (**Saltire** to flaga Szkocji!)
+- Hymn: ***The Star-Spangled Banner***.
+- Waszyngton leży nad rzeką **Potomac**.
+- **Mount Rushmore** (głowy 4 prezydentów) — USA (Dakota Południowa).
+- **Golden Gate Bridge** — San Francisco.
+- **Wielkie Jeziora** (*the Great Lakes*) — granica USA i Kanady, największy zbiornik słodkiej wody.
+- Alaska — **łoś** (*moose*). (Dziobak — *platypus* i dingo to Australia.)
+- Komiksy: **Marvel** i **DC** Comics.
+- Toronto jest w **Kanadzie**, nie w USA.
+
+### Wielka Brytania — kraje, symbole, geografia (poz. 29–41)
+
+| Kraj | Stolica | Symbol | Patron (święto) |
+|---|---|---|---|
+| Anglia | London | czerwona róża (*red rose*) | St George (23 kwietnia) |
+| Szkocja | Edinburgh | oset (***thistle***) | St Andrew (30 listopada) |
+| Walia | Cardiff | por i żonkil (***leek and daffodil***) | **St David** (1 marca) |
+| Irlandia Płn. / Irlandia | Belfast / **Dublin** | koniczyna (***shamrock***) | St Patrick (17 marca) |
+
+- Najwyższe szczyty: **Ben Nevis** (Szkocja, najwyższy w całej Wielkiej Brytanii),
+  **Scafell Pike** (najwyższy w Anglii), Snowdon (Walia).
+- Jeziora: **Loch Ness** (Szkocja, potwór Nessie), Loch Lomond (Szkocja), Lough Neagh
+  (Irlandia Płn.), Windermere (Anglia, Lake District).
+- Szkocja: **curling**, pieśń ***Auld Lang Syne***, **William Wallace** (film *Braveheart*).
+- **Kent** — „*the Garden of England*”.
+- Waluta: funt szterling, skrót **GBP**. 1 foot = **12 inches**.
+- Metro w Londynie: **the Tube** (*London Underground*) — najstarsze na świecie (1863).
+- *Pub* = ***public house***.
+
+### Wielka Brytania — kultura (poz. 42–52)
+
+- Mr Bean — **Rowan Atkinson**.
+- **The Beatles** — z **Liverpoolu**: John Lennon, **Paul** McCartney, George Harrison, Ringo Starr.
+- **The Rolling Stones** — brytyjski zespół. (Imagine Dragons, Jonas Brothers, Earth, Wind & Fire — z USA.)
+- **Jane Austen** — *Sense and Sensibility* (*Rozważna i romantyczna*), *Pride and Prejudice*.
+- **Charlotte Brontë** — *Jane Eyre*.
+- **Shakespeare** (*Romeo and Juliet*) — urodzony w **Stratford-upon-Avon**.
+- **Banksy** — brytyjski street artist. (Andy Warhol — Amerykanin.)
+- Jedzenie: ***toad in the hole*** (kiełbaski zapiekane w cieście), **shortbread** (herbatnik:
+  mąka, masło, cukier), Yorkshire pudding, haggis (Szkocja).
+
+### Wielka Brytania — historia i legendy (poz. 63–69)
+
+- Język Anglosasów: ***Old English***.
+- Król Artur — żona **Guinevere**, rycerze Okrągłego Stołu, zamek Camelot, miecz Excalibur.
+- **Skara Brae** — neolityczna wioska na Orkadach. (Stonehenge — Anglia.)
+
+### Inne kraje i święta (poz. 72–79)
+
+- Stolica Australii: **Canberra** (nie Sydney!). Nowa Zelandia: taniec **haka** przed meczem rugby.
+- Najwięcej ludzi mówiących po angielsku: **USA**.
+- Irlandia — „***the Emerald Isle***”, stolica **Dublin**.
+- Święta:
+  - European Day of Languages — **26 września**
+  - **Halloween** — 31 października
+  - Guy Fawkes Night — 5 listopada
+  - Thanksgiving — czwarty czwartek listopada
+  - **Memorial Day** — ostatni poniedziałek maja (pamięć poległych żołnierzy USA)
