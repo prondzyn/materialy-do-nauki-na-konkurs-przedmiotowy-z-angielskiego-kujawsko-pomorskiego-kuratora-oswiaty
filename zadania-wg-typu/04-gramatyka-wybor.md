@@ -121,13 +121,13 @@ Najbardziej przewidywalny podtyp: decyduje sygnał czasu albo typ zdania warunko
     - c) will bring
     - d) brought
     <details><summary>odpowiedź</summary>c — will bring</details><br>
-15. I feel like *to go / going* to the cinema this Saturday. *(2019/20, zad. 10.1)*
+15. I feel like **[ to go / going ]** to the cinema this Saturday. *(2019/20, zad. 10.1)*
     <details><summary>odpowiedź</summary>going</details><br>
-16. Tamara *is seeing / sees* a new boyfriend. *(2019/20, zad. 10.2)*
+16. Tamara **[ is seeing / sees ]** a new boyfriend. *(2019/20, zad. 10.2)*
     <details><summary>odpowiedź</summary>is seeing</details><br>
-17. *I've played / I play* the guitar since I turned 7. *(2019/20, zad. 10.4)*
+17. **[ I've played / I play ]** the guitar since I turned 7. *(2019/20, zad. 10.4)*
     <details><summary>odpowiedź</summary>I've played</details><br>
-18. If you *went / go* with me, I will be happy. *(2019/20, zad. 10.5)*
+18. If you **[ went / go ]** with me, I will be happy. *(2019/20, zad. 10.5)*
     <details><summary>odpowiedź</summary>go</details>
 
 ## Czasowniki modalne
@@ -158,9 +158,9 @@ Trzeba odróżnić zakaz (*mustn't*) od braku konieczności (*don't have to*) i 
     - c) don't have to
     - d) mustn't
     <details><summary>odpowiedź</summary>d — mustn't</details><br>
-23. You *mustn't / don't have to* drive here! It's against the law. *(2019/20, zad. 10.7)*
+23. You **[ mustn't / don't have to ]** drive here! It's against the law. *(2019/20, zad. 10.7)*
     <details><summary>odpowiedź</summary>mustn't</details><br>
-24. I won't *can / be able to* buy you another leather jacket. *(2019/20, zad. 10.8)*
+24. I won't **[ can / be able to ]** buy you another leather jacket. *(2019/20, zad. 10.8)*
     <details><summary>odpowiedź</summary>be able to</details>
 
 ## Stopniowanie i porównania; so/such, too/enough
@@ -244,11 +244,11 @@ Pułapki w szyku (*old enough*, nie *enough old*) i w przedimku (*such a lovely 
     - c) several
     - d) few
     <details><summary>odpowiedź</summary>a — little</details><br>
-37. What's the capital of *Northern Ireland / the Northern Ireland*. *(2019/20, zad. 10.6)*
+37. What's the capital of **[ Northern Ireland / the Northern Ireland ]**. *(2019/20, zad. 10.6)*
     <details><summary>odpowiedź</summary>Northern Ireland</details><br>
-38. *These / This* scissors aren't sharp enough. *(2019/20, zad. 10.9)*
+38. **[ These / This ]** scissors aren't sharp enough. *(2019/20, zad. 10.9)*
     <details><summary>odpowiedź</summary>These</details><br>
-39. He didn't know *anyone / no one* at the party. *(2019/20, zad. 10.10)*
+39. He didn't know **[ anyone / no one ]** at the party. *(2019/20, zad. 10.10)*
     <details><summary>odpowiedź</summary>anyone</details>
 
 ## Zaimki, zdania względne, question tags, pytania pośrednie
@@ -267,7 +267,7 @@ Najwięcej tu konstrukcji, które po polsku wyglądają inaczej (*a friend of mi
     - c) myself
     - d) yourselves
     <details><summary>odpowiedź</summary>b — itself</details><br>
-42. John's looking at *his / himself* in the mirror. He's in shock to see another pimple on his right cheek. *(2019/20, zad. 10.3)*
+42. John's looking at **[ his / himself ]** in the mirror. He's in shock to see another pimple on his right cheek. *(2019/20, zad. 10.3)*
     <details><summary>odpowiedź</summary>himself</details><br>
 43. Do you find ________ to learn foreign languages? *(2018/19, zad. 4.7)*
     - a) difficulty

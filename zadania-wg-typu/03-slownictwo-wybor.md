@@ -398,43 +398,43 @@ Znaczenie pojedynczego słowa nie wystarcza: trzeba pamiętać, z czym się łą
     - c) do
     - d) pass
     <details><summary>odpowiedź</summary>c — do</details><br>
-67. My grandpa doesn't have any NEAR / CLOSE family his own age. *(2025/26, zad. 6.4)*
+67. My grandpa doesn't have any **[ NEAR / CLOSE ]** family his own age. *(2025/26, zad. 6.4)*
     <details><summary>odpowiedź</summary>CLOSE</details><br>
-68. She was MAKING / TAKING a fuss because the waiter brought the wrong food. *(2025/26, zad. 6.5)*
+68. She was **[ MAKING / TAKING ]** a fuss because the waiter brought the wrong food. *(2025/26, zad. 6.5)*
     <details><summary>odpowiedź</summary>MAKING</details><br>
-69. We need prisons in SOLUTION / ORDER to keep people safe from criminals. *(2025/26, zad. 6.6)*
+69. We need prisons in **[ SOLUTION / ORDER ]** to keep people safe from criminals. *(2025/26, zad. 6.6)*
     <details><summary>odpowiedź</summary>ORDER</details><br>
-70. What should we do when our Internet connection is AWAY / DOWN? *(2025/26, zad. 6.8)*
+70. What should we do when our Internet connection is **[ AWAY / DOWN ]**? *(2025/26, zad. 6.8)*
     <details><summary>odpowiedź</summary>DOWN</details><br>
-71. When somebody says to you: "DO / MAKE yourself at home", what do you do? *(2025/26, zad. 6.9)*
+71. When somebody says to you: "**[ DO / MAKE ]** yourself at home", what do you do? *(2025/26, zad. 6.9)*
     <details><summary>odpowiedź</summary>MAKE</details><br>
-72. She is very keen ONTO / ON tennis and dreams of becoming a pro one day. *(2024/25, zad. 6.2)*
+72. She is very keen **[ ONTO / ON ]** tennis and dreams of becoming a pro one day. *(2024/25, zad. 6.2)*
     <details><summary>odpowiedź</summary>ON</details><br>
-73. I TOOK / PUT up golf last year and I find it really exciting. *(2023/24, zad. 6.2)*
+73. I **[ TOOK / PUT ]** up golf last year and I find it really exciting. *(2023/24, zad. 6.2)*
     <details><summary>odpowiedź</summary>TOOK</details><br>
-74. Be careful not to MISS / WASTE the target. It's absolutely vital. *(2023/24, zad. 6.3)*
+74. Be careful not to **[ MISS / WASTE ]** the target. It's absolutely vital. *(2023/24, zad. 6.3)*
     <details><summary>odpowiedź</summary>MISS</details><br>
-75. Mike's really INTO / OUT OF football. He dreams of becoming a professional player one day. *(2023/24, zad. 6.6)*
+75. Mike's really **[ INTO / OUT OF ]** football. He dreams of becoming a professional player one day. *(2023/24, zad. 6.6)*
     <details><summary>odpowiedź</summary>INTO</details><br>
-76. My sister is getting married next week! I look FORWARD / AFTER to the event so much. I just can't wait to be there! *(2023/24, zad. 6.7)*
+76. My sister is getting married next week! I look **[ FORWARD / AFTER ]** to the event so much. I just can't wait to be there! *(2023/24, zad. 6.7)*
     <details><summary>odpowiedź</summary>FORWARD</details><br>
-77. Could you give me a HELP / HAND with this bag, please? It is so heavy. *(2023/24, zad. 6.8)*
+77. Could you give me a **[ HELP / HAND ]** with this bag, please? It is so heavy. *(2023/24, zad. 6.8)*
     <details><summary>odpowiedź</summary>HAND</details><br>
-78. I'm really KEEN / FOND of computer games. What are you into? *(2022/23, zad. 6.1)*
+78. I'm really **[ KEEN / FOND ]** of computer games. What are you into? *(2022/23, zad. 6.1)*
     <details><summary>odpowiedź</summary>FOND</details><br>
-79. Wow! You've passed your finals with FLYING / FLOWING colours! Well done! *(2022/23, zad. 6.3)*
+79. Wow! You've passed your finals with **[ FLYING / FLOWING ]** colours! Well done! *(2022/23, zad. 6.3)*
     <details><summary>odpowiedź</summary>FLYING</details><br>
-80. Oh, I can see you're still feeling rather weak. Get WELL / BEST soon! *(2022/23, zad. 6.5)*
+80. Oh, I can see you're still feeling rather weak. Get **[ WELL / BEST ]** soon! *(2022/23, zad. 6.5)*
     <details><summary>odpowiedź</summary>WELL</details><br>
-81. The cinema you're looking for is a big building. You can't SKIP / MISS it! *(2022/23, zad. 6.6)*
+81. The cinema you're looking for is a big building. You can't **[ SKIP / MISS ]** it! *(2022/23, zad. 6.6)*
     <details><summary>odpowiedź</summary>MISS</details><br>
-82. SEE / WATCH out! The food may contain glutten! *(2022/23, zad. 6.7)*
+82. **[ SEE / WATCH ]** out! The food may contain glutten! *(2022/23, zad. 6.7)*
     <details><summary>odpowiedź</summary>WATCH</details><br>
-83. On the OTHER / SECOND hand, I can see lots of disadvantages of building this road near our park. *(2022/23, zad. 6.8)*
+83. On the **[ OTHER / SECOND ]** hand, I can see lots of disadvantages of building this road near our park. *(2022/23, zad. 6.8)*
     <details><summary>odpowiedź</summary>OTHER</details><br>
-84. Is everything all right? What's MATTER / WRONG with you? *(2022/23, zad. 6.9)*
+84. Is everything all right? What's **[ MATTER / WRONG ]** with you? *(2022/23, zad. 6.9)*
     <details><summary>odpowiedź</summary>WRONG</details><br>
-85. Leave your message after the BELL / TONE, please. *(2022/23, zad. 6.10)*
+85. Leave your message after the **[ BELL / TONE ]**, please. *(2022/23, zad. 6.10)*
     <details><summary>odpowiedź</summary>TONE</details>
 
 ## D. Pary mylone
@@ -532,47 +532,47 @@ Najbardziej zdradliwy podtyp: obie opcje są prawdziwymi słowami o podobnej for
      - c) go
      - d) suit
      <details><summary>odpowiedź</summary>a — match</details><br>
-102. My mum's the best COOKER / COOK in the world! *(2025/26, zad. 6.1)*
+102. My mum's the best **[ COOKER / COOK ]** in the world! *(2025/26, zad. 6.1)*
      <details><summary>odpowiedź</summary>COOK</details><br>
-103. I made a few mistakes in the test and I don't think I PASSED / TOOK it. *(2025/26, zad. 6.2)*
+103. I made a few mistakes in the test and I don't think I **[ PASSED / TOOK ]** it. *(2025/26, zad. 6.2)*
      <details><summary>odpowiedź</summary>PASSED</details><br>
-104. Do you think that FABRIC / FACTORY produces electric cars? *(2025/26, zad. 6.3)*
+104. Do you think that **[ FABRIC / FACTORY ]** produces electric cars? *(2025/26, zad. 6.3)*
      <details><summary>odpowiedź</summary>FACTORY</details><br>
-105. There are huge windows OVERLOOKING / LOOKING OVER the rocky shore. *(2025/26, zad. 6.7)*
+105. There are huge windows **[ OVERLOOKING / LOOKING OVER ]** the rocky shore. *(2025/26, zad. 6.7)*
      <details><summary>odpowiedź</summary>OVERLOOKING</details><br>
-106. There are very FEW / LITTLE pizzerias where my cousin lives. *(2025/26, zad. 6.10)*
+106. There are very **[ FEW / LITTLE ]** pizzerias where my cousin lives. *(2025/26, zad. 6.10)*
      <details><summary>odpowiedź</summary>FEW</details><br>
-107. Mike earns a decent PENSION / SALARY of about $100 000 a year. *(2024/25, zad. 6.1)*
+107. Mike earns a decent **[ PENSION / SALARY ]** of about $100 000 a year. *(2024/25, zad. 6.1)*
      <details><summary>odpowiedź</summary>SALARY</details><br>
-108. He is definitely addicted to GAMBLING / HAZARD and he's already lost large sums of money. *(2024/25, zad. 6.3)*
+108. He is definitely addicted to **[ GAMBLING / HAZARD ]** and he's already lost large sums of money. *(2024/25, zad. 6.3)*
      <details><summary>odpowiedź</summary>GAMBLING</details><br>
-109. Thanks for looking after my cat for the weekend. I'm very GRATEFUL / GRACEFUL. *(2024/25, zad. 6.4)*
+109. Thanks for looking after my cat for the weekend. I'm very **[ GRATEFUL / GRACEFUL ]**. *(2024/25, zad. 6.4)*
      <details><summary>odpowiedź</summary>GRATEFUL</details><br>
-110. Why are you in such a bad MOOD / ATMOSPHERE? *(2024/25, zad. 6.5)*
+110. Why are you in such a bad **[ MOOD / ATMOSPHERE ]**? *(2024/25, zad. 6.5)*
      <details><summary>odpowiedź</summary>MOOD</details><br>
-111. The car remained STATIONERY / STATIONARY at the red light, waiting for it to turn green. *(2024/25, zad. 6.6)*
+111. The car remained **[ STATIONERY / STATIONARY ]** at the red light, waiting for it to turn green. *(2024/25, zad. 6.6)*
      <details><summary>odpowiedź</summary>STATIONARY</details><br>
-112. The PRINCIPLE / PRINCIPAL of honesty is very important in building genuine friendship. *(2024/25, zad. 6.7)*
+112. The **[ PRINCIPLE / PRINCIPAL ]** of honesty is very important in building genuine friendship. *(2024/25, zad. 6.7)*
      <details><summary>odpowiedź</summary>PRINCIPLE</details><br>
-113. I always appreciate your ADVISE / ADVICE when I'm making important decisions. *(2024/25, zad. 6.8)*
+113. I always appreciate your **[ ADVISE / ADVICE ]** when I'm making important decisions. *(2024/25, zad. 6.8)*
      <details><summary>odpowiedź</summary>ADVICE</details><br>
-114. She gave me a sincere COMPLEMENT / COMPLIMENT about my presentation, which boosted my confidence. *(2024/25, zad. 6.9)*
+114. She gave me a sincere **[ COMPLEMENT / COMPLIMENT ]** about my presentation, which boosted my confidence. *(2024/25, zad. 6.9)*
      <details><summary>odpowiedź</summary>COMPLIMENT</details><br>
-115. The ACTUAL / CURRENT report is available on the website. *(2024/25, zad. 6.10)*
+115. The **[ ACTUAL / CURRENT ]** report is available on the website. *(2024/25, zad. 6.10)*
      <details><summary>odpowiedź</summary>CURRENT</details><br>
-116. This FABRIC / FACTORY produces the highest quality shoes. *(2023/24, zad. 6.1)*
+116. This **[ FABRIC / FACTORY ]** produces the highest quality shoes. *(2023/24, zad. 6.1)*
      <details><summary>odpowiedź</summary>FACTORY</details><br>
-117. The CRIMINAL / DETECTIVE STORY I started reading yesterday is absolutely gripping! *(2023/24, zad. 6.4)*
+117. The **[ CRIMINAL / DETECTIVE STORY ]** I started reading yesterday is absolutely gripping! *(2023/24, zad. 6.4)*
      <details><summary>odpowiedź</summary>DETECTIVE STORY</details><br>
-118. I'm really sorry but the computer you BORROWED / LENT me last week got damaged. *(2023/24, zad. 6.5)*
+118. I'm really sorry but the computer you **[ BORROWED / LENT ]** me last week got damaged. *(2023/24, zad. 6.5)*
      <details><summary>odpowiedź</summary>LENT</details><br>
-119. Look at Meg. She has very pale CARNATION / COMPLEXION. *(2023/24, zad. 6.9)*
+119. Look at Meg. She has very pale **[ CARNATION / COMPLEXION ]**. *(2023/24, zad. 6.9)*
      <details><summary>odpowiedź</summary>COMPLEXION</details><br>
-120. WHOSE / WHO'S car is it? Your dad's? *(2023/24, zad. 6.10)*
+120. **[ WHOSE / WHO'S ]** car is it? Your dad's? *(2023/24, zad. 6.10)*
      <details><summary>odpowiedź</summary>WHOSE</details><br>
-121. WHAT / WHICH subject do you like better: physics or chemistry? *(2022/23, zad. 6.2)*
+121. **[ WHAT / WHICH ]** subject do you like better: physics or chemistry? *(2022/23, zad. 6.2)*
      <details><summary>odpowiedź</summary>WHICH</details><br>
-122. I need to know you bought these shoes here. I'll give you the full refund if you give me your PRESCRIPTION / RECEIPT, please. *(2022/23, zad. 6.4)*
+122. I need to know you bought these shoes here. I'll give you the full refund if you give me your **[ PRESCRIPTION / RECEIPT ]**, please. *(2022/23, zad. 6.4)*
      <details><summary>odpowiedź</summary>RECEIPT</details>
 
 ---
