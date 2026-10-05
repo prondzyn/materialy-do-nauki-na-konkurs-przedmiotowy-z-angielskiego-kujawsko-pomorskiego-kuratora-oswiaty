@@ -3,6 +3,27 @@
 Materiały do przygotowania: **25 arkuszy z kluczami odpowiedzi** z lat 2017/2018 – 2025/2026
 (wszystkie trzy etapy) + komplet regulaminów na rok szkolny **2026/2027**.
 
+**Wersja do nauki w przeglądarce:**
+<https://prondzyn.github.io/materialy-do-nauki-na-konkurs-przedmiotowy-z-angielskiego-kujawsko-pomorskiego-kuratora-oswiaty/>.
+Ma tę samą treść, ale przy oznaczonych słówkach można kliknąć słowo, żeby zobaczyć tłumaczenie,
+albo 🔊, żeby usłyszeć wymowę. Działa też na telefonie. Na samym GitHubie tłumaczenie pokazuje
+się tylko po najechaniu myszką, a wymowy nie ma.
+
+<details><summary>Jak oznaczyć słówko z tłumaczeniem</summary>
+
+W pliku `.md` wpisz:
+
+```html
+<span title="widzowie (telewizyjni)">viewers</span>
+```
+
+Strona w przeglądarce sama zamienia takie słowo na podkreślone, z dymkiem i głośnikiem.
+Wymowę czyta przeglądarka brytyjskim głosem (synteza mowy, zawsze en-GB), więc nie
+trzeba nagrań. Przykład: ramka w
+[03-slownictwo-wybor.md](zadania-wg-typu/03-slownictwo-wybor.md#a-dopasowanie-definicji).
+
+</details>
+
 ---
 
 ## Terminy 2026/2027 (dla uczniów klas IV–VIII SP)

@@ -35,9 +35,9 @@ Najłatwiejszy podtyp: definicja podpowiada znaczenie, a opcje zwykle wyraźnie 
 **Ramka do pozycji 1–10** (trzy wyrazy nie pasują do żadnej definicji):
 
 <table>
-<tr><td><b>A</b>&nbsp; actors</td><td><b>B</b>&nbsp; applaud</td><td><b>C</b>&nbsp; bravo</td><td><b>D</b>&nbsp; fans</td><td><b>E</b>&nbsp; football players</td></tr>
-<tr><td><b>F</b>&nbsp; lose</td><td><b>G</b>&nbsp; members</td><td><b>H</b>&nbsp; orchestra</td><td><b>I</b>&nbsp; point</td><td><b>J</b>&nbsp; score</td></tr>
-<tr><td><b>K</b>&nbsp; spectators</td><td><b>L</b>&nbsp; viewers</td><td><b>M</b>&nbsp; win</td></tr>
+<tr><td><b>A</b>&nbsp; <span title="aktorzy">actors</span></td><td><b>B</b>&nbsp; <span title="klaskać, oklaskiwać">applaud</span></td><td><b>C</b>&nbsp; <span title="brawo!">bravo</span></td><td><b>D</b>&nbsp; <span title="fani">fans</span></td><td><b>E</b>&nbsp; <span title="piłkarze">football players</span></td></tr>
+<tr><td><b>F</b>&nbsp; <span title="przegrać">lose</span></td><td><b>G</b>&nbsp; <span title="członkowie">members</span></td><td><b>H</b>&nbsp; <span title="orkiestra">orchestra</span></td><td><b>I</b>&nbsp; <span title="punkt">point</span></td><td><b>J</b>&nbsp; <span title="wynik (meczu)">score</span></td></tr>
+<tr><td><b>K</b>&nbsp; <span title="widzowie (na stadionie, na żywo)">spectators</span></td><td><b>L</b>&nbsp; <span title="widzowie (telewizyjni)">viewers</span></td><td><b>M</b>&nbsp; <span title="wygrać">win</span></td></tr>
 </table>
 
 1. people who watch television ________ *(2019/20, zad. 4.1)*

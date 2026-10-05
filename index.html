@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Konkurs z angielskiego — materiały</title>
+<style>
+  :root {
+    --bg: #ffffff; --fg: #1f2328; --muted: #59636e; --line: #d1d9e0;
+    --soft: #f6f8fa; --link: #0969da; --accent: #9a6700; --bubble: #fff8c5;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0d1117; --fg: #e6edf3; --muted: #9198a1; --line: #3d444d;
+      --soft: #151b23; --link: #4493f8; --accent: #d29922; --bubble: #3b2e00;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--fg);
+    font: 16px/1.6 -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  header { border-bottom: 1px solid var(--line); background: var(--soft); }
+  header nav, main { max-width: 900px; margin: 0 auto; padding: 0 16px; }
+  header nav { padding-top: 10px; padding-bottom: 10px; font-size: 14px; }
+  main { padding-top: 8px; padding-bottom: 64px; }
+  a { color: var(--link); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  h1, h2 { border-bottom: 1px solid var(--line); padding-bottom: .3em; }
+  h1 { font-size: 1.9em; } h2 { font-size: 1.45em; margin-top: 1.8em; }
+  code { background: var(--soft); padding: .1em .35em; border-radius: 4px; font-size: .9em; }
+  blockquote { margin: 0; padding: 0 1em; color: var(--muted); border-left: 4px solid var(--line); }
+  table { border-collapse: collapse; margin: 1em 0; max-width: 100%; }
+  th, td { border: 1px solid var(--line); padding: 6px 12px; vertical-align: top; }
+  th { background: var(--soft); }
+  li { margin: .25em 0; }
+  details { display: inline-block; margin: .1em 0; }
+  summary { cursor: pointer; color: var(--muted); font-size: .9em; }
+  details[open] summary { color: var(--accent); }
+  hr { border: 0; border-top: 1px solid var(--line); margin: 2em 0; }
+  #error { color: #cf222e; }
+
+  /* Słówka z tłumaczeniem i wymową */
+  .slowko { position: relative; white-space: nowrap; }
+  .slowko .word {
+    font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer;
+    border-bottom: 2px dotted var(--accent);
+  }
+  .slowko .say {
+    font-size: .8em; background: none; border: 0; padding: 0 0 0 .2em; cursor: pointer;
+    opacity: .75; vertical-align: baseline;
+  }
+  .slowko .say:hover { opacity: 1; }
+  .slowko .tr {
+    position: absolute; left: 0; top: 100%; z-index: 10; margin-top: 4px;
+    background: var(--bubble); color: var(--fg); border: 1px solid var(--line);
+    border-radius: 6px; padding: 2px 8px; font-size: .9em; white-space: nowrap;
+    box-shadow: 0 2px 6px rgba(0,0,0,.15);
+  }
+  .slowko .tr[hidden] { display: none; }
+</style>
+</head>
+<body>
+<header><nav><a href="./">Strona główna</a> · <a href="?p=zadania-wg-typu/README.md">Zadania według typu</a></nav></header>
+<main id="content"><p>Wczytywanie…</p></main>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@18.1.0/lib/marked.umd.js"></script>
+<script>
+(function () {
+  const params = new URLSearchParams(location.search);
+  const page = (params.get('p') || 'README.md').replace(/^\/+/, '');
+  const baseDir = page.includes('/') ? page.slice(0, page.lastIndexOf('/') + 1) : '';
+  const content = document.getElementById('content');
+
+  function resolve(rel) {
+    const parts = (baseDir + rel).split('/');
+    const out = [];
+    for (const p of parts) {
+      if (p === '..') out.pop();
+      else if (p !== '.' && p !== '') out.push(p);
+    }
+    return out.join('/');
+  }
+
+  // Taki sam identyfikator nagłówka jak na GitHubie, żeby działały linki z #kotwicą.
+  function slug(text) {
+    return text.trim().toLowerCase()
+      .replace(/[^\p{L}\p{N}\s_-]/gu, '')
+      .replace(/\s/g, '-');
+  }
+
+  function fixLinks(root) {
+    root.querySelectorAll('a[href]').forEach(a => {
+      const href = a.getAttribute('href');
+      if (/^([a-z]+:|#|\?)/i.test(href)) return;
+      const [path, hash] = href.split('#');
+      if (/\.md$/i.test(path)) {
+        a.href = '?p=' + encodeURI(resolve(path)) + (hash ? '#' + hash : '');
+      } else if (path) {
+        a.href = encodeURI(resolve(path)) + (hash ? '#' + hash : '');
+      }
+    });
+  }
+
+  // --- wymowa (synteza mowy przeglądarki) ---
+  const synth = window.speechSynthesis;
+  let voice = null;
+  // Tylko głosy brytyjskie (en-GB). Najlepiej brzmią głosy „Natural/Online” (Edge),
+  // potem „Google UK English” (Chrome), potem systemowe (np. Daniel na iPhonie).
+  // Amerykańskiego głosu celowo nie bierzemy nawet awaryjnie.
+  function pickVoice() {
+    const gb = (synth ? synth.getVoices() : []).filter(v => /^en[-_]GB$/i.test(v.lang));
+    const rank = v => /natural|online/i.test(v.name) ? 0 : /google/i.test(v.name) ? 1 : 2;
+    gb.sort((a, b) => rank(a) - rank(b));
+    voice = gb[0] || null;
+  }
+  if (synth) { pickVoice(); synth.addEventListener('voiceschanged', pickVoice); }
+  function say(text) {
+    if (!synth) return;
+    synth.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = 'en-GB';
+    if (voice) u.voice = voice;
+    u.rate = 0.85;
+    synth.speak(u);
+  }
+
+  // <span title="tłumaczenie">słowo</span>  →  słowo z ukrytym tłumaczeniem + 🔊
+  function enhanceWords(root) {
+    root.querySelectorAll('span[title]').forEach(span => {
+      const word = span.textContent;
+      const tr = span.getAttribute('title');
+      const box = document.createElement('span');
+      box.className = 'slowko';
+
+      const w = document.createElement('button');
+      w.type = 'button'; w.className = 'word'; w.textContent = word;
+      w.setAttribute('aria-expanded', 'false');
+      w.title = 'Pokaż tłumaczenie';
+
+      const bubble = document.createElement('span');
+      bubble.className = 'tr'; bubble.textContent = tr; bubble.hidden = true;
+
+      w.addEventListener('click', e => {
+        e.stopPropagation();
+        const open = bubble.hidden;
+        document.querySelectorAll('.slowko .tr').forEach(b => { b.hidden = true; });
+        document.querySelectorAll('.slowko .word').forEach(b => b.setAttribute('aria-expanded', 'false'));
+        bubble.hidden = !open;
+        w.setAttribute('aria-expanded', String(open));
+      });
+
+      box.append(w);
+      if (synth) {
+        const s = document.createElement('button');
+        s.type = 'button'; s.className = 'say'; s.textContent = '🔊';
+        s.setAttribute('aria-label', 'Wymowa: ' + word);
+        s.title = 'Posłuchaj wymowy';
+        s.addEventListener('click', e => { e.stopPropagation(); say(word); });
+        box.append(s);
+      }
+      box.append(bubble);
+      span.replaceWith(box);
+    });
+    document.addEventListener('click', () => {
+      document.querySelectorAll('.slowko .tr').forEach(b => { b.hidden = true; });
+    });
+  }
+
+  fetch(encodeURI(page))
+    .then(r => { if (!r.ok) throw new Error(r.status + ' ' + r.statusText); return r.text(); })
+    .then(md => {
+      content.innerHTML = marked.parse(md, { gfm: true });
+      content.querySelectorAll('h1, h2, h3, h4').forEach(h => { if (!h.id) h.id = slug(h.textContent); });
+      fixLinks(content);
+      enhanceWords(content);
+      const h1 = content.querySelector('h1');
+      if (h1) document.title = h1.textContent;
+      if (location.hash) {
+        const el = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+        if (el) el.scrollIntoView();
+      }
+    })
+    .catch(err => {
+      content.innerHTML = '<p id="error"></p>';
+      content.firstChild.textContent = 'Nie udało się wczytać strony „' + page + '” (' + err.message + ').';
+    });
+})();
+</script>
+</body>
+</html>
