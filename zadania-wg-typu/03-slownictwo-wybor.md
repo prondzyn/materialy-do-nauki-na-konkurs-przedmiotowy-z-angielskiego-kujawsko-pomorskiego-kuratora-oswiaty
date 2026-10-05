@@ -33,8 +33,12 @@ z dwóch) = **10 pkt**. Starsze zadania a/b/c/d i dopasowanie definicji są mate
 Najłatwiejszy podtyp: definicja podpowiada znaczenie, a opcje zwykle wyraźnie się różnią.
 
 **Ramka do pozycji 1–10** (trzy wyrazy nie pasują do żadnej definicji):
-A) actors B) applaud C) bravo D) fans E) football players F) lose G) members
-H) orchestra I) point J) score K) spectators L) viewers M) win
+
+<table>
+<tr><td><b>A</b>&nbsp; actors</td><td><b>B</b>&nbsp; applaud</td><td><b>C</b>&nbsp; bravo</td><td><b>D</b>&nbsp; fans</td><td><b>E</b>&nbsp; football players</td></tr>
+<tr><td><b>F</b>&nbsp; lose</td><td><b>G</b>&nbsp; members</td><td><b>H</b>&nbsp; orchestra</td><td><b>I</b>&nbsp; point</td><td><b>J</b>&nbsp; score</td></tr>
+<tr><td><b>K</b>&nbsp; spectators</td><td><b>L</b>&nbsp; viewers</td><td><b>M</b>&nbsp; win</td></tr>
+</table>
 
 1. people who watch television ________ *(2019/20, zad. 4.1)*
    <details><summary>odpowiedź</summary>L — viewers</details><br>

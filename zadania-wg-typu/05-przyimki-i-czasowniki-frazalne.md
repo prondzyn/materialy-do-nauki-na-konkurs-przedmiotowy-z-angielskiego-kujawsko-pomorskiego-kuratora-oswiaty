@@ -40,7 +40,11 @@ Bloki idą od przewagi prostych przyimków do przewagi czasowników frazalnych.
 ### 2018/19, zad. 8 — pozycje 1–10
 
 Ramka (wyrazów możesz użyć więcej niż raz, cztery nie pasują do żadnego zdania):
-**AT / UP / BY / FOR / FROM / ON / ON / OF / OF / TO / WITH / FORWARD / IN / IN**
+
+<table>
+<tr><td><b>AT</b></td><td><b>UP</b></td><td><b>BY</b></td><td><b>FOR</b></td><td><b>FROM</b></td><td><b>ON</b></td><td><b>ON</b></td></tr>
+<tr><td><b>OF</b></td><td><b>OF</b></td><td><b>TO</b></td><td><b>WITH</b></td><td><b>FORWARD</b></td><td><b>IN</b></td><td><b>IN</b></td></tr>
+</table>
 
 1. You should be ashamed ________ what you have done! *(2018/19, zad. 8.1)*
    <details><summary>odpowiedź</summary>of</details><br>
@@ -65,7 +69,12 @@ Ramka (wyrazów możesz użyć więcej niż raz, cztery nie pasują do żadnego 
 
 ### 2025/26, zad. 8 — pozycje 11–20
 
-Ramka (dwa wyrazy więcej): **UP / ON / BY / DOWN / AFTER / WITH / AWAY / FOR / OUT / TO / IN / INTO**
+Ramka (dwa wyrazy więcej):
+
+<table>
+<tr><td><b>UP</b></td><td><b>ON</b></td><td><b>BY</b></td><td><b>DOWN</b></td><td><b>AFTER</b></td><td><b>WITH</b></td></tr>
+<tr><td><b>AWAY</b></td><td><b>FOR</b></td><td><b>OUT</b></td><td><b>TO</b></td><td><b>IN</b></td><td><b>INTO</b></td></tr>
+</table>
 
 11. I sent him my funny text message ________ mistake. *(2025/26, zad. 8.1)*
     <details><summary>odpowiedź</summary>by</details><br>
@@ -90,7 +99,12 @@ Ramka (dwa wyrazy więcej): **UP / ON / BY / DOWN / AFTER / WITH / AWAY / FOR / 
 
 ### 2024/25, zad. 8 — pozycje 21–30
 
-Ramka (dwa wyrazy więcej): **OUT / ABOUT / FOR / OFF / IN / BY / INTO / INTO / DOWN / ON / ACROSS / UP**
+Ramka (dwa wyrazy więcej):
+
+<table>
+<tr><td><b>OUT</b></td><td><b>ABOUT</b></td><td><b>FOR</b></td><td><b>OFF</b></td><td><b>IN</b></td><td><b>BY</b></td></tr>
+<tr><td><b>INTO</b></td><td><b>INTO</b></td><td><b>DOWN</b></td><td><b>ON</b></td><td><b>ACROSS</b></td><td><b>UP</b></td></tr>
+</table>
 
 21. I'm going to split up with Mike because we have almost nothing ________ common. *(2024/25, zad. 8.1)*
     <details><summary>odpowiedź</summary>in</details><br>
@@ -115,7 +129,12 @@ Ramka (dwa wyrazy więcej): **OUT / ABOUT / FOR / OFF / IN / BY / INTO / INTO / 
 
 ### 2022/23, zad. 8 — pozycje 31–40
 
-Ramka (dwa wyrazy więcej): **BY / DOWN / FROM / IN / OFF / OFF / ON / OUT / OUT / OUT / UP / WITH**
+Ramka (dwa wyrazy więcej):
+
+<table>
+<tr><td><b>BY</b></td><td><b>DOWN</b></td><td><b>FROM</b></td><td><b>IN</b></td><td><b>OFF</b></td><td><b>OFF</b></td></tr>
+<tr><td><b>ON</b></td><td><b>OUT</b></td><td><b>OUT</b></td><td><b>OUT</b></td><td><b>UP</b></td><td><b>WITH</b></td></tr>
+</table>
 
 31. How often do you fall ________ with your mum? *(2022/23, zad. 8.1)*
     <details><summary>odpowiedź</summary>out</details><br>
@@ -140,7 +159,12 @@ Ramka (dwa wyrazy więcej): **BY / DOWN / FROM / IN / OFF / OFF / ON / OUT / OUT
 
 ### 2023/24, zad. 8 — pozycje 41–50
 
-Ramka (dwa wyrazy więcej): **OVER / INTO / OFF / ACROSS / BACK / UP / UP / DOWN / OUT / OUT / IN / FORWARD**
+Ramka (dwa wyrazy więcej):
+
+<table>
+<tr><td><b>OVER</b></td><td><b>INTO</b></td><td><b>OFF</b></td><td><b>ACROSS</b></td><td><b>BACK</b></td><td><b>UP</b></td></tr>
+<tr><td><b>UP</b></td><td><b>DOWN</b></td><td><b>OUT</b></td><td><b>OUT</b></td><td><b>IN</b></td><td><b>FORWARD</b></td></tr>
+</table>
 
 41. We need to check ________ our luggage here. *(2023/24, zad. 8.1)*
     <details><summary>odpowiedź</summary>in</details><br>
