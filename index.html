@@ -137,11 +137,14 @@
     letter-spacing: .08em; color: var(--accent);
   }
   .tekst > p:first-of-type strong { font-size: 1.15em; }
+  /* Lista w luce: wąska, żeby nie łamała tekstu (rozwinięte opcje są w pełnej długości);
+     po dobrym wyborze rozszerza się, żeby zdanie dało się przeczytać ze wstawionym fragmentem. */
   .gapsel {
-    font: inherit; max-width: 100%; color: var(--link); background: var(--soft);
-    border: 1px solid var(--line); border-radius: 4px; padding: 0 .3em;
+    font: 600 .9em/1.4 -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    width: 10.5em; max-width: 100%; color: var(--link); background: var(--soft);
+    border: 1px solid var(--line); border-radius: 4px; padding: 0 .2em; text-overflow: ellipsis;
   }
-  .gapsel.ok { color: var(--ok); background: var(--ok-bg); border-color: var(--ok); opacity: 1; }
+  .gapsel.ok { width: auto; color: var(--ok); background: var(--ok-bg); border-color: var(--ok); opacity: 1; }
   .gapsel.bad { color: var(--bad); background: var(--bad-bg); border-color: var(--bad); }
   .gapin.part { border-bottom-color: var(--accent); background: var(--bubble); }
   /* Kratki na litery (_ t _ i _) */
@@ -698,7 +701,7 @@
       const sel = document.createElement('select');
       sel.className = 'gapsel';
       sel.setAttribute('aria-label', 'Wybierz fragment');
-      sel.append(new Option('— wybierz fragment —', ''));
+      sel.append(new Option('wybierz fragment', ''));
       frags.forEach(([l, t]) => sel.append(new Option(l + ') ' + t, l)));
       sel.addEventListener('change', () => {
         sel.classList.remove('ok', 'bad');
