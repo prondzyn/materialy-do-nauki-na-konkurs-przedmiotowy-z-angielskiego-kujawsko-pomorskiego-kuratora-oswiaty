@@ -38,7 +38,13 @@ decyzji naraz.
 ## A. Stopniowanie i liczba mnoga
 
 Wyraz bazowy zostaje tą samą częścią mowy, zmienia się tylko jego forma.
-*Reguła: good → better → best (nieregularne); dry → drier → driest (y → i); -f → -ves (thief → thieves); spółgłoska + y → -ies (injury → injuries).*
+
+| Zmiana | Przykład |
+|---|---|
+| nieregularne | good → better → best |
+| y → i przed -er / -est | dry → drier → driest |
+| -f → -ves | thief → thieves |
+| spółgłoska + y → -ies | injury → injuries |
 
 1. Riding a bike is definitely ________ than riding a motorbike. GOOD *(2025/26, zad. 2.10)*
    <details><summary>odpowiedź</summary>better</details><br>
@@ -52,7 +58,11 @@ Wyraz bazowy zostaje tą samą częścią mowy, zmienia się tylko jego forma.
 ## B. Przysłówek (-ly)
 
 Z przymiotnika robimy przysłówek, który opisuje czasownik lub przymiotnik.
-*Reguła: przymiotnik + -ly (nervous → nervously); -able → -ably (reasonable → reasonably).*
+
+| Zmiana | Przykład |
+|---|---|
+| przymiotnik + -ly | nervous → nervously |
+| -able → -ably | reasonable → reasonably |
 
 5. They all watched ________ as Mike made his way through the crowd. NERVOUS *(2025/26, zad. 2.8)*
    <details><summary>odpowiedź</summary>nervously</details><br>
@@ -62,7 +72,17 @@ Z przymiotnika robimy przysłówek, który opisuje czasownik lub przymiotnik.
 ## C. Przymiotnik (od rzeczownika lub czasownika)
 
 Luka stoi przed rzeczownikiem albo po *be / seem / so / such*.
-*Reguła: -y (rain → rainy), -ly (week → weekly), -less (end → endless), -ous (poison → poisonous), -able (fashion → fashionable, rely → reliable), -ive (talk → talkative); -ed = jak ktoś się czuje (bored), -ing = jaka jest rzecz (exhausting).*
+
+| Końcówka | Przykład |
+|---|---|
+| -y | rain → rainy |
+| -ly | week → weekly |
+| -less | end → endless |
+| -ous | poison → poisonous |
+| -able | fashion → fashionable, rely → reliable |
+| -ive | talk → talkative |
+| -ed — jak ktoś się czuje | bore → bored |
+| -ing — jaka jest rzecz | exhaust → exhausting |
 
 7. What do teenagers do on such ________ days like today? RAIN *(2020/21, zad. 3.7)*
    <details><summary>odpowiedź</summary>rainy</details><br>
@@ -96,7 +116,19 @@ Luka stoi przed rzeczownikiem albo po *be / seem / so / such*.
 ## D. Rzeczownik (od czasownika lub przymiotnika)
 
 Luka stoi po *the / a / my / his / any* albo jest podmiotem zdania.
-*Reguła: -ment (entertain → entertainment), -tion / -sion (solve → solution, discuss → discussion), -ance (disappear → disappearance), -ity / -ty (person → personality, loyal → loyalty), -ery (brave → bravery), -ure (mix → mixture), -dom (free → freedom), -hood (neighbour → neighbourhood), -ship (scholar → scholarship); osoby: -or / -er (compete → competitor, survive → survivor).*
+
+| Końcówka | Przykład |
+|---|---|
+| -ment | entertain → entertainment |
+| -tion / -sion | solve → solution, discuss → discussion |
+| -ance | disappear → disappearance |
+| -ity / -ty | person → personality, loyal → loyalty |
+| -ery | brave → bravery |
+| -ure | mix → mixture |
+| -dom | free → freedom |
+| -hood | neighbour → neighbourhood |
+| -ship | scholar → scholarship |
+| -or / -er — osoba | compete → competitor, survive → survivor |
 
 21. It might look like ________ in fact, the kitten is practising its hunting skills. ENTERTAIN *(2024/25, zad. 2.1)*
     <details><summary>odpowiedź</summary>entertainment</details><br>
@@ -142,7 +174,13 @@ Luka stoi po *the / a / my / his / any* albo jest podmiotem zdania.
 ## E. Przedrostki przeczące (un- / im- / in- / il-)
 
 Wyraz bazowy jest już przymiotnikiem, trzeba tylko dodać właściwe przeczenie.
-*Reguła: im- przed p / m (impolite, immature), il- przed l (illegal), in- m.in. przed c / d / e / t (incorrect, independent, inexpensive, intolerant), un- w pozostałych (unfriendly, unhappy).*
+
+| Przedrostek | Kiedy | Przykład |
+|---|---|---|
+| im- | przed p, m | impolite, immature |
+| il- | przed l | illegal |
+| in- | m.in. przed c, d, e, t | incorrect, independent, inexpensive, intolerant |
+| un- | w pozostałych | unfriendly, unhappy |
 
 41. This city is dangerous and ________ to newcomers. FRIENDLY *(2025/26, zad. 2.3)*
     <details><summary>odpowiedź</summary>unfriendly</details><br>
@@ -166,7 +204,12 @@ Wyraz bazowy jest już przymiotnikiem, trzeba tylko dodać właściwe przeczenie
 ## F. Przedrostki over- / fore- / ex- i złożenia
 
 Znaczenie zmienia przedrostek albo drugi człon wyrazu.
-*Reguła: over- = „za dużo / przeoczyć” (overweight, overworked, oversleep = zaspać); fore- = „przód” (foreground); ex- + change = wymienić.*
+
+| Przedrostek | Znaczenie | Przykład |
+|---|---|---|
+| over- | za dużo / przeoczyć | overweight, overworked, oversleep (= zaspać) |
+| fore- | przód | foreground |
+| ex- | wymiana | change → exchange (= wymienić) |
 
 50. I'm a bit ________. I need to exercise more frequently to get slimmer and healthy. WEIGH *(2023/24, zad. 2.3)*
     <details><summary>odpowiedź</summary>overweight</details><br>
@@ -183,7 +226,26 @@ Znaczenie zmienia przedrostek albo drugi człon wyrazu.
 
 Formy, których nie da się utworzyć zwykłym przyrostkiem, albo wymagające dwóch zmian naraz
 (przedrostek + przyrostek). To najtrudniejsza grupa, więc trzeba ją wykuć na pamięć.
-*Reguła: high → height, long → length, true → truth, know → knowledge, angry → anger, choose → choice, pride → proud; podwójne: un- + -able (uncomfortable), dis- + -ment + -s (disagreements), un- + -able + -ly (unbelievably).*
+
+**Nieregularne — do zapamiętania:**
+
+| Wyraz bazowy | Forma |
+|---|---|
+| high | height |
+| long | length |
+| true | truth |
+| know | knowledge |
+| angry | anger |
+| choose | choice |
+| pride | proud |
+
+**Dwie zmiany naraz:**
+
+| Zmiany | Przykład |
+|---|---|
+| un- + -able | comfort → uncomfortable |
+| dis- + -ment + -s | agree → disagreements |
+| un- + -able + -ly | believe → unbelievably |
 
 55. "What's the ________ of the palace tower?" "It's more than 60 metres." HIGH *(2023/24, zad. 2.1)*
     <details><summary>odpowiedź</summary>height</details><br>

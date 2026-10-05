@@ -40,7 +40,12 @@ Najwięcej punktów traci się na pytaniach o podmiot i na pytaniach z przyimkie
 
 Podkreślony jest okolicznik albo liczba. Zaimek pytający wynika wprost z treści, a reszta zdania
 zostaje bez zmian.
-*Reguła: zaimek + operator + podmiot + czasownik + reszta: They are waiting in the city centre → Where are they waiting for Mike?*
+
+**Wzór:** zaimek pytający + operator + podmiot + czasownik + reszta
+
+| Zdanie | Pytanie |
+|---|---|
+| They are waiting for Mike **in the city centre**. | Where are they waiting for Mike? |
 
 1. The twins are **10**. ________ ? *(2022/23, zad. 3.8)*
    <details><summary>odpowiedź</summary>How old are the twins?</details><br>
@@ -77,7 +82,12 @@ zostaje bez zmian.
 
 Podkreślone jest dopełnienie (co?), a zdanie jest w Present lub Past Simple bez operatora, więc
 trzeba go dodać.
-*Reguła: What + do/does/did + podmiot + czasownik w formie podstawowej: He picked up this leaflet → What did he pick up?*
+
+**Wzór:** What + do / does / did + podmiot + czasownik w formie podstawowej
+
+| Zdanie | Pytanie |
+|---|---|
+| He picked up **this leaflet**. | What did he pick up? |
 
 16. A lot of teenagers speak **English** very well. ________ ? *(2025/26, zad. 3.6)*
     <details><summary>odpowiedź</summary>What do a lot of teenagers speak very well? / What do many teenagers speak very well?</details><br>
@@ -92,7 +102,12 @@ trzeba go dodać.
 
 Operator jest już w zdaniu (*must, has, is, were, would, has got, is going to*) i przechodzi przed
 podmiot. Nie dodajemy *do/does/did*.
-*Reguła: What + operator + podmiot + reszta czasownika: You must wear a helmet → What must you wear…?*
+
+**Wzór:** What + operator (must, has, should…) + podmiot + reszta czasownika
+
+| Zdanie | Pytanie |
+|---|---|
+| You must wear **a helmet**. | What must you wear…? |
 
 20. You must wear **a helmet** when riding a bike. ________ ? *(2025/26, zad. 3.9)*
     <details><summary>odpowiedź</summary>What must you wear when riding a bike? / What do you have to wear when riding a bike?</details><br>
@@ -113,7 +128,13 @@ podmiot. Nie dodajemy *do/does/did*.
 
 Podkreślony fragment stoi po przyimku (*for, of, in, from, with, on*). Przyimek zostaje w pytaniu,
 na jego końcu. Zgubienie go to najczęstsza przyczyna utraty punktu w tej grupie.
-*Reguła: waiting for her brother → Who has she been waiting for? · depends on my mum → Who does my decision depend on?*
+
+**Wzór:** przyimek zostaje na końcu pytania
+
+| Zdanie | Pytanie |
+|---|---|
+| She has been waiting for **her brother**. | Who has she been waiting for? |
+| My decision depends on **my mum**. | Who does my decision depend on? |
 
 27. They are looking for **the car keys**. ________ ? *(2018/19, zad. 6.1)*
     <details><summary>odpowiedź</summary>What are they looking for?</details><br>
@@ -142,7 +163,13 @@ Podkreślony jest **podmiot**, czyli ten, kto wykonuje czynność. *Who/What* za
 a reszta zdania zostaje w niezmienionym szyku. Nie ma *do/does/did*, a czasownik po *Who/What*
 stoi w 3. osobie liczby pojedynczej. To najczęstszy błąd w całym zadaniu: odruchowe
 **~~Who does visit~~** zamiast **Who visits**.
-*Reguła: Doctor Smith visits my grandma → Who visits my grandma every Saturday? · His records sell well → What sells well in America?*
+
+**Wzór:** Who / What + czasownik (bez do / does / did, szyk jak w zdaniu)
+
+| Zdanie | Pytanie |
+|---|---|
+| **Doctor Smith** visits my grandma. | Who visits my grandma every Saturday? |
+| **His records** sell well. | What sells well in America? |
 
 37. **Mark** builds houses. ________ ? *(2018/19, zad. 6.7)*
     <details><summary>odpowiedź</summary>Who builds houses?</details><br>
@@ -170,7 +197,14 @@ stoi w 3. osobie liczby pojedynczej. To najczęstszy błąd w całym zadaniu: od
 Podkreślony jest **czasownik z dopełnieniem**, więc trzeba go zastąpić czasownikiem *do* w formie
 zgodnej z czasem (*doing, do, done*). Do tej grupy należą też pytania o przyczynę (*Why*) i
 przynależność (*Whose* + rzeczownik).
-*Reguła: Martha was taking a bath → What was Martha doing…? · Dave hasn't written any emails → What hasn't Dave done yet? · Samantha's ponytail → Whose ponytail…?*
+
+**Wzór:** pytanie o czynność → What … do / doing; o właściciela → Whose
+
+| Zdanie | Pytanie |
+|---|---|
+| Martha **was taking a bath**. | What was Martha doing…? |
+| Dave **hasn't written any emails**. | What hasn't Dave done yet? |
+| **Samantha's** ponytail… | Whose ponytail…? |
 
 47. She should **leave** before the storm begins. ________ ? *(2024/25, zad. 3.1)*
     <details><summary>odpowiedź</summary>What should she do before the storm begins?</details><br>
