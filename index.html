@@ -64,10 +64,34 @@
     box-shadow: 0 2px 6px rgba(0,0,0,.15);
   }
   .slowko .tr[hidden] { display: none; }
+
+  /* Zadania interaktywne */
+  :root { --ok: #1a7f37; --ok-bg: rgba(46,160,67,.18); --bad: #cf222e; --bad-bg: rgba(248,81,73,.15); }
+  @media (prefers-color-scheme: dark) { :root { --ok: #3fb950; --bad: #f85149; } }
+  .opt { cursor: pointer; border-radius: 4px; padding: 0 .35em; margin-left: -.35em; }
+  li.opt { width: fit-content; }
+  .opt:hover { background: var(--soft); }
+  .opt.ok { background: var(--ok-bg); color: var(--ok); font-weight: 600; }
+  .opt.bad { background: var(--bad-bg); text-decoration: line-through; opacity: .75; }
+  .done .opt:not(.ok) { cursor: default; }
+  .pick {
+    font: inherit; font-weight: 600; color: var(--link); background: var(--soft);
+    border: 1px solid var(--line); border-radius: 4px; padding: 0 .4em; cursor: pointer;
+  }
+  .pick.ok { color: var(--ok); background: var(--ok-bg); border-color: var(--ok); }
+  .pick.bad { color: var(--bad); background: var(--bad-bg); border-color: var(--bad); text-decoration: line-through; }
+  .gapin {
+    font: inherit; width: 7em; padding: 0 .3em; color: var(--fg); background: var(--bg);
+    border: 0; border-bottom: 2px solid var(--muted); border-radius: 0; text-align: center;
+  }
+  .gapin:focus { outline: none; border-bottom-color: var(--link); background: var(--soft); }
+  .gapin.ok { border-bottom-color: var(--ok); color: var(--ok); background: var(--ok-bg); font-weight: 600; }
+  .gapin.bad { border-bottom-color: var(--bad); color: var(--bad); background: var(--bad-bg); }
+  #wynik { float: right; color: var(--muted); }
 </style>
 </head>
 <body>
-<header><nav><a href="./">Strona główna</a> · <a href="?p=zadania-wg-typu/README.md">Zadania według typu</a></nav></header>
+<header><nav><span id="wynik" hidden></span><a href="./">Strona główna</a> · <a href="?p=zadania-wg-typu/README.md">Zadania według typu</a></nav></header>
 <main id="content"><p>Wczytywanie…</p></main>
 
 <script src="https://cdn.jsdelivr.net/npm/marked@18.1.0/lib/marked.umd.js"></script>
@@ -175,6 +199,231 @@
     });
   }
 
+  // --- zadania interaktywne ---
+  // Odpowiedź bierzemy z istniejącego pola <details> „odpowiedź” (klucz z pliku .md).
+  // Po dobrej odpowiedzi pole rozwija się samo i pokazuje wyjaśnienie z klucza.
+  const norm = s => s.toLowerCase().replace(/[’‘`]/g, "'").replace(/\s+/g, ' ').trim();
+  const OPT_RE = /^\s*([a-gA-G])[).\/]\s/;
+  let total = 0, solvedCount = 0;
+
+  function answerOf(det) {
+    const c = det.cloneNode(true);
+    const s = c.querySelector('summary'); if (s) s.remove();
+    return c.textContent.trim();
+  }
+  function letterOf(ans) {
+    const m = ans.match(/^([a-gA-G])(\s+—|\s*$)/);
+    return m ? m[1].toLowerCase() : null;
+  }
+  function updateScore() {
+    const el = document.getElementById('wynik');
+    if (!total) return;
+    el.hidden = false;
+    el.textContent = 'Rozwiązane: ' + solvedCount + ' / ' + total;
+  }
+  function register(det) {
+    total++;
+    const s = det.querySelector('summary'); if (s) s.textContent = 'pokaż odpowiedź';
+    let done = false;
+    return () => { if (done) return; done = true; solvedCount++; det.open = true; updateScore(); };
+  }
+
+  // a/b/c/d jako zagnieżdżona lista pod pytaniem
+  function setupNestedOptions(li, det, ans) {
+    const L = letterOf(ans);
+    const opts = [...li.querySelectorAll(':scope > ul > li')].filter(o => OPT_RE.test(o.textContent));
+    if (!L || opts.length < 2 || !opts.some(o => o.textContent.trim()[0].toLowerCase() === L)) return false;
+    const solve = register(det);
+    opts.forEach(o => {
+      const l = o.textContent.trim()[0].toLowerCase();
+      o.classList.add('opt');
+      o.addEventListener('click', () => {
+        if (li.classList.contains('done')) return;
+        if (l === L) { o.classList.add('ok'); li.classList.add('done'); solve(); }
+        else o.classList.add('bad');
+      });
+    });
+    return true;
+  }
+
+  // „A. teens B. tiny C. teen” w jednej linii
+  function setupInlineOptions(li, det, ans) {
+    const L = letterOf(ans);
+    const node = [...li.childNodes].find(n => n.nodeType === 3 && n.textContent.trim());
+    if (!L || !node) return false;
+    const text = node.textContent;
+    const marks = [...text.matchAll(/(^|\s)([a-gA-G])[.)]\s/g)];
+    if (marks.length < 2 || text.slice(0, marks[0].index).trim()) return false;
+    if (!marks.some(m => m[2].toLowerCase() === L)) return false;
+    const solve = register(det);
+    const frag = document.createDocumentFragment();
+    marks.forEach((m, i) => {
+      const start = m.index + m[1].length;
+      const end = i + 1 < marks.length ? marks[i + 1].index : text.length;
+      const span = document.createElement('span');
+      span.className = 'opt'; span.textContent = text.slice(start, end).trim();
+      const l = m[2].toLowerCase();
+      span.addEventListener('click', () => {
+        if (li.classList.contains('done')) return;
+        if (l === L) { span.classList.add('ok'); li.classList.add('done'); solve(); }
+        else span.classList.add('bad');
+      });
+      frag.append(span, ' ');
+    });
+    node.replaceWith(frag);
+    return true;
+  }
+
+  // **[ X / Y ]** w zdaniu
+  function setupTwoChoice(li, det, ans) {
+    const strong = [...li.querySelectorAll('strong')].find(s => /^\[ .+ \/ .+ \]$/.test(s.textContent.trim()));
+    if (!strong) return false;
+    const options = strong.textContent.trim().slice(2, -2).split(' / ').map(s => s.trim());
+    const a = norm(ans.replace(/^[a-gA-G]\s+—\s+/, ''));
+    let best = null;
+    options.forEach(o => {
+      const n = norm(o);
+      if ((a === n || a.startsWith(n + ' ') || a.startsWith(n + '(')) && (!best || n.length > norm(best).length)) best = o;
+    });
+    if (!best) return false;
+    const solve = register(det);
+    strong.textContent = '[ ';
+    options.forEach((o, i) => {
+      const b = document.createElement('button');
+      b.type = 'button'; b.className = 'pick'; b.textContent = o;
+      b.addEventListener('click', () => {
+        if (li.classList.contains('done')) return;
+        if (o === best) { b.classList.add('ok'); li.classList.add('done'); solve(); }
+        else b.classList.add('bad');
+      });
+      strong.append(b, i + 1 < options.length ? ' / ' : ' ]');
+    });
+    return true;
+  }
+
+  // Luka „________” do wpisania wyrazu z ramki
+  function setupTyping(li, det, accepted) {
+    const walker = document.createTreeWalker(li, NodeFilter.SHOW_TEXT);
+    let node;
+    while ((node = walker.nextNode())) {
+      if (node.parentElement.closest('details, ul')) continue;
+      const m = node.textContent.match(/_{4,}/);
+      if (!m) continue;
+      const solve = register(det);
+      const input = document.createElement('input');
+      input.type = 'text'; input.className = 'gapin';
+      input.autocomplete = 'off'; input.spellcheck = false;
+      input.setAttribute('autocapitalize', 'off');
+      input.setAttribute('aria-label', 'Wpisz odpowiedź');
+      const check = () => {
+        const v = norm(input.value);
+        input.classList.remove('ok', 'bad');
+        if (!v) return;
+        if (accepted.includes(v)) { input.classList.add('ok'); input.readOnly = true; solve(); }
+        else input.classList.add('bad');
+      };
+      input.addEventListener('change', check);
+      input.addEventListener('keydown', e => { if (e.key === 'Enter') { e.preventDefault(); check(); } });
+      const after = node.splitText(m.index);
+      after.textContent = after.textContent.slice(m[0].length);
+      after.before(input);
+      return true;
+    }
+    return false;
+  }
+
+  // Ramka = tabela HTML bez nagłówka (ramki z wyrazami). Zbiera klucze komórek:
+  // litera (np. „L” w ramce A–M) albo sam wyraz (np. „up” w ramce z przyimkami).
+  function boxOf(table) {
+    if (table.querySelector('th')) return null;
+    const texts = [...table.querySelectorAll('td')].map(td => {
+      const c = td.cloneNode(true);
+      c.querySelectorAll('.tr, .say').forEach(x => x.remove());   // bez dymka z tłumaczeniem
+      return c.textContent.replace(/\s+/g, ' ').trim();
+    });
+    if (!texts.length || texts.some(t => t.length > 40)) return null;
+    const letters = new Map(), words = new Set();
+    texts.forEach(t => {
+      const m = t.match(/^([A-Z])\s+(.+)$/);
+      if (m) letters.set(m[1].toLowerCase(), norm(m[2]));
+      else words.add(norm(t));
+    });
+    return { letters, words };
+  }
+
+  function enhanceExercises(root) {
+    // Ramki: elementy po tabeli aż do następnego nagłówka.
+    const boxFor = new Map();
+    root.querySelectorAll('table').forEach(t => {
+      const box = boxOf(t); if (!box) return;
+      for (let el = t.nextElementSibling; el && !/^(H[1-3]|TABLE)$/.test(el.tagName); el = el.nextElementSibling) {
+        el.querySelectorAll('li').forEach(li => boxFor.set(li, box));
+      }
+    });
+
+    root.querySelectorAll('li').forEach(li => {
+      const det = li.querySelector(':scope > details');
+      if (!det) return;
+      const ans = answerOf(det);
+      if (setupNestedOptions(li, det, ans) || setupTwoChoice(li, det, ans) || setupInlineOptions(li, det, ans)) return;
+      const box = boxFor.get(li);
+      if (!box) return;
+      const lm = ans.match(/^([A-Z])\s+—/);
+      const L = lm ? lm[1].toLowerCase() : null;
+      if (box.letters.size && L && box.letters.has(L)) {
+        setupTyping(li, det, [L, box.letters.get(L)]);
+      } else if (box.words.size) {
+        const accepted = ans.split('/').map(norm).filter(w => box.words.has(w));
+        if (accepted.length) setupTyping(li, det, accepted);
+      }
+    });
+
+    // Czytanie: odpowiedzi 1–5 zebrane pod tekstem w osobnych polach <details>.
+    root.querySelectorAll('details').forEach(det => {
+      if (det.closest('li')) return;
+      const n = parseInt(det.querySelector('summary')?.textContent, 10);
+      if (!n) return;
+      const L = letterOf(answerOf(det));
+      if (!L) return;
+      // Pytania a/b/c/d w liście nad odpowiedziami → klikane warianty.
+      let el = det.previousElementSibling;
+      while (el && !/^(OL|H[1-3]|HR)$/.test(el.tagName)) el = el.previousElementSibling;
+      if (el && el.tagName === 'OL') {
+        const li = el.children[n - 1];
+        if (li && !li.querySelector(':scope > details') && setupNestedOptions(li, det, answerOf(det))) return;
+      }
+      // Luki z fragmentami a–g → przyciski z literami przy numerze luki.
+      const solve = register(det);
+      const row = document.createElement('div');
+      row.append('Luka ' + n + ': ');
+      // Litery bierzemy z fragmentów „a) …”, „b) …” pod tekstem (a–f albo a–g).
+      let letters = '';
+      for (let p = det.previousElementSibling; p && !/^(H[1-3]|HR)$/.test(p.tagName); p = p.previousElementSibling) {
+        // „a) …” albo „a. …”; bierzemy kolejne litery od „a” (a, b, c…), żeby nie łapać przypadkowych.
+        let next = 'a';
+        for (const m of p.textContent.matchAll(/(?:^|\s)([a-g])[.)]\s/g)) {
+          if (m[1] === next) { letters += next; next = String.fromCharCode(next.charCodeAt(0) + 1); }
+        }
+        if (letters.length >= 3) break;
+        letters = '';
+      }
+      if (!letters) letters = 'abcdefg';
+      for (const l of letters) {
+        const b = document.createElement('button');
+        b.type = 'button'; b.className = 'pick'; b.textContent = l;
+        b.addEventListener('click', () => {
+          if (row.classList.contains('done')) return;
+          if (l === L) { b.classList.add('ok'); row.classList.add('done'); solve(); }
+          else b.classList.add('bad');
+        });
+        row.append(b, ' ');
+      }
+      det.before(row);
+      det.querySelector('summary').textContent = 'pokaż odpowiedź do luki ' + n;
+    });
+    updateScore();
+  }
+
   fetch(encodeURI(page))
     .then(r => { if (!r.ok) throw new Error(r.status + ' ' + r.statusText); return r.text(); })
     .then(md => {
@@ -182,6 +431,7 @@
       content.querySelectorAll('h1, h2, h3, h4').forEach(h => { if (!h.id) h.id = slug(h.textContent); });
       fixLinks(content);
       enhanceWords(content);
+      enhanceExercises(content);
       const h1 = content.querySelector('h1');
       if (h1) document.title = h1.textContent;
       if (location.hash) {

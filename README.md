@@ -9,6 +9,11 @@ Ma tę samą treść, ale przy oznaczonych słówkach można kliknąć słowo, �
 albo 🔊, żeby usłyszeć wymowę. Działa też na telefonie. Na samym GitHubie tłumaczenie pokazuje
 się tylko po najechaniu myszką, a wymowy nie ma.
 
+Zadania zamknięte są tam interaktywne. Warianty a/b/c/d i `[ X / Y ]` się klika, a w zadaniach
+z ramką wpisuje się wyraz w lukę. Dobra odpowiedź podświetla się na zielono i od razu pokazuje
+wyjaśnienie z klucza. Zła podświetla się na czerwono i można próbować dalej. U góry strony jest
+licznik rozwiązanych zadań. Zadania otwarte (pliki 07–11) mają na razie zwykłe pole „odpowiedź”.
+
 <details><summary>Jak oznaczyć słówko z tłumaczeniem</summary>
 
 W pliku `.md` wpisz:
