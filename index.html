@@ -504,8 +504,7 @@
     return true;
   }
 
-  // Ramka = tabela HTML bez nagłówka (ramki z wyrazami). Zbiera klucze komórek:
-  // litera (np. „L” w ramce A–M) albo sam wyraz (np. „up” w ramce z przyimkami).
+  // Ramka = tabela HTML bez nagłówka (ramki z wyrazami). Zwraca zbiór wyrazów z ramki.
   function boxOf(table) {
     if (table.querySelector('th')) return null;
     const texts = [...table.querySelectorAll('td')].map(td => {
@@ -514,13 +513,7 @@
       return c.textContent.replace(/\s+/g, ' ').trim();
     });
     if (!texts.length || texts.some(t => t.length > 40)) return null;
-    const letters = new Map(), words = new Set();
-    texts.forEach(t => {
-      const m = t.match(/^([A-Z])\s+(.+)$/);
-      if (m) letters.set(m[1].toLowerCase(), norm(m[2]));
-      else words.add(norm(t));
-    });
-    return { letters, words };
+    return new Set(texts.map(normAns));
   }
 
   // Odpowiedzi uznawane w kluczu → lista wariantów (surowy tekst, rozwijany potem przez expand):
@@ -557,14 +550,9 @@
       if (li.closest('.wpisz')) { setupTyping(li, det, acceptedOf(ans)); return; }
       const box = boxFor.get(li);
       if (!box) return;
-      const lm = ans.match(/^([A-Z])\s+—/);
-      const L = lm ? lm[1].toLowerCase() : null;
-      if (box.letters.size && L && box.letters.has(L)) {
-        setupTyping(li, det, [L, box.letters.get(L)], new Set([...box.letters.keys(), ...box.letters.values()].map(normAns)));
-      } else if (box.words.size) {
-        const accepted = ans.split('/').map(norm).filter(w => box.words.has(w));
-        if (accepted.length) setupTyping(li, det, accepted, new Set([...box.words].map(normAns)));
-      }
+      // W lukę wpisuje się wyraz z ramki (bez dopisków typu „(niewykorzystane: …)”).
+      const accepted = acceptedOf(ans).filter(w => box.has(normAns(w)));
+      if (accepted.length) setupTyping(li, det, accepted, box);
     });
 
     // Czytanie: odpowiedzi 1–5 zebrane pod tekstem w osobnych polach <details>.

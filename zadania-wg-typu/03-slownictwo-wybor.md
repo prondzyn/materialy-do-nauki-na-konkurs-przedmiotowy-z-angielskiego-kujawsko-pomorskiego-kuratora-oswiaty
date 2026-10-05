@@ -35,31 +35,31 @@ Najłatwiejszy podtyp: definicja podpowiada znaczenie, a opcje zwykle wyraźnie 
 **Ramka do pozycji 1–10** (trzy wyrazy nie pasują do żadnej definicji):
 
 <table>
-<tr><td><b>A</b>&nbsp; <span title="aktorzy">actors</span></td><td><b>B</b>&nbsp; <span title="klaskać, oklaskiwać">applaud</span></td><td><b>C</b>&nbsp; <span title="brawo!">bravo</span></td><td><b>D</b>&nbsp; <span title="fani">fans</span></td><td><b>E</b>&nbsp; <span title="piłkarze">football players</span></td></tr>
-<tr><td><b>F</b>&nbsp; <span title="przegrać">lose</span></td><td><b>G</b>&nbsp; <span title="członkowie">members</span></td><td><b>H</b>&nbsp; <span title="orkiestra">orchestra</span></td><td><b>I</b>&nbsp; <span title="punkt">point</span></td><td><b>J</b>&nbsp; <span title="wynik (meczu)">score</span></td></tr>
-<tr><td><b>K</b>&nbsp; <span title="widzowie (na stadionie, na żywo)">spectators</span></td><td><b>L</b>&nbsp; <span title="widzowie (telewizyjni)">viewers</span></td><td><b>M</b>&nbsp; <span title="wygrać">win</span></td></tr>
+<tr><td><b><span title="aktorzy">actors</span></b></td><td><b><span title="klaskać, oklaskiwać">applaud</span></b></td><td><b><span title="brawo!">bravo</span></b></td><td><b><span title="fani">fans</span></b></td><td><b><span title="piłkarze">football players</span></b></td></tr>
+<tr><td><b><span title="przegrać">lose</span></b></td><td><b><span title="członkowie">members</span></b></td><td><b><span title="orkiestra">orchestra</span></b></td><td><b><span title="punkt">point</span></b></td><td><b><span title="wynik (meczu)">score</span></b></td></tr>
+<tr><td><b><span title="widzowie (na stadionie, na żywo)">spectators</span></b></td><td><b><span title="widzowie (telewizyjni)">viewers</span></b></td><td><b><span title="wygrać">win</span></b></td></tr>
 </table>
 
 1. people who watch television ________ *(2019/20, zad. 4.1)*
-   <details><summary>odpowiedź</summary>L — viewers</details><br>
+   <details><summary>odpowiedź</summary>viewers</details><br>
 2. not to win the match ________ *(2019/20, zad. 4.2)*
-   <details><summary>odpowiedź</summary>F — lose</details><br>
+   <details><summary>odpowiedź</summary>lose</details><br>
 3. people who play on a pitch ________ *(2019/20, zad. 4.3)*
-   <details><summary>odpowiedź</summary>E — football players</details><br>
+   <details><summary>odpowiedź</summary>football players</details><br>
 4. people who act together in the same play ________ *(2019/20, zad. 4.4)*
-   <details><summary>odpowiedź</summary>A — actors</details><br>
+   <details><summary>odpowiedź</summary>actors</details><br>
 5. people who watch a sporting event ________ *(2019/20, zad. 4.5)*
-   <details><summary>odpowiedź</summary>K — spectators</details><br>
+   <details><summary>odpowiedź</summary>spectators</details><br>
 6. people who all belong to the same club ________ *(2019/20, zad. 4.6)*
-   <details><summary>odpowiedź</summary>G — members</details><br>
+   <details><summary>odpowiedź</summary>members</details><br>
 7. people who support a band ________ *(2019/20, zad. 4.7)*
-   <details><summary>odpowiedź</summary>D — fans</details><br>
+   <details><summary>odpowiedź</summary>fans</details><br>
 8. to clap at the end of a play ________ *(2019/20, zad. 4.8)*
-   <details><summary>odpowiedź</summary>B — applaud</details><br>
+   <details><summary>odpowiedź</summary>applaud</details><br>
 9. a group of people playing classical music together ________ *(2019/20, zad. 4.9)*
-   <details><summary>odpowiedź</summary>H — orchestra</details><br>
+   <details><summary>odpowiedź</summary>orchestra</details><br>
 10. the result of a match / game ________ *(2019/20, zad. 4.10)*
-    <details><summary>odpowiedź</summary>J — score (niewykorzystane: C bravo, I point, M win)</details><br>
+    <details><summary>odpowiedź</summary>score (niewykorzystane: bravo, point, win)</details><br>
 11. When a dog or a cat is **stray**, it's ________ . *(2019/20, zad. 11.1)*
     - A. protected
     - B. homeless
@@ -612,16 +612,16 @@ Najbardziej zdradliwy podtyp: obie opcje są prawdziwymi słowami o podobnej for
 ## Klucz odpowiedzi
 
 **A. Dopasowanie definicji**
-1. L — viewers
-2. F — lose
-3. E — football players
-4. A — actors
-5. K — spectators
-6. G — members
-7. D — fans
-8. B — applaud
-9. H — orchestra
-10. J — score (niewykorzystane: C bravo, I point, M win)
+1. viewers
+2. lose
+3. football players
+4. actors
+5. spectators
+6. members
+7. fans
+8. applaud
+9. orchestra
+10. score (niewykorzystane: bravo, point, win)
 11. B — homeless
 12. C — with no pattern
 13. A — a kind of animal which feeds its young with milk…
