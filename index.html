@@ -395,8 +395,9 @@
 
   // Porównywanie wpisanej odpowiedzi z kluczem: bez wielkich liter i interpunkcji,
   // formy skrócone liczą się tak samo jak pełne (don't = do not, I've = I have).
+  // Polskie znaki nie są wymagane (luki po polsku w czytaniu): przyjazn = przyjaźń.
   function normAns(s) {
-    return s.toLowerCase().replace(/[’‘`´]/g, "'")
+    return s.toLowerCase().replace(/ł/g, 'l').normalize('NFD').replace(/\p{M}/gu, '').replace(/[’‘`´]/g, "'")
       .replace(/\bwon't\b/g, 'will not').replace(/\bcan't\b/g, 'can not')
       .replace(/\bcannot\b/g, 'can not').replace(/\bshan't\b/g, 'shall not')
       .replace(/n't\b/g, ' not').replace(/'ve\b/g, ' have').replace(/'re\b/g, ' are')
@@ -522,8 +523,8 @@
   // Wpisywanie odpowiedzi w lukę. „variants” to odpowiedzi z klucza (surowy tekst).
   // „options” (tylko zadania z ramką): wszystkie wyrazy i litery z ramki — pozwala oceniać
   // na bieżąco: zielony = dobrze, czerwony = inny wyraz z ramki, żółty = nie ma tego w ramce.
-  function setupTyping(li, det, variants, options) {
-    const gaps = findGaps(li);
+  function setupTyping(li, det, variants, options, gapsOverride) {
+    const gaps = gapsOverride || findGaps(li);
     if (!gaps.length) return false;
     if (gaps[0].code) return setupLetters(li, det, variants, gaps[0].code);
     // Dwie luki w jednym zdaniu: wariant z klucza dzielimy na „…”, np. „What is … like”.
@@ -628,12 +629,13 @@
     });
 
     // Czytanie: odpowiedzi 1–5 zebrane pod tekstem w osobnych polach <details>.
+    const openGaps = [];
     root.querySelectorAll('details').forEach(det => {
       if (det.closest('li')) return;
       const n = parseInt(det.querySelector('summary')?.textContent, 10);
       if (!n) return;
       const L = letterOf(answerOf(det));
-      if (!L) return;
+      if (!L) { openGaps.push(det); return; }
       // Pytania a/b/c/d w liście nad odpowiedziami → klikane warianty.
       let el = det.previousElementSibling;
       while (el && !/^(OL|H[1-3]|HR)$/.test(el.tagName)) el = el.previousElementSibling;
@@ -669,6 +671,16 @@
       }
       det.before(row);
       det.querySelector('summary').textContent = 'pokaż odpowiedź do luki ' + n;
+    });
+    // Luki do wpisania w tekście (np. e-mail po polsku): pole w miejscu luki nr n.
+    // Od końca, żeby wstawienie pola nie przesuwało pozostałych luk w tym samym akapicie.
+    openGaps.reverse().forEach(det => {
+      const n = parseInt(det.querySelector('summary').textContent, 10);
+      const els = [];
+      for (let p = det.previousElementSibling; p && !/^(H[1-3]|HR)$/.test(p.tagName); p = p.previousElementSibling) els.unshift(p);
+      const gap = els.flatMap(e => findGaps(e))[n - 1];
+      if (gap && setupTyping(null, det, acceptedOf(answerOf(det)), null, [gap]))
+        det.querySelector('summary').textContent = 'pokaż odpowiedź do luki ' + n;
     });
     updateScore();
   }

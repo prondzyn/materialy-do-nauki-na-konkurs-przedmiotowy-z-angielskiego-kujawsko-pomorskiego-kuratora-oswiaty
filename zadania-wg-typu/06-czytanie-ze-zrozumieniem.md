@@ -181,11 +181,11 @@ researchers found that people who had close friends as teens were happier at the
 
 **Odpowiedzi** (kliknij numer luki/pytania):
 
-<details><summary>1</summary>(naszych / swoich) <b>rodziców</b> — „parents sometimes feel ignored".</details>
-<details><summary>2</summary><b>przyjaźń / zawieranie przyjaźni</b> — „teenagers who were making friends".</details>
+<details><summary>1</summary><b>rodziców</b> / naszych rodziców / swoich rodziców — „parents sometimes feel ignored".</details>
+<details><summary>2</summary><b>przyjaźń / przyjaźnie / zawieranie przyjaźni</b> — „teenagers who were making friends".</details>
 <details><summary>3</summary><b>psychiczne</b> — „mental health".</details>
-<details><summary>4</summary><b>kwestionariusz(e) / ankieta(y)</b> — „questionnaires … to fill out every year".</details>
-<details><summary>5</summary><b>rozwoju</b> (dziecka) — czasopismo „Child Development".</details>
+<details><summary>4</summary><b>kwestionariusz / kwestionariusze / ankieta / ankiety / ankietę</b> — „questionnaires … to fill out every year".</details>
+<details><summary>5</summary><b>rozwoju</b> — czasopismo „Child Development".</details>
 
 ---
 
@@ -454,11 +454,11 @@ overusing them.
    „only runs during the summer" to prawda o pociągu Vouga, nie o Baltic Express.)
 
 ### 2. Would you like to be my friend? *(2018/19)*
-1. (naszych / swoich) **rodziców** — „parents sometimes feel ignored".
-2. **przyjaźń / zawieranie przyjaźni** — „teenagers who were making friends".
+1. **rodziców** / naszych rodziców / swoich rodziców — „parents sometimes feel ignored".
+2. **przyjaźń / przyjaźnie / zawieranie przyjaźni** — „teenagers who were making friends".
 3. **psychiczne** — „mental health".
-4. **kwestionariusz(e) / ankieta(y)** — „questionnaires … to fill out every year".
-5. **rozwoju** (dziecka) — czasopismo „Child Development".
+4. **kwestionariusz / kwestionariusze / ankieta / ankiety / ankietę** — „questionnaires … to fill out every year".
+5. **rozwoju** — czasopismo „Child Development".
 
 ### 3. Colombian Lord of Books *(2022/23)*
 1. **g** — po imieniu i nazwisku człowieka pasuje *who*; „garbage collector" wyjaśnia, skąd książki
