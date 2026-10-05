@@ -42,8 +42,8 @@ Bloki idą od przewagi prostych przyimków do przewagi czasowników frazalnych.
 Ramka (wyrazów możesz użyć więcej niż raz, cztery nie pasują do żadnego zdania):
 
 <table>
-<tr><td><b>AT</b></td><td><b>UP</b></td><td><b>BY</b></td><td><b>FOR</b></td><td><b>FROM</b></td><td><b>ON</b></td><td><b>ON</b></td></tr>
-<tr><td><b>OF</b></td><td><b>OF</b></td><td><b>TO</b></td><td><b>WITH</b></td><td><b>FORWARD</b></td><td><b>IN</b></td><td><b>IN</b></td></tr>
+<tr><td><b><span title="przy, w, o (godzinie)">AT</span></b></td><td><b><span title="w górę, do góry">UP</span></b></td><td><b><span title="przez, obok, przy">BY</span></b></td><td><b><span title="dla, przez (jakiś czas), za">FOR</span></b></td><td><b><span title="z, od">FROM</span></b></td><td><b><span title="na, w (dniu)">ON</span></b></td><td><b><span title="na, w (dniu)">ON</span></b></td></tr>
+<tr><td><b><span title="z, (dopełniacz: kogo? czego?)">OF</span></b></td><td><b><span title="z, (dopełniacz: kogo? czego?)">OF</span></b></td><td><b><span title="do, ku">TO</span></b></td><td><b><span title="z (kimś, czymś)">WITH</span></b></td><td><b><span title="naprzód, do przodu">FORWARD</span></b></td><td><b><span title="w, we, za (jakiś czas)">IN</span></b></td><td><b><span title="w, we, za (jakiś czas)">IN</span></b></td></tr>
 </table>
 
 1. You should be ashamed ________ what you have done! *(2018/19, zad. 8.1)*
@@ -72,8 +72,8 @@ Ramka (wyrazów możesz użyć więcej niż raz, cztery nie pasują do żadnego 
 Ramka (dwa wyrazy więcej):
 
 <table>
-<tr><td><b>UP</b></td><td><b>ON</b></td><td><b>BY</b></td><td><b>DOWN</b></td><td><b>AFTER</b></td><td><b>WITH</b></td></tr>
-<tr><td><b>AWAY</b></td><td><b>FOR</b></td><td><b>OUT</b></td><td><b>TO</b></td><td><b>IN</b></td><td><b>INTO</b></td></tr>
+<tr><td><b><span title="w górę, do góry">UP</span></b></td><td><b><span title="na, w (dniu)">ON</span></b></td><td><b><span title="przez, obok, przy">BY</span></b></td><td><b><span title="w dół, na dół">DOWN</span></b></td><td><b><span title="po, za (kimś)">AFTER</span></b></td><td><b><span title="z (kimś, czymś)">WITH</span></b></td></tr>
+<tr><td><b><span title="precz, z dala, daleko">AWAY</span></b></td><td><b><span title="dla, przez (jakiś czas), za">FOR</span></b></td><td><b><span title="na zewnątrz, poza">OUT</span></b></td><td><b><span title="do, ku">TO</span></b></td><td><b><span title="w, we, za (jakiś czas)">IN</span></b></td><td><b><span title="do (środka)">INTO</span></b></td></tr>
 </table>
 
 11. I sent him my funny text message ________ mistake. *(2025/26, zad. 8.1)*
@@ -102,8 +102,8 @@ Ramka (dwa wyrazy więcej):
 Ramka (dwa wyrazy więcej):
 
 <table>
-<tr><td><b>OUT</b></td><td><b>ABOUT</b></td><td><b>FOR</b></td><td><b>OFF</b></td><td><b>IN</b></td><td><b>BY</b></td></tr>
-<tr><td><b>INTO</b></td><td><b>INTO</b></td><td><b>DOWN</b></td><td><b>ON</b></td><td><b>ACROSS</b></td><td><b>UP</b></td></tr>
+<tr><td><b><span title="na zewnątrz, poza">OUT</span></b></td><td><b><span title="o (czymś), około">ABOUT</span></b></td><td><b><span title="dla, przez (jakiś czas), za">FOR</span></b></td><td><b><span title="od, z (odłączenie), wyłączony">OFF</span></b></td><td><b><span title="w, we, za (jakiś czas)">IN</span></b></td><td><b><span title="przez, obok, przy">BY</span></b></td></tr>
+<tr><td><b><span title="do (środka)">INTO</span></b></td><td><b><span title="do (środka)">INTO</span></b></td><td><b><span title="w dół, na dół">DOWN</span></b></td><td><b><span title="na, w (dniu)">ON</span></b></td><td><b><span title="przez, na drugą stronę">ACROSS</span></b></td><td><b><span title="w górę, do góry">UP</span></b></td></tr>
 </table>
 
 21. I'm going to split up with Mike because we have almost nothing ________ common. *(2024/25, zad. 8.1)*
@@ -132,8 +132,8 @@ Ramka (dwa wyrazy więcej):
 Ramka (dwa wyrazy więcej):
 
 <table>
-<tr><td><b>BY</b></td><td><b>DOWN</b></td><td><b>FROM</b></td><td><b>IN</b></td><td><b>OFF</b></td><td><b>OFF</b></td></tr>
-<tr><td><b>ON</b></td><td><b>OUT</b></td><td><b>OUT</b></td><td><b>OUT</b></td><td><b>UP</b></td><td><b>WITH</b></td></tr>
+<tr><td><b><span title="przez, obok, przy">BY</span></b></td><td><b><span title="w dół, na dół">DOWN</span></b></td><td><b><span title="z, od">FROM</span></b></td><td><b><span title="w, we, za (jakiś czas)">IN</span></b></td><td><b><span title="od, z (odłączenie), wyłączony">OFF</span></b></td><td><b><span title="od, z (odłączenie), wyłączony">OFF</span></b></td></tr>
+<tr><td><b><span title="na, w (dniu)">ON</span></b></td><td><b><span title="na zewnątrz, poza">OUT</span></b></td><td><b><span title="na zewnątrz, poza">OUT</span></b></td><td><b><span title="na zewnątrz, poza">OUT</span></b></td><td><b><span title="w górę, do góry">UP</span></b></td><td><b><span title="z (kimś, czymś)">WITH</span></b></td></tr>
 </table>
 
 31. How often do you fall ________ with your mum? *(2022/23, zad. 8.1)*
@@ -162,8 +162,8 @@ Ramka (dwa wyrazy więcej):
 Ramka (dwa wyrazy więcej):
 
 <table>
-<tr><td><b>OVER</b></td><td><b>INTO</b></td><td><b>OFF</b></td><td><b>ACROSS</b></td><td><b>BACK</b></td><td><b>UP</b></td></tr>
-<tr><td><b>UP</b></td><td><b>DOWN</b></td><td><b>OUT</b></td><td><b>OUT</b></td><td><b>IN</b></td><td><b>FORWARD</b></td></tr>
+<tr><td><b><span title="nad, ponad, przez">OVER</span></b></td><td><b><span title="do (środka)">INTO</span></b></td><td><b><span title="od, z (odłączenie), wyłączony">OFF</span></b></td><td><b><span title="przez, na drugą stronę">ACROSS</span></b></td><td><b><span title="z powrotem, do tyłu">BACK</span></b></td><td><b><span title="w górę, do góry">UP</span></b></td></tr>
+<tr><td><b><span title="w górę, do góry">UP</span></b></td><td><b><span title="w dół, na dół">DOWN</span></b></td><td><b><span title="na zewnątrz, poza">OUT</span></b></td><td><b><span title="na zewnątrz, poza">OUT</span></b></td><td><b><span title="w, we, za (jakiś czas)">IN</span></b></td><td><b><span title="naprzód, do przodu">FORWARD</span></b></td></tr>
 </table>
 
 41. We need to check ________ our luggage here. *(2023/24, zad. 8.1)*

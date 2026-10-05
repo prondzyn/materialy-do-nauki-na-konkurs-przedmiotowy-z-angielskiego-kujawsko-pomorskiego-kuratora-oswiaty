@@ -60,7 +60,7 @@
   .slowko .tr {
     position: absolute; left: 0; top: 100%; z-index: 10; margin-top: 4px;
     background: var(--bubble); color: var(--fg); border: 1px solid var(--line);
-    border-radius: 6px; padding: 2px 8px; font-size: .9em; white-space: nowrap;
+    border-radius: 6px; padding: 2px 8px; font-size: .9em; font-weight: normal; white-space: nowrap;
     box-shadow: 0 2px 6px rgba(0,0,0,.15);
   }
   .slowko .tr[hidden] { display: none; }
@@ -124,6 +124,8 @@
   function say(text) {
     if (!synth) return;
     synth.cancel();
+    // Słowa pisane WERSALIKAMI (np. UP, IN w ramkach) głos czytałby jak skróty.
+    if (text === text.toUpperCase()) text = text.toLowerCase();
     const u = new SpeechSynthesisUtterance(text);
     u.lang = 'en-GB';
     if (voice) u.voice = voice;
