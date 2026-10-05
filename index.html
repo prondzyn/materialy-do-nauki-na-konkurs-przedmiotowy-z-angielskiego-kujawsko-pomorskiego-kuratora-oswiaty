@@ -351,6 +351,19 @@
     return { letters, words };
   }
 
+  // Odpowiedzi uznawane w kluczu, np. „at (klucz uznaje też: before, after)”,
+  // „solution / solutions”, „poisonous (nie: poisoned)”. Uwagi ⚠ pomijamy.
+  function acceptedOf(ans) {
+    let a = ans.split('⚠')[0];
+    const extra = [];
+    a = a.replace(/\(([^)]*)\)/g, (m, inner) => {
+      const t = inner.match(/^\s*(?:klucz uznaje też|też)\s*:\s*(.*)$/i);
+      if (t) extra.push(...t[1].split(/[,/]/));
+      return ' ';
+    });
+    return [...a.split('/'), ...extra].map(norm).filter(Boolean);
+  }
+
   function enhanceExercises(root) {
     // Ramki: elementy po tabeli aż do następnego nagłówka.
     const boxFor = new Map();
@@ -366,6 +379,8 @@
       if (!det) return;
       const ans = answerOf(det);
       if (setupNestedOptions(li, det, ans) || setupTwoChoice(li, det, ans) || setupInlineOptions(li, det, ans)) return;
+      // Sekcje oznaczone w .md jako <div class="wpisz"> — wpisywanie bez ramki, odpowiedzi z klucza.
+      if (li.closest('.wpisz')) { setupTyping(li, det, acceptedOf(ans)); return; }
       const box = boxFor.get(li);
       if (!box) return;
       const lm = ans.match(/^([A-Z])\s+—/);

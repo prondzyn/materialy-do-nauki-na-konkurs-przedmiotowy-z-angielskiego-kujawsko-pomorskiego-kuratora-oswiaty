@@ -191,7 +191,11 @@ Ramka (dwa wyrazy więcej):
 
 Zamiast przyimka trzeba dobrać czasownik do stałego wyrażenia; są tylko trzy opcje, ale trzeba pamiętać całe zwroty.
 
-Uzupełnij zdania czasownikiem **DO / GET / MAKE**.
+Uzupełnij zdania czasownikiem z ramki (każdego można użyć więcej niż raz):
+
+<table>
+<tr><td><b><span title="robić (czynność, pracę)">DO</span></b></td><td><b><span title="dostać, stać się, dotrzeć">GET</span></b></td><td><b><span title="robić, tworzyć, wytwarzać">MAKE</span></b></td></tr>
+</table>
 
 51. She can't ________ over her shyness. *(2018/19, zad. 7.1)*
     <details><summary>odpowiedź</summary>get</details><br>
@@ -207,6 +211,8 @@ Uzupełnij zdania czasownikiem **DO / GET / MAKE**.
 ## C. Bez ramki
 
 Najtrudniejszy podtyp: nie ma listy do wyboru, więc przyimek trzeba przypomnieć sobie samemu i zapisać bezbłędnie.
+
+<div class="wpisz">
 
 56. Pay attention ________ what your teacher is saying right now. *(2019/20, zad. 2.1)*
     <details><summary>odpowiedź</summary>to</details><br>
@@ -248,6 +254,8 @@ Najtrudniejszy podtyp: nie ma listy do wyboru, więc przyimek trzeba przypomnie�
     <details><summary>odpowiedź</summary>out</details><br>
 75. ________ conclusion, there are advantages and disadvantages of studying abroad. *(2020/21, zad. 2.10)*
     <details><summary>odpowiedź</summary>In</details>
+
+</div>
 
 ---
 
