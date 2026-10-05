@@ -30,6 +30,8 @@ zad. 4 = **15 pkt** (w latach 2022/23–2024/25 było za 10 pkt).
 
 ---
 
+<div class="wpisz">
+
 ## Dom i przedmioty codzienne
 
 Najprostsze słowa, zwykle z podręcznika do klasy 5–7.
@@ -181,6 +183,8 @@ Najtrudniejsza grupa. Obraz rzeczy nie pomoże: trzeba znać idiom, spójnik alb
     <details><summary>odpowiedź</summary>superstitions</details>
 
 ---
+
+</div>
 
 ## Klucz odpowiedzi
 

@@ -34,6 +34,8 @@ Najwięcej punktów traci się na pytaniach o podmiot i na pytaniach z przyimkie
 
 ---
 
+<div class="wpisz">
+
 ## A. Miejsce, czas, wiek, sposób (Where / When / What time / How old / How long / How fast)
 
 Podkreślony jest okolicznik albo liczba. Zaimek pytający wynika wprost z treści, a reszta zdania
@@ -55,17 +57,17 @@ zostaje bez zmian.
 7. She has lived in Greece **for 5 years**. ________ ? *(2018/19, zad. 6.3)*
    <details><summary>odpowiedź</summary>How long has she lived in Greece?</details><br>
 8. We had to leave for school **at 7.30**. ________ ? *(2025/26, zad. 3.7)*
-   <details><summary>odpowiedź</summary>What time did we have to leave for school? — ⚠ naturalniej <i>What time did you have to leave for school?</i> (zamiana <i>we → you</i>). Klucz podaje wersję z <i>we</i>.</details><br>
+   <details><summary>odpowiedź</summary>What time did we have to leave for school? / What time did you have to leave for school? — ⚠ naturalniej <i>What time did you have to leave for school?</i> (zamiana <i>we → you</i>). Klucz podaje wersję z <i>we</i>.</details><br>
 9. I met him **just before he moved to the USA**. ________ ? *(2024/25, zad. 3.2)*
    <details><summary>odpowiedź</summary>When did you meet him? / When did I meet him?</details><br>
 10. Mike was standing **outside the bank** when he saw the robbers. ________ ? *(2024/25, zad. 3.4)*
     <details><summary>odpowiedź</summary>Where was Mike standing when he saw the robbers?</details><br>
 11. My twin brother prefers spending his free time **in the gym**. ________ ? *(2025/26, zad. 3.10)*
-    <details><summary>odpowiedź</summary>Where does my twin brother prefer spending his free time? — ⚠ naturalniej <i>your twin brother</i>. Klucz podaje <i>my</i>.</details><br>
+    <details><summary>odpowiedź</summary>Where does my twin brother prefer spending his free time? / Where does your twin brother prefer spending his free time? — ⚠ naturalniej <i>your twin brother</i>. Klucz podaje <i>my</i>.</details><br>
 12. My grandma invited me **to her favourite cafeteria**. ________ ? *(2024/25, zad. 3.10)*
-    <details><summary>odpowiedź</summary>Where did your grandma invite you? — ⚠ w kluczu: <i>Where did grandma invite me?</i> Zgubiono zaimek (<i>my/your grandma</i>). Poprawnie: <i>Where did your grandma invite you?</i> lub <i>Where did my grandma invite me?</i></details><br>
+    <details><summary>odpowiedź</summary>Where did your grandma invite you? / Where did my grandma invite me? / Where did grandma invite me? — ⚠ w kluczu: <i>Where did grandma invite me?</i> Zgubiono zaimek (<i>my/your grandma</i>). Poprawnie: <i>Where did your grandma invite you?</i> lub <i>Where did my grandma invite me?</i></details><br>
 13. Mrs Tomson loves painting; she keeps spending a lot of time **in her studio**. ________ ? *(2023/24, zad. 3.6)*
-    <details><summary>odpowiedź</summary>Where does she keep spending a lot of time? / Where does Mrs Tomson keep spending a lot of time? — ⚠ klucz podaje <i>much time</i> i dopisek „(a lot of time – informal)”. Obie formy powinny być uznane, a bezpieczniej przepisać tę ze zdania: <i>a lot of time</i>.</details><br>
+    <details><summary>odpowiedź</summary>Where does she keep spending a lot of time? / Where does Mrs Tomson keep spending a lot of time? / Where does she keep spending much time? — ⚠ klucz podaje <i>much time</i> i dopisek „(a lot of time – informal)”. Obie formy powinny być uznane, a bezpieczniej przepisać tę ze zdania: <i>a lot of time</i>.</details><br>
 14. She's been feeling **under the weather** lately. ________ ? *(2022/23, zad. 3.9)*
     <details><summary>odpowiedź</summary>How has she been feeling (lately)?</details><br>
 15. They're going to drive **at 120 km/h**. ________ drive? *(2020/21, zad. 5.10)*
@@ -105,7 +107,7 @@ podmiot. Nie dodajemy *do/does/did*.
 25. He has never seen **such a breathtaking view** before. ________ ? *(2024/25, zad. 3.6)*
     <details><summary>odpowiedź</summary>What has he never seen before?</details><br>
 26. Cathy would really like to be **a scientist** one day. ________ ? *(2023/24, zad. 3.5)*
-    <details><summary>odpowiedź</summary>Who would Cathy like to be one day? — ⚠ klucz podaje <i>Who</i>. Przy zawodach częściej pyta się <i>What would Cathy (really) like to be one day?</i> Ta forma powinna być uznana, ale nie ma jej w kluczu.</details>
+    <details><summary>odpowiedź</summary>Who would Cathy like to be one day? / What would Cathy like to be one day? — ⚠ klucz podaje <i>Who</i>. Przy zawodach częściej pyta się <i>What would Cathy (really) like to be one day?</i> Ta forma powinna być uznana, ale nie ma jej w kluczu.</details>
 
 ## D. Pytania z przyimkiem na końcu
 
@@ -132,7 +134,7 @@ na jego końcu. Zgubienie go to najczęstsza przyczyna utraty punktu w tej grupi
 35. I was in London **with my best friend**. ________ ? *(2018/19, zad. 6.5)*
     <details><summary>odpowiedź</summary>Who were you in London with? / Who was with you in London?</details><br>
 36. Greg's been suffering from **a splitting headache** for two hours now. ________ ? *(2023/24, zad. 3.9)*
-    <details><summary>odpowiedź</summary>What problem has Greg been suffering from? — ⚠ naturalniej i bezpieczniej: <i>What has Greg been suffering from (for two hours now)?</i> Klucz podaje wersję z <i>problem</i>.</details>
+    <details><summary>odpowiedź</summary>What problem has Greg been suffering from? / What has Greg been suffering from? — ⚠ naturalniej i bezpieczniej: <i>What has Greg been suffering from (for two hours now)?</i> Klucz podaje wersję z <i>problem</i>.</details>
 
 ## E. Pytania o podmiot (bez do / does / did)
 
@@ -181,7 +183,7 @@ przynależność (*Whose* + rzeczownik).
 51. The pupils have to **follow all the ten rules** here. ________ ? *(2022/23, zad. 3.10)*
     <details><summary>odpowiedź</summary>What do the pupils have to do (here)?</details><br>
 52. The airline passengers have to **follow air travel rules**. ________ ? *(2023/24, zad. 3.10)*
-    <details><summary>odpowiedź</summary>What do the airline passengers have to do? — klucz: <i>What do the passengers have to do?</i></details><br>
+    <details><summary>odpowiedź</summary>What do the airline passengers have to do? / What do the passengers have to do? — klucz: <i>What do the passengers have to do?</i></details><br>
 53. Mr. Cormack couldn't **come to work** yesterday. ________ yesterday? *(2020/21, zad. 5.4)*
     <details><summary>odpowiedź</summary>What couldn't Mr. Cormack do yesterday? / What could Mr. Cormack not do yesterday?</details><br>
 54. While Martha **was taking a bath**, there was a blackout. ________ ? *(2022/23, zad. 3.4)*
@@ -201,6 +203,8 @@ przynależność (*Whose* + rzeczownik).
 
 ---
 
+</div>
+
 ## Klucz odpowiedzi
 
 Warianty w nawiasach są w kluczu opcjonalne. „/” oddziela warianty uznawane przez komisję.
@@ -214,16 +218,16 @@ Warianty w nawiasach są w kluczu opcjonalne. „/” oddziela warianty uznawane
 5. Where are they waiting for Mike?
 6. Where was there a plant? (klucz: nie uznaje się *Where was a plant?*)
 7. How long has she lived in Greece?
-8. What time did we have to leave for school? — ⚠ naturalniej *What time did you have to leave for
+8. What time did we have to leave for school? / What time did you have to leave for school? — ⚠ naturalniej *What time did you have to leave for
    school?* (zamiana *we → you*). Klucz podaje wersję z *we*.
 9. When did you meet him? / When did I meet him?
 10. Where was Mike standing when he saw the robbers?
-11. Where does my twin brother prefer spending his free time? — ⚠ naturalniej *your twin brother*.
+11. Where does my twin brother prefer spending his free time? / Where does your twin brother prefer spending his free time? — ⚠ naturalniej *your twin brother*.
     Klucz podaje *my*.
-12. Where did your grandma invite you? — ⚠ w kluczu: *Where did grandma invite me?* Zgubiono
+12. Where did your grandma invite you? / Where did my grandma invite me? / Where did grandma invite me? — ⚠ w kluczu: *Where did grandma invite me?* Zgubiono
     zaimek (*my/your grandma*). Poprawnie: *Where did your grandma invite you?* lub
     *Where did my grandma invite me?*
-13. Where does she keep spending a lot of time? / Where does Mrs Tomson keep spending a lot of time? —
+13. Where does she keep spending a lot of time? / Where does Mrs Tomson keep spending a lot of time? / Where does she keep spending much time? —
     ⚠ klucz podaje *much time* i dopisek „(a lot of time – informal)”. Obie formy powinny być uznane,
     a bezpieczniej przepisać tę ze zdania: *a lot of time*.
 14. How has she been feeling (lately)?
@@ -243,7 +247,7 @@ Warianty w nawiasach są w kluczu opcjonalne. „/” oddziela warianty uznawane
 24. What has Arnie got in his hand? / What has he got in his hand? (klucz: nie uznaje się
     *What does he have…*, bo zmienia strukturę zdania wyjściowego)
 25. What has he never seen before?
-26. Who would Cathy like to be one day? — ⚠ klucz podaje *Who*. Przy zawodach częściej pyta się
+26. Who would Cathy like to be one day? / What would Cathy like to be one day? — ⚠ klucz podaje *Who*. Przy zawodach częściej pyta się
     *What would Cathy (really) like to be one day?* Ta forma powinna być uznana, ale nie ma jej
     w kluczu.
 
@@ -257,7 +261,7 @@ Warianty w nawiasach są w kluczu opcjonalne. „/” oddziela warianty uznawane
 33. Who does my decision depend on? / Who does this decision depend on?
 34. Who does she always ask for help?
 35. Who were you in London with? / Who was with you in London?
-36. What problem has Greg been suffering from? — ⚠ naturalniej i bezpieczniej: *What has Greg been
+36. What problem has Greg been suffering from? / What has Greg been suffering from? — ⚠ naturalniej i bezpieczniej: *What has Greg been
     suffering from (for two hours now)?* Klucz podaje wersję z *problem*.
 
 **E.**
@@ -280,7 +284,7 @@ Warianty w nawiasach są w kluczu opcjonalne. „/” oddziela warianty uznawane
 49. What could Arianna do when she was just five?
 50. What would Chris really like to do?
 51. What do the pupils have to do (here)?
-52. What do the airline passengers have to do? — klucz: *What do the passengers have to do?*
+52. What do the airline passengers have to do? / What do the passengers have to do? — klucz: *What do the passengers have to do?*
 53. What couldn't Mr. Cormack do yesterday? / What could Mr. Cormack not do yesterday?
 54. What was Martha doing when there was a blackout?
 55. What was the doctor doing when someone knocked at the door?

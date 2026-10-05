@@ -87,6 +87,7 @@
   .gapin:focus { outline: none; border-bottom-color: var(--link); background: var(--soft); }
   .gapin.ok { border-bottom-color: var(--ok); color: var(--ok); background: var(--ok-bg); font-weight: 600; }
   .gapin.bad { border-bottom-color: var(--bad); color: var(--bad); background: var(--bad-bg); }
+  .gapin.part { border-bottom-color: var(--accent); background: var(--bubble); }
   #wynik { float: right; color: var(--muted); }
 </style>
 </head>
@@ -301,35 +302,134 @@
     return true;
   }
 
-  // Luka „________” do wpisania wyrazu z ramki
-  function setupTyping(li, det, accepted) {
+  // Porównywanie wpisanej odpowiedzi z kluczem: bez wielkich liter i interpunkcji,
+  // formy skrócone liczą się tak samo jak pełne (don't = do not, I've = I have).
+  function normAns(s) {
+    return s.toLowerCase().replace(/[’‘`´]/g, "'")
+      .replace(/\bwon't\b/g, 'will not').replace(/\bcan't\b/g, 'can not')
+      .replace(/\bcannot\b/g, 'can not').replace(/\bshan't\b/g, 'shall not')
+      .replace(/n't\b/g, ' not').replace(/'ve\b/g, ' have').replace(/'re\b/g, ' are')
+      .replace(/'m\b/g, ' am').replace(/'ll\b/g, ' will').replace(/'d\b/g, ' would')
+      .replace(/[.,?!;:"„”«»→…]/g, ' ').replace(/\s+/g, ' ').trim();
+  }
+
+  // Wariant z klucza → wszystkie dopuszczalne zapisy:
+  // „(today)” w nawiasie = może być albo nie, „I/you” bez spacji = jedno albo drugie.
+  function expand(v) {
+    let outs = [v];
+    for (let guard = 0; guard < 4 && outs.some(o => /\([^)]*\)/.test(o)); guard++) {
+      outs = outs.flatMap(o => {
+        const m = o.match(/\(([^)]*)\)/);
+        return m ? [o.replace(m[0], m[1]), o.replace(m[0], ' ')] : [o];
+      });
+    }
+    return outs.flatMap(o => {
+      let res = [''];
+      for (const t of o.split(/\s+/)) {
+        const alts = /\w\/\w/.test(t) ? t.split('/') : [t];
+        res = res.flatMap(r => alts.map(x => r + ' ' + x));
+      }
+      return res;
+    });
+  }
+
+  function makeInput(width) {
+    const input = document.createElement('input');
+    input.type = 'text'; input.className = 'gapin';
+    input.autocomplete = 'off'; input.spellcheck = false;
+    input.setAttribute('autocapitalize', 'off');
+    input.setAttribute('aria-label', 'Wpisz odpowiedź');
+    input.style.width = width + 'em';
+    return input;
+  }
+
+  // Luki w zadaniu: „________” w tekście albo wzór z literami pomocniczymi `_ t _ i _`.
+  function findGaps(li) {
+    const gaps = [];
     const walker = document.createTreeWalker(li, NodeFilter.SHOW_TEXT);
     let node;
     while ((node = walker.nextNode())) {
-      if (node.parentElement.closest('details, ul')) continue;
-      const m = node.textContent.match(/_{4,}/);
-      if (!m) continue;
-      const solve = register(det);
-      const input = document.createElement('input');
-      input.type = 'text'; input.className = 'gapin';
-      input.autocomplete = 'off'; input.spellcheck = false;
-      input.setAttribute('autocapitalize', 'off');
-      input.setAttribute('aria-label', 'Wpisz odpowiedź');
-      const check = () => {
-        const v = norm(input.value);
-        input.classList.remove('ok', 'bad');
-        if (!v) return;
-        if (accepted.includes(v)) { input.classList.add('ok'); input.readOnly = true; solve(); }
-        else input.classList.add('bad');
-      };
-      input.addEventListener('change', check);
-      input.addEventListener('keydown', e => { if (e.key === 'Enter') { e.preventDefault(); check(); } });
-      const after = node.splitText(m.index);
-      after.textContent = after.textContent.slice(m[0].length);
-      after.before(input);
-      return true;
+      const p = node.parentElement;
+      if (p.closest('details, ul, em, strong')) continue;
+      if (p.tagName === 'CODE') {
+        if (/_/.test(node.textContent)) gaps.push({ code: p });
+        continue;
+      }
+      for (const m of node.textContent.matchAll(/_{4,}/g)) gaps.push({ node, index: m.index, len: m[0].length });
     }
-    return false;
+    return gaps;
+  }
+
+  // Zamienia lukę na pole. Zwraca pole oraz tekst przed i za luką w tej samej linii.
+  function placeInput(gap, width) {
+    const input = makeInput(width);
+    if (gap.code) {                         // wzór z literami zostaje widoczny, pole stoi obok
+      gap.code.after(' ', input);
+      return { input, pre: '', post: '' };
+    }
+    const text = gap.node.textContent;
+    const pre = text.slice(0, gap.index).split('\n').pop();
+    const post = text.slice(gap.index + gap.len).split('\n')[0];
+    const after = gap.node.splitText(gap.index);
+    after.textContent = after.textContent.slice(gap.len);
+    after.before(input);
+    return { input, pre, post };
+  }
+
+  // Wpisywanie odpowiedzi w lukę. „variants” to odpowiedzi z klucza (surowy tekst).
+  // „options” (tylko zadania z ramką): wszystkie wyrazy i litery z ramki — pozwala oceniać
+  // na bieżąco: zielony = dobrze, czerwony = inny wyraz z ramki, żółty = nie ma tego w ramce.
+  function setupTyping(li, det, variants, options) {
+    const gaps = findGaps(li);
+    if (!gaps.length) return false;
+    // Dwie luki w jednym zdaniu: wariant z klucza dzielimy na „…”, np. „What is … like”.
+    const multi = gaps.length > 1 && variants.some(v => v.split('…').length === gaps.length);
+    const used = multi ? gaps : [gaps[0]];
+    const parts = multi
+      ? used.map((_, i) => new Set(variants.flatMap(v => {
+          const p = v.split('…'); return p.length === gaps.length ? expand(p[i]).map(normAns) : [];
+        })))
+      : [new Set(variants.flatMap(v => expand(v)).map(normAns).filter(Boolean))];
+    if (!parts[0].size) return false;
+    const longest = Math.max(...variants.map(v => v.length));
+    // Tylko dwie szerokości, żeby długość pola nie zdradzała długości odpowiedzi.
+    const width = multi ? 7 : longest > 14 ? 18 : 8;
+
+    const solve = register(det);
+    const fields = [];
+    for (let i = used.length - 1; i >= 0; i--) fields.unshift(placeInput(used[i], width));
+
+    const okOne = (f, set) => {
+      const v = f.input.value;
+      return [v, v + ' ' + f.post, f.pre + ' ' + v, f.pre + ' ' + v + ' ' + f.post].some(x => set.has(normAns(x)));
+    };
+    const mark = cls => fields.forEach(f => {
+      f.input.classList.remove('ok', 'bad', 'part');
+      if (cls) f.input.classList.add(cls);
+    });
+    const isOk = () => fields.every((f, i) => okOne(f, parts[i]));
+    const win = () => { mark('ok'); fields.forEach(f => { f.input.readOnly = true; }); solve(); };
+    // Enter / wyjście z pola: ocena ostateczna
+    const check = () => {
+      if (fields.some(f => f.input.readOnly)) return;
+      if (fields.some(f => !f.input.value.trim())) return mark(null);
+      if (isOk()) return win();
+      mark(options && !options.has(normAns(fields[0].input.value)) ? 'part' : 'bad');
+    };
+    // W trakcie pisania: dobra odpowiedź od razu na zielono; w ramce także czerwony/żółty
+    const live = () => {
+      if (fields.some(f => f.input.readOnly)) return;
+      if (fields.some(f => !f.input.value.trim())) return mark(null);
+      if (isOk()) return win();
+      if (!options) return mark(null);
+      mark(options.has(normAns(fields[0].input.value)) ? 'bad' : 'part');
+    };
+    fields.forEach(f => {
+      f.input.addEventListener('input', live);
+      f.input.addEventListener('change', check);
+      f.input.addEventListener('keydown', e => { if (e.key === 'Enter') { e.preventDefault(); check(); } });
+    });
+    return true;
   }
 
   // Ramka = tabela HTML bez nagłówka (ramki z wyrazami). Zbiera klucze komórek:
@@ -351,17 +451,19 @@
     return { letters, words };
   }
 
-  // Odpowiedzi uznawane w kluczu, np. „at (klucz uznaje też: before, after)”,
-  // „solution / solutions”, „poisonous (nie: poisoned)”. Uwagi ⚠ pomijamy.
+  // Odpowiedzi uznawane w kluczu → lista wariantów (surowy tekst, rozwijany potem przez expand):
+  // „solution / solutions”, „at (klucz uznaje też: before, after)”, „(today)” jako część
+  // opcjonalna. Uwagi po „⚠” i „ — ” oraz dopiski po polsku w nawiasach pomijamy.
   function acceptedOf(ans) {
-    let a = ans.split('⚠')[0];
+    let a = ans.split('⚠')[0].split(' — ')[0];
     const extra = [];
     a = a.replace(/\(([^)]*)\)/g, (m, inner) => {
       const t = inner.match(/^\s*(?:klucz uznaje też|też)\s*:\s*(.*)$/i);
-      if (t) extra.push(...t[1].split(/[,/]/));
-      return ' ';
+      if (t) { extra.push(...t[1].split(/\s*[,/]\s*/)); return ' '; }
+      if (/[:=ąćęłńóśźż]/i.test(inner) || inner.trim().split(/\s+/).length > 4) return ' ';
+      return m;                              // np. „(today)” — część opcjonalna
     });
-    return [...a.split('/'), ...extra].map(norm).filter(Boolean);
+    return [...a.split(/\s+\/\s+/), ...extra].map(v => v.trim()).filter(Boolean);
   }
 
   function enhanceExercises(root) {
@@ -386,10 +488,10 @@
       const lm = ans.match(/^([A-Z])\s+—/);
       const L = lm ? lm[1].toLowerCase() : null;
       if (box.letters.size && L && box.letters.has(L)) {
-        setupTyping(li, det, [L, box.letters.get(L)]);
+        setupTyping(li, det, [L, box.letters.get(L)], new Set([...box.letters.keys(), ...box.letters.values()].map(normAns)));
       } else if (box.words.size) {
         const accepted = ans.split('/').map(norm).filter(w => box.words.has(w));
-        if (accepted.length) setupTyping(li, det, accepted);
+        if (accepted.length) setupTyping(li, det, accepted, new Set([...box.words].map(normAns)));
       }
     });
 

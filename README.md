@@ -12,7 +12,11 @@ się tylko po najechaniu myszką, a wymowy nie ma.
 Zadania zamknięte są tam interaktywne. Warianty a/b/c/d i `[ X / Y ]` się klika, a w zadaniach
 z ramką wpisuje się wyraz w lukę. Dobra odpowiedź podświetla się na zielono i od razu pokazuje
 wyjaśnienie z klucza. Zła podświetla się na czerwono i można próbować dalej. U góry strony jest
-licznik rozwiązanych zadań. Zadania otwarte (pliki 07–11) mają na razie zwykłe pole „odpowiedź”.
+licznik rozwiązanych zadań. W zadaniach otwartych (pliki 07–11 i zadania bez ramki) odpowiedź
+wpisuje się w lukę: dobra zapala się na zielono od razu, zła na czerwono po Enterze albo kliknięciu
+obok. Formy skrócone liczą się tak samo jak pełne (*don't* = *do not*). W zadaniach z ramką
+wpisany wyraz sprawdza się od razu: zielony = dobrze, czerwony = inny wyraz z ramki,
+żółty = takiego wyrazu nie ma w ramce.
 
 <details><summary>Jak oznaczyć słówko z tłumaczeniem</summary>
 

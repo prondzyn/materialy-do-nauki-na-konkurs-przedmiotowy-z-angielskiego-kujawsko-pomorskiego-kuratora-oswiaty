@@ -31,6 +31,8 @@ Zadanie trwa krócej niż transformacje, ale błędów robi się tu dużo, bo lu
 
 ---
 
+<div class="wpisz">
+
 ## Past Simple i Past Continuous
 
 Zakończona czynność w przeszłości albo czynność w trakcie, którą coś przerwało (*while*, *when*).
@@ -131,6 +133,8 @@ steal – stole – stolen; eat – ate – eaten; see – saw – seen; make �
 swim – swam – swum; run – ran – run.
 
 ---
+
+</div>
 
 ## Klucz odpowiedzi
 

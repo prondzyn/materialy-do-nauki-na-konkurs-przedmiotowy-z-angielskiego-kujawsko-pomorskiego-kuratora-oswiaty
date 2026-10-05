@@ -45,6 +45,8 @@ fragmentów (2019/20, 2020/21), 10 mini-dialogów (2018/19) — razem **85 pozyc
 
 ---
 
+<div class="wpisz">
+
 ## Transformacje ze słowem kluczem
 
 ### 1. let / make / allow
@@ -323,7 +325,7 @@ w luce). Ten typ nie występuje w obecnym formacie, ale ćwiczy dokładnie te sa
 ### Modalne i warunkowe
 
 74. Oni (nie muszą) ________ do the shopping today. *(2019/20, zad. 9.7)*
-    <details><summary>odpowiedź</summary>do not have to / don't have to / do not need to / don't need to — ⚠ podmiot „Oni” został w zdaniu po polsku, a klucz podaje sam czasownik; bezpiecznie napisać <i>They don't have to</i>.</details><br>
+    <details><summary>odpowiedź</summary>do not have to / don't have to / do not need to / don't need to / they do not have to / they don't have to / they do not need to / they don't need to — ⚠ podmiot „Oni” został w zdaniu po polsku, a klucz podaje sam czasownik; bezpiecznie napisać <i>They don't have to</i>.</details><br>
 75. (Czy poszlibyście) ________ to the concert if you got the tickets? *(2019/20, zad. 9.8)*
     <details><summary>odpowiedź</summary>Would you go</details>
 
@@ -367,6 +369,8 @@ dodaj brakujące wyrazy; max 5 wyrazów w luce, wliczając podane.
     <details><summary>odpowiedź</summary>a message after the tone / your message after the tone</details>
 
 ---
+
+</div>
 
 ## Klucz odpowiedzi
 
@@ -450,7 +454,7 @@ Warianty rozdzielone „/” są uznawane przez klucz. Nawias = element opcjonal
 71. Everyone likes / Everybody likes / Everyone enjoys / Everybody enjoys (nie: *All people*)
 72. as interesting as
 73. more comfortable than / comfier than / more comfy than / more convenient than
-74. do not have to / don't have to / do not need to / don't need to — ⚠ podmiot „Oni” został w zdaniu po polsku, a klucz podaje sam czasownik; bezpiecznie napisać *They don't have to*.
+74. do not have to / don't have to / do not need to / don't need to / they do not have to / they don't have to / they do not need to / they don't need to — ⚠ podmiot „Oni” został w zdaniu po polsku, a klucz podaje sam czasownik; bezpiecznie napisać *They don't have to*.
 75. Would you go
 
 **Mini-dialogi**

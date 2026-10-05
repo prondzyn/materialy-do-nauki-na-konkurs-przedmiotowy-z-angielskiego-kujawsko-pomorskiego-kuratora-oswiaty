@@ -33,6 +33,8 @@ decyzji naraz.
 
 ---
 
+<div class="wpisz">
+
 ## A. Stopniowanie i liczba mnoga
 
 Wyraz bazowy zostaje tą samą częścią mowy, zmienia się tylko jego forma.
@@ -223,6 +225,8 @@ Formy, których nie da się utworzyć zwykłym przyrostkiem, albo wymagające dw
     <details><summary>odpowiedź</summary>academically</details>
 
 ---
+
+</div>
 
 ## Klucz odpowiedzi
 
