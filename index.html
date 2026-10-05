@@ -20,9 +20,30 @@
     margin: 0; background: var(--bg); color: var(--fg);
     font: 16px/1.6 -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   }
-  header { border-bottom: 1px solid var(--line); background: var(--soft); }
+  /* Nagłówek przyczepiony do góry strony (razem ze spisem działów) */
+  header { position: sticky; top: 0; z-index: 20; border-bottom: 1px solid var(--line); background: var(--soft); }
+  h1, h2, h3, h4 { scroll-margin-top: calc(var(--hdr, 50px) + 12px); }
   header nav, main { max-width: 900px; margin: 0 auto; padding: 0 16px; }
   header nav { padding-top: 10px; padding-bottom: 10px; font-size: 14px; }
+  /* Spis działów na podstronach zadań */
+  #dzialy { border-top: 1px solid var(--line); }
+  #dzialy ol {
+    max-width: 900px; margin: 0 auto; padding: 6px 16px; list-style: none;
+    display: flex; flex-wrap: wrap; gap: 4px 6px; font-size: 13px;
+  }
+  #dzialy li { margin: 0; }
+  /* Na telefonie działy w jednym przewijanym wierszu, żeby pasek nie zajmował pół ekranu */
+  @media (max-width: 700px) {
+    #dzialy ol { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+  }
+  #dzialy a, #dzialy span {
+    display: inline-block; padding: 2px 8px; border-radius: 12px;
+    border: 1px solid var(--line); white-space: nowrap;
+  }
+  #dzialy a:hover { background: var(--soft); text-decoration: none; }
+  #dzialy span { background: var(--accent); border-color: var(--accent); color: var(--bg); font-weight: 600; }
+  .prevnext { display: flex; justify-content: space-between; gap: 12px; margin-top: 3em;
+    padding-top: 1em; border-top: 1px solid var(--line); font-size: 15px; }
   main { padding-top: 8px; padding-bottom: 64px; }
   a { color: var(--link); text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -33,6 +54,16 @@
   table { border-collapse: collapse; margin: 1em 0; max-width: 100%; }
   th, td { border: 1px solid var(--line); padding: 6px 12px; vertical-align: top; }
   th { background: var(--soft); }
+  /* Zwykłe tabelki przewijają się w poziomie same, a nie razem z całą stroną.
+     Ramki z wyrazami (ze słówkami) nie, bo przewijanie ucinałoby dymki z tłumaczeniem. */
+  table:not(:has(.slowko)) { display: block; overflow-x: auto; }
+  @media (max-width: 700px) {
+    /* Ramka na telefonie: komórki zawijają się do kolejnych wierszy */
+    table:has(.slowko) { display: block; border: 1px solid var(--line); padding: 4px; }
+    table:has(.slowko) tbody { display: flex; flex-wrap: wrap; gap: 4px; }
+    table:has(.slowko) tr { display: contents; }
+    table:has(.slowko) td { display: block; padding: 4px 8px; }
+  }
   li { margin: .25em 0; }
   /* „odpowiedź” zawsze w osobnej linii pod pytaniem; po rozwinięciu odpowiedź w ramce pod spodem */
   details { display: block; width: fit-content; max-width: 100%; margin: .1em 0 .4em; }
@@ -92,7 +123,7 @@
 </style>
 </head>
 <body>
-<header><nav><span id="wynik" hidden></span><a href="./">Strona główna</a> · <a href="?p=zadania-wg-typu/README.md">Zadania według typu</a></nav></header>
+<header><nav><span id="wynik" hidden></span><a href="./">Strona główna</a> · <a href="?p=zadania-wg-typu/README.md">Zadania według typu</a></nav><nav id="dzialy" hidden aria-label="Działy"></nav></header>
 <main id="content"><p>Wczytywanie…</p></main>
 
 <script src="https://cdn.jsdelivr.net/npm/marked@18.1.0/lib/marked.umd.js"></script>
@@ -198,6 +229,47 @@
     document.addEventListener('click', () => {
       document.querySelectorAll('.slowko .tr').forEach(b => { b.hidden = true; });
     });
+  }
+
+  // --- spis działów na podstronach zadań ---
+  const DZIALY = [
+    ["01-kultura", "Kultura"], ["02-funkcje-jezykowe", "Funkcje językowe"],
+    ["03-slownictwo-wybor", "Słownictwo — wybór"], ["04-gramatyka-wybor", "Gramatyka — wybór"],
+    ["05-przyimki-i-czasowniki-frazalne", "Przyimki i frazale"], ["06-czytanie-ze-zrozumieniem", "Czytanie"],
+    ["07-formy-czasownikow-w-nawiasach", "Formy czasowników"], ["08-slownictwo-uzupelnij-wyraz", "Uzupełnij wyraz"],
+    ["09-slowotworstwo", "Słowotwórstwo"], ["10-pytania-o-podkreslony-fragment", "Pytania"],
+    ["11-transformacje-i-tlumaczenia", "Transformacje"],
+  ];
+  function addSectionNav() {
+    const m = page.match(/^zadania-wg-typu\/(.+)\.md$/);
+    if (!m) return;
+    const cur = DZIALY.findIndex(d => d[0] === m[1]);
+    const nav = document.getElementById("dzialy");
+    const ol = document.createElement("ol");
+    DZIALY.forEach(([file, name], i) => {
+      const li = document.createElement("li");
+      const label = String(i + 1).padStart(2, "0") + " " + name;
+      const el = document.createElement(i === cur ? "span" : "a");
+      if (i !== cur) el.href = "?p=zadania-wg-typu/" + file + ".md";
+      else el.setAttribute("aria-current", "page");
+      el.textContent = label;
+      li.append(el); ol.append(li);
+    });
+    nav.append(ol); nav.hidden = false;
+    const curEl = ol.querySelector("[aria-current]");
+    if (curEl) ol.scrollLeft = curEl.offsetLeft - 16;   // na telefonie bieżący dział widoczny
+    if (cur < 0) return;
+    // „← poprzedni / następny →” na dole strony
+    const pn = document.createElement("div"); pn.className = "prevnext";
+    const link = (i, txt) => {
+      if (i < 0 || i >= DZIALY.length) return document.createElement("span");
+      const a = document.createElement("a");
+      a.href = "?p=zadania-wg-typu/" + DZIALY[i][0] + ".md"; a.textContent = txt;
+      return a;
+    };
+    pn.append(link(cur - 1, cur > 0 ? "← " + String(cur).padStart(2, "0") + " " + DZIALY[cur - 1][1] : ""),
+              link(cur + 1, cur + 1 < DZIALY.length ? String(cur + 2).padStart(2, "0") + " " + DZIALY[cur + 1][1] + " →" : ""));
+    content.append(pn);
   }
 
   // --- zadania interaktywne ---
@@ -549,6 +621,9 @@
       fixLinks(content);
       enhanceWords(content);
       enhanceExercises(content);
+      addSectionNav();
+      const hdr = () => document.documentElement.style.setProperty("--hdr", document.querySelector("header").offsetHeight + "px");
+      hdr(); window.addEventListener("resize", hdr);
       const h1 = content.querySelector('h1');
       if (h1) document.title = h1.textContent;
       if (location.hash) {
