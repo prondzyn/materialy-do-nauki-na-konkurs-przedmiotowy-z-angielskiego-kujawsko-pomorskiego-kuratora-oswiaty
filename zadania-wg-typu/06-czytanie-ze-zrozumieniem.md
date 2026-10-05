@@ -39,6 +39,8 @@ wiadomo, ile czasu zostało.
 
 ### 1. Unforgettable train trips *(2025/26, zad. 1)*
 
+<div class="tekst">
+
 **Unforgettable train trips…** — Lynn Brown
 
 On 27 September 1825, reporters and onlookers from across England came in big numbers to the
@@ -99,6 +101,8 @@ colourful artistic city known for its urban artworks, installations and performa
 *Źródło: bbc.com/travel, 26.09.2025 (tekst skrócony w arkuszu — w ostatnim akapicie brakuje nazwy
 jednego miasta, tak jest w oryginale arkusza).*
 
+</div>
+
 1. What significant event happened in Darlington on 27 September 1825?
    - a) The first electric train was built
    - b) The first public passenger train journey took place
@@ -139,6 +143,8 @@ jednego miasta, tak jest w oryginale arkusza).*
 Przeczytaj tekst w języku angielskim, a następnie uzupełnij w e-mailu luki 1–5 zgodnie z treścią
 tekstu. Luki należy uzupełnić **w języku polskim**.
 
+<div class="tekst">
+
 **Would you like to be my friend?**
 
 As children become teenagers, teen friendships become more and more important. In fact, parents
@@ -155,6 +161,8 @@ group. On the basis of the questionnaires the people received to fill out every 
 researchers found that people who had close friends as teens were happier at the age of 25.
 
 *(adapted from: health.usnews.com)*
+
+</div>
 
 > Cześć Aga,
 >
@@ -196,6 +204,8 @@ researchers found that people who had close friends as teens were happier at the
 Przeczytaj tekst, a następnie uzupełnij luki (1–5) brakującymi fragmentami zdań (a–g). Wpisz literę
 (a–g) w każdą z luk. Podano dwa dodatkowe fragmenty zdań.
 
+<div class="tekst">
+
 **Colombian Lord of Books**
 
 Jose Gutierrez, **1.** _____, is bringing the gift of reading to thousands of Colombian children.
@@ -228,6 +238,8 @@ greatest invention. And the best thing that can happen to a human being."
 
 *(adapted from: tweentribune.com)*
 
+</div>
+
 | | Fragmenty do wstawienia |
 |---|---|
 | **a)** | that allows books to be read digitally |
@@ -255,6 +267,8 @@ greatest invention. And the best thing that can happen to a human being."
 Przeczytaj tekst. Wybierz dla każdej luki (1–5) zdanie z listy pod tekstem i wpisz właściwą literę
 (a–f). Jedno zdanie nie pasuje do żadnego fragmentu tekstu.
 
+<div class="tekst">
+
 **Social media and FOMO**
 
 Because of social media, we're reminded all the time how much there is for us to do. When we look at
@@ -281,6 +295,8 @@ what I've achieved.'
 
 *(adapted from: livehappy.com)*
 
+</div>
+
 | | Fragmenty do wstawienia |
 |---|---|
 | **a)** | At the same time the rest of the world is outside having fun in the snow. |
@@ -302,6 +318,8 @@ what I've achieved.'
 
 Przeczytaj tekst, a następnie uzupełnij luki (1–5) brakującymi fragmentami zdań (a–g). Wpisz literę
 (a–g) w każdą z luk. Podano dwa dodatkowe fragmenty zdań.
+
+<div class="tekst">
 
 **Start-up helps fight mosquitoes**
 
@@ -344,6 +362,8 @@ help our community, they will last for months and right into the dry season."
 
 *(adapted from: news.ufl.edu, 2022)*
 
+</div>
+
 | | Fragmenty do wstawienia |
 |---|---|
 | **a)** | "Beneficial insects like bees and other pollinators are not attracted to the trap." |
@@ -366,6 +386,8 @@ help our community, they will last for months and right into the dry season."
 
 Przeczytaj tekst, a następnie uzupełnij luki (1–5) brakującymi fragmentami zdań (a–g). Wpisz literę
 (a–g) w każdą z luk. Podano dwa dodatkowe fragmenty zdań.
+
+<div class="tekst">
 
 **Sir Alexander Fleming and the accident that changed modern medicine**
 
@@ -419,6 +441,8 @@ And while scientists continue to develop antibiotics, experts are still warning 
 overusing them.
 
 *(bbc.co.uk/newsround, 27 September 2024)*
+
+</div>
 
 | | Fragmenty do wstawienia |
 |---|---|

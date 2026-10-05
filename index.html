@@ -124,6 +124,25 @@
   .gapin:focus { outline: none; border-bottom-color: var(--link); background: var(--soft); }
   .gapin.ok { border-bottom-color: var(--ok); color: var(--ok); background: var(--ok-bg); font-weight: 600; }
   .gapin.bad { border-bottom-color: var(--bad); color: var(--bad); background: var(--bad-bg); }
+  td.used { opacity: .45; text-decoration: line-through; }
+  /* Tekst do przeczytania w czytaniu — wyraźnie oddzielony od polecenia */
+  .tekst {
+    margin: 1.2em 0 1.6em; padding: .4em 1.4em 1em; border-radius: 8px;
+    background: var(--soft); border: 1px solid var(--line); border-left: 5px solid var(--accent);
+    font-family: Georgia, "Times New Roman", serif; font-size: 1.06em; line-height: 1.75;
+  }
+  .tekst::before {
+    content: "TEKST DO PRZECZYTANIA"; display: block; margin: .6em 0 .2em;
+    font: 700 .72em/1 -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    letter-spacing: .08em; color: var(--accent);
+  }
+  .tekst > p:first-of-type strong { font-size: 1.15em; }
+  .gapsel {
+    font: inherit; max-width: 100%; color: var(--link); background: var(--soft);
+    border: 1px solid var(--line); border-radius: 4px; padding: 0 .3em;
+  }
+  .gapsel.ok { color: var(--ok); background: var(--ok-bg); border-color: var(--ok); opacity: 1; }
+  .gapsel.bad { color: var(--bad); background: var(--bad-bg); border-color: var(--bad); }
   .gapin.part { border-bottom-color: var(--accent); background: var(--bubble); }
   /* Kratki na litery (_ t _ i _) */
   .letters { display: inline-flex; gap: 2px; vertical-align: middle; padding: 2px; border-radius: 6px; }
@@ -523,7 +542,7 @@
   // Wpisywanie odpowiedzi w lukę. „variants” to odpowiedzi z klucza (surowy tekst).
   // „options” (tylko zadania z ramką): wszystkie wyrazy i litery z ramki — pozwala oceniać
   // na bieżąco: zielony = dobrze, czerwony = inny wyraz z ramki, żółty = nie ma tego w ramce.
-  function setupTyping(li, det, variants, options, gapsOverride) {
+  function setupTyping(li, det, variants, options, gapsOverride, onOk) {
     const gaps = gapsOverride || findGaps(li);
     if (!gaps.length) return false;
     if (gaps[0].code) return setupLetters(li, det, variants, gaps[0].code);
@@ -553,7 +572,10 @@
       if (cls) f.input.classList.add(cls);
     });
     const isOk = () => fields.every((f, i) => okOne(f, parts[i]));
-    const win = () => { mark('ok'); fields.forEach(f => { f.input.readOnly = true; }); solve(); };
+    const win = () => {
+      mark('ok'); fields.forEach(f => { f.input.readOnly = true; }); solve();
+      if (onOk) onOk(fields[0].input.value);
+    };
     // Enter / wyjście z pola: ocena ostateczna
     const check = () => {
       if (fields.some(f => f.input.readOnly)) return;
@@ -577,16 +599,29 @@
     return true;
   }
 
-  // Ramka = tabela HTML bez nagłówka (ramki z wyrazami). Zwraca zbiór wyrazów z ramki.
+  // Ramka = tabela HTML bez nagłówka (ramki z wyrazami): wyrazy, komórki i to, czy wyrazy
+  // się wykluczają. Jeśli polecenie mówi „więcej niż raz”, wykorzystanych nie skreślamy.
   function boxOf(table) {
     if (table.querySelector('th')) return null;
-    const texts = [...table.querySelectorAll('td')].map(td => {
+    const tds = [...table.querySelectorAll('td')];
+    const texts = tds.map(td => {
       const c = td.cloneNode(true);
       c.querySelectorAll('.tr, .say').forEach(x => x.remove());   // bez dymka z tłumaczeniem
       return c.textContent.replace(/\s+/g, ' ').trim();
     });
     if (!texts.length || texts.some(t => t.length > 40)) return null;
-    return new Set(texts.map(normAns));
+    const prev = table.previousElementSibling;
+    return {
+      words: new Set(texts.map(normAns)),
+      cells: tds.map((td, i) => ({ td, key: normAns(texts[i]) })),
+      exclusive: !(prev && /więcej niż raz/i.test(prev.textContent)),
+    };
+  }
+  // Skreśla w ramce jeden (jeszcze nieskreślony) egzemplarz wyrazu.
+  function useCell(box, word) {
+    if (!box.exclusive) return;
+    const c = box.cells.find(c => c.key === normAns(word) && !c.td.classList.contains('used'));
+    if (c) c.td.classList.add('used');
   }
 
   // Odpowiedzi uznawane w kluczu → lista wariantów (surowy tekst, rozwijany potem przez expand):
@@ -624,18 +659,18 @@
       const box = boxFor.get(li);
       if (!box) return;
       // W lukę wpisuje się wyraz z ramki (bez dopisków typu „(niewykorzystane: …)”).
-      const accepted = acceptedOf(ans).filter(w => box.has(normAns(w)));
-      if (accepted.length) setupTyping(li, det, accepted, box);
+      const accepted = acceptedOf(ans).filter(w => box.words.has(normAns(w)));
+      if (accepted.length) setupTyping(li, det, accepted, box.words, null, v => useCell(box, v));
     });
 
     // Czytanie: odpowiedzi 1–5 zebrane pod tekstem w osobnych polach <details>.
-    const openGaps = [];
+    const gapDets = [];   // luki w tekście (wybór fragmentu albo wpisywanie)
     root.querySelectorAll('details').forEach(det => {
       if (det.closest('li')) return;
       const n = parseInt(det.querySelector('summary')?.textContent, 10);
       if (!n) return;
       const L = letterOf(answerOf(det));
-      if (!L) { openGaps.push(det); return; }
+      if (!L) { gapDets.push(det); return; }
       // Pytania a/b/c/d w liście nad odpowiedziami → klikane warianty.
       let el = det.previousElementSibling;
       while (el && !/^(OL|H[1-3]|HR)$/.test(el.tagName)) el = el.previousElementSibling;
@@ -643,44 +678,65 @@
         const li = el.children[n - 1];
         if (li && !li.querySelector(':scope > details') && setupNestedOptions(li, det, answerOf(det))) return;
       }
-      // Luki z fragmentami a–g → przyciski z literami przy numerze luki.
-      const solve = register(det);
-      const row = document.createElement('div');
-      row.append('Luka ' + n + ': ');
-      // Litery bierzemy z fragmentów „a) …”, „b) …” pod tekstem (a–f albo a–g).
-      let letters = '';
-      for (let p = det.previousElementSibling; p && !/^(H[1-3]|HR)$/.test(p.tagName); p = p.previousElementSibling) {
-        // „a) …” albo „a. …”; bierzemy kolejne litery od „a” (a, b, c…), żeby nie łapać przypadkowych.
-        let next = 'a';
-        for (const m of p.textContent.matchAll(/(?:^|\s)([a-g])[.)]\s/g)) {
-          if (m[1] === next) { letters += next; next = String.fromCharCode(next.charCodeAt(0) + 1); }
-        }
-        if (letters.length >= 3) break;
-        letters = '';
-      }
-      if (!letters) letters = 'abcdefg';
-      for (const l of letters) {
-        const b = document.createElement('button');
-        b.type = 'button'; b.className = 'pick'; b.textContent = l;
-        b.addEventListener('click', () => {
-          if (row.classList.contains('done')) return;
-          if (l === L) { b.classList.add('ok'); row.classList.add('done'); solve(); }
-          else b.classList.add('bad');
-        });
-        row.append(b, ' ');
-      }
-      det.before(row);
-      det.querySelector('summary').textContent = 'pokaż odpowiedź do luki ' + n;
+      // Luki z fragmentami a–g → rozwijana lista w miejscu luki (obsługa niżej, razem z wpisywaniem).
+      gapDets.push(det);
     });
-    // Luki do wpisania w tekście (np. e-mail po polsku): pole w miejscu luki nr n.
-    // Od końca, żeby wstawienie pola nie przesuwało pozostałych luk w tym samym akapicie.
-    openGaps.reverse().forEach(det => {
+
+    // Fragmenty „a) …” do wstawienia: z tabelki „Fragmenty do wstawienia” nad odpowiedziami.
+    function fragmentsBefore(det) {
+      for (let p = det.previousElementSibling; p && !/^(H[1-3]|HR)$/.test(p.tagName); p = p.previousElementSibling) {
+        if (p.tagName !== 'TABLE') continue;
+        const rows = [...p.querySelectorAll('tr')].map(tr => [...tr.cells].map(c => c.textContent.trim()))
+          .filter(r => /^[a-g]\)$/.test(r[0]));
+        if (rows.length >= 3) { const fr = rows.map(r => [r[0][0], r[1]]); fr.table = p; return fr; }
+      }
+      return null;
+    }
+
+    const selGroups = new Map();   // tabelka fragmentów → listy przy lukach tego tekstu
+    function placeSelect(gap, frags, L, solve) {
+      const sel = document.createElement('select');
+      sel.className = 'gapsel';
+      sel.setAttribute('aria-label', 'Wybierz fragment');
+      sel.append(new Option('— wybierz fragment —', ''));
+      frags.forEach(([l, t]) => sel.append(new Option(l + ') ' + t, l)));
+      sel.addEventListener('change', () => {
+        sel.classList.remove('ok', 'bad');
+        if (!sel.value) return;
+        if (sel.value === L) {
+          sel.classList.add('ok'); sel.disabled = true; solve();
+          // fragment wykorzystany → na pozostałych listach tego tekstu nie da się go już wybrać
+          selGroups.get(frags.table).forEach(other => {
+            if (other === sel) return;
+            const o = [...other.options].find(o => o.value === L);
+            if (o) { o.disabled = true; o.textContent = '✔ ' + o.textContent + ' (już wstawiony)'; }
+            if (other.value === L && !other.disabled) { other.value = ''; other.classList.remove('bad'); }
+          });
+        }
+        else sel.classList.add('bad');
+      });
+      const after = gap.node.splitText(gap.index);
+      after.textContent = after.textContent.slice(gap.len);
+      after.before(sel);
+      if (!selGroups.has(frags.table)) selGroups.set(frags.table, []);
+      selGroups.get(frags.table).push(sel);
+    }
+
+    // Luki w tekście: od końca, żeby wstawienie pola nie przesuwało pozostałych luk w akapicie.
+    gapDets.reverse().forEach(det => {
       const n = parseInt(det.querySelector('summary').textContent, 10);
       const els = [];
       for (let p = det.previousElementSibling; p && !/^(H[1-3]|HR)$/.test(p.tagName); p = p.previousElementSibling) els.unshift(p);
-      const gap = els.flatMap(e => findGaps(e))[n - 1];
-      if (gap && setupTyping(null, det, acceptedOf(answerOf(det)), null, [gap]))
-        det.querySelector('summary').textContent = 'pokaż odpowiedź do luki ' + n;
+      const gap = els.flatMap(e => findGaps(e)).filter(g => g.node)[n - 1];
+      if (!gap) return;
+      const ans = answerOf(det);
+      const L = letterOf(ans);
+      if (L) {                                  // wybór fragmentu a–g
+        const frags = fragmentsBefore(det);
+        if (!frags || !frags.some(f => f[0] === L)) return;
+        placeSelect(gap, frags, L, register(det));
+      } else if (!setupTyping(null, det, acceptedOf(ans), null, [gap])) return;   // wpisywanie (np. po polsku)
+      det.querySelector('summary').textContent = 'pokaż odpowiedź do luki ' + n;
     });
     updateScore();
   }
