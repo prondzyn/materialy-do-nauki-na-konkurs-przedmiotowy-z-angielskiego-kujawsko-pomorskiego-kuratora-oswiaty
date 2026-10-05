@@ -34,9 +34,15 @@
   th, td { border: 1px solid var(--line); padding: 6px 12px; vertical-align: top; }
   th { background: var(--soft); }
   li { margin: .25em 0; }
-  details { display: inline-block; margin: .1em 0; }
-  summary { cursor: pointer; color: var(--muted); font-size: .9em; }
-  details[open] summary { color: var(--accent); }
+  /* „odpowiedź” zawsze w osobnej linii pod pytaniem; po rozwinięciu odpowiedź w ramce pod spodem */
+  details { display: block; width: fit-content; max-width: 100%; margin: .1em 0 .4em; }
+  details + br { display: none; }
+  summary { cursor: pointer; color: var(--muted); font-size: .9em; width: fit-content; }
+  details[open] {
+    padding: .25em .75em .35em; background: var(--soft);
+    border-left: 3px solid var(--accent); border-radius: 4px;
+  }
+  details[open] summary { color: var(--accent); margin-bottom: .15em; }
   hr { border: 0; border-top: 1px solid var(--line); margin: 2em 0; }
   #error { color: #cf222e; }
 
