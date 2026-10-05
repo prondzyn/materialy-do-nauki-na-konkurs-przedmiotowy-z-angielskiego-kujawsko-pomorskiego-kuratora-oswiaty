@@ -231,13 +231,15 @@ greatest invention. And the best thing that can happen to a human being."
 
 *(adapted from: tweentribune.com)*
 
-a) that allows books to be read digitally
-b) when he would go through the country's richer neighborhoods
-c) where there are libraries
-d) which is a city of 8.5 million
-e) which is known as "Lord of the Books"
-f) who has won the Nobel Prize for Literature
-g) who is a Colombian garbage collector
+| | Fragmenty do wstawienia |
+|---|---|
+| **a)** | that allows books to be read digitally |
+| **b)** | when he would go through the country's richer neighborhoods |
+| **c)** | where there are libraries |
+| **d)** | which is a city of 8.5 million |
+| **e)** | which is known as "Lord of the Books" |
+| **f)** | who has won the Nobel Prize for Literature |
+| **g)** | who is a Colombian garbage collector |
 
 **Odpowiedzi** (kliknij numer luki/pytania):
 
@@ -282,13 +284,14 @@ what I've achieved.'
 
 *(adapted from: livehappy.com)*
 
-a. At the same time the rest of the world is outside having fun in the snow.
-b. Everything starts in our heads, in the way we think about the world around us.
-c. Focus on the bad, you're depressed.
-d. He says we should go out as often as we can.
-e. Look at the positives of your own life.
-f. Those who are on social media five or more times a day show more FOMO, in the opinion of the
-   same researcher.
+| | Fragmenty do wstawienia |
+|---|---|
+| **a)** | At the same time the rest of the world is outside having fun in the snow. |
+| **b)** | Everything starts in our heads, in the way we think about the world around us. |
+| **c)** | Focus on the bad, you're depressed. |
+| **d)** | He says we should go out as often as we can. |
+| **e)** | Look at the positives of your own life. |
+| **f)** | Those who are on social media five or more times a day show more FOMO, in the opinion of the same researcher. |
 
 **Odpowiedzi** (kliknij numer luki/pytania):
 
@@ -344,16 +347,15 @@ help our community, they will last for months and right into the dry season."
 
 *(adapted from: news.ufl.edu, 2022)*
 
-a) "Beneficial insects like bees and other pollinators are not attracted to the trap."
-b) The Gainesville-based company donated 100,000 traps this week to communities
-c) "We need to get rid of them as quickly as possible because not only are they a nuisance, but
-   they also carry disease."
-d) Inzecto has joined forces with partners, mosquito control districts and county parks and
-   recreation centres to distribute the devices.
-e) The start-up was a quick failure.
-f) Its red and black colours are highly preferred by resting and egg-laying female mosquitoes that
-   bite.
-g) Both professors doubt whether it will succeed.
+| | Fragmenty do wstawienia |
+|---|---|
+| **a)** | "Beneficial insects like bees and other pollinators are not attracted to the trap." |
+| **b)** | The Gainesville-based company donated 100,000 traps this week to communities |
+| **c)** | "We need to get rid of them as quickly as possible because not only are they a nuisance, but they also carry disease." |
+| **d)** | Inzecto has joined forces with partners, mosquito control districts and county parks and recreation centres to distribute the devices. |
+| **e)** | The start-up was a quick failure. |
+| **f)** | Its red and black colours are highly preferred by resting and egg-laying female mosquitoes that bite. |
+| **g)** | Both professors doubt whether it will succeed. |
 
 **Odpowiedzi** (kliknij numer luki/pytania):
 
@@ -421,17 +423,15 @@ overusing them.
 
 *(bbc.co.uk/newsround, 27 September 2024)*
 
-a) By the 1950s, doctors were prescribing it so much that some bacteria was able to develop
-   resistance to the medicine.
-b) This told him that something in the mould was killing the bacteria.
-c) He spent his teenage years learning in the city.
-d) During his studies, he also spent a year working as a chef in Paris.
-e) He would see wounds that would lead to limbs being amputated, or cut off, to stop infection from
-   spreading.
-f) In 1965, penicillin was declared completely ineffective and was removed from medical use
-   altogether.
-g) Its discovery also allowed doctors and surgeons to carry out more invasive treatments, which
-   would not have been possible before because of the risk of deadly infections.
+| | Fragmenty do wstawienia |
+|---|---|
+| **a)** | By the 1950s, doctors were prescribing it so much that some bacteria was able to develop resistance to the medicine. |
+| **b)** | This told him that something in the mould was killing the bacteria. |
+| **c)** | He spent his teenage years learning in the city. |
+| **d)** | During his studies, he also spent a year working as a chef in Paris. |
+| **e)** | He would see wounds that would lead to limbs being amputated, or cut off, to stop infection from spreading. |
+| **f)** | In 1965, penicillin was declared completely ineffective and was removed from medical use altogether. |
+| **g)** | Its discovery also allowed doctors and surgeons to carry out more invasive treatments, which would not have been possible before because of the risk of deadly infections. |
 
 **Odpowiedzi** (kliknij numer luki/pytania):
 
