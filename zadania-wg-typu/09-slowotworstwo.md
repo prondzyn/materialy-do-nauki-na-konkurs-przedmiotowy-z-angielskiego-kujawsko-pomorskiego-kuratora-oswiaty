@@ -46,13 +46,13 @@ Wyraz bazowy zostaje tą samą częścią mowy, zmienia się tylko jego forma.
 | -f → -ves | thief → thieves |
 | spółgłoska + y → -ies | injury → injuries |
 
-1. Riding a bike is definitely ________ than riding a motorbike. GOOD *(2025/26, zad. 2.10)*
+1. Riding a bike is definitely ________ than riding a motorbike. <kbd>GOOD</kbd> *(2025/26, zad. 2.10)*
    <details><summary>odpowiedź</summary>better</details><br>
-2. This was the ________ August ever. The heat was horrible! DRY *(2019/20, zad. 3.8)*
+2. This was the ________ August ever. The heat was horrible! <kbd>DRY</kbd> *(2019/20, zad. 3.8)*
    <details><summary>odpowiedź</summary>driest</details><br>
-3. Luckily, Meg's ________ weren't very serious. INJURY *(2025/26, zad. 2.5)*
+3. Luckily, Meg's ________ weren't very serious. <kbd>INJURY</kbd> *(2025/26, zad. 2.5)*
    <details><summary>odpowiedź</summary>injuries</details><br>
-4. Unfortunately these ________ stole all the jewellery. THIEF *(2019/20, zad. 3.9)*
+4. Unfortunately these ________ stole all the jewellery. <kbd>THIEF</kbd> *(2019/20, zad. 3.9)*
    <details><summary>odpowiedź</summary>thieves</details>
 
 ## B. Przysłówek (-ly)
@@ -64,9 +64,9 @@ Z przymiotnika robimy przysłówek, który opisuje czasownik lub przymiotnik.
 | przymiotnik + -ly | nervous → nervously |
 | -able → -ably | reasonable → reasonably |
 
-5. They all watched ________ as Mike made his way through the crowd. NERVOUS *(2025/26, zad. 2.8)*
+5. They all watched ________ as Mike made his way through the crowd. <kbd>NERVOUS</kbd> *(2025/26, zad. 2.8)*
    <details><summary>odpowiedź</summary>nervously</details><br>
-6. This laptop was ________ cheap that's why I bought it without any second thoughts. REASON *(2022/23, zad. 2.2)*
+6. This laptop was ________ cheap that's why I bought it without any second thoughts. <kbd>REASON</kbd> *(2022/23, zad. 2.2)*
    <details><summary>odpowiedź</summary>reasonably / unreasonably</details>
 
 ## C. Przymiotnik (od rzeczownika lub czasownika)
@@ -84,33 +84,33 @@ Luka stoi przed rzeczownikiem albo po *be / seem / so / such*.
 | -ed — jak ktoś się czuje | bore → bored |
 | -ing — jaka jest rzecz | exhaust → exhausting |
 
-7. What do teenagers do on such ________ days like today? RAIN *(2020/21, zad. 3.7)*
+7. What do teenagers do on such ________ days like today? <kbd>RAIN</kbd> *(2020/21, zad. 3.7)*
    <details><summary>odpowiedź</summary>rainy</details><br>
-8. Don't go in there. The place is too ________. SMOKE *(2018/19, zad. 3.9)*
+8. Don't go in there. The place is too ________. <kbd>SMOKE</kbd> *(2018/19, zad. 3.9)*
    <details><summary>odpowiedź</summary>smoky / smokey</details><br>
-9. We have a ________ meeting every other Monday. WEEK *(2025/26, zad. 2.13)*
+9. We have a ________ meeting every other Monday. <kbd>WEEK</kbd> *(2025/26, zad. 2.13)*
    <details><summary>odpowiedź</summary>weekly</details><br>
-10. I can't stand their ________ arguments! They never stop! END *(2020/21, zad. 3.1)*
+10. I can't stand their ________ arguments! They never stop! <kbd>END</kbd> *(2020/21, zad. 3.1)*
     <details><summary>odpowiedź</summary>endless (też: never-ending / neverending)</details><br>
-11. Be careful and don't pick up this mushroom when you find it in the woods. It's extremely ________! POISON *(2019/20, zad. 3.3)*
+11. Be careful and don't pick up this mushroom when you find it in the woods. It's extremely ________! <kbd>POISON</kbd> *(2019/20, zad. 3.3)*
     <details><summary>odpowiedź</summary>poisonous (nie: <i>poisoned</i>)</details><br>
-12. Bell-bottoms are ________ this season. Many teenagers wear them. FASHION *(2023/24, zad. 2.2)*
+12. Bell-bottoms are ________ this season. Many teenagers wear them. <kbd>FASHION</kbd> *(2023/24, zad. 2.2)*
     <details><summary>odpowiedź</summary>fashionable</details><br>
-13. I'm disappointed with you. You aren't a/an ________ person! RELY *(2021/22, zad. 2.26)*
+13. I'm disappointed with you. You aren't a/an ________ person! <kbd>RELY</kbd> *(2021/22, zad. 2.26)*
     <details><summary>odpowiedź</summary>reliable</details><br>
-14. Anthony never stops! He's so ________. TALK *(2019/20, zad. 3.5)*
+14. Anthony never stops! He's so ________. <kbd>TALK</kbd> *(2019/20, zad. 3.5)*
     <details><summary>odpowiedź</summary>talkative</details><br>
-15. Miranda writes beautiful stories. She's so ________. IMAGINE *(2020/21, zad. 3.8)*
+15. Miranda writes beautiful stories. She's so ________. <kbd>IMAGINE</kbd> *(2020/21, zad. 3.8)*
     <details><summary>odpowiedź</summary>imaginative</details><br>
-16. The students at our school are quite ________ as they want to win any contest or tournament. COMPETITION *(2020/21, zad. 3.10)*
+16. The students at our school are quite ________ as they want to win any contest or tournament. <kbd>COMPETITION</kbd> *(2020/21, zad. 3.10)*
     <details><summary>odpowiedź</summary>competitive</details><br>
-17. Sue was so ________ watching this film that she fell asleep. BORE *(2021/22, zad. 2.27)*
+17. Sue was so ________ watching this film that she fell asleep. <kbd>BORE</kbd> *(2021/22, zad. 2.27)*
     <details><summary>odpowiedź</summary>bored</details><br>
-18. Kate was really ________ when she saw a tiger attacking her car. TERRIFY *(2021/22, zad. 2.35)*
+18. Kate was really ________ when she saw a tiger attacking her car. <kbd>TERRIFY</kbd> *(2021/22, zad. 2.35)*
     <details><summary>odpowiedź</summary>terrified</details><br>
-19. The students found the trip to Disneyland really ________. They were really tired. EXHAUST *(2023/24, zad. 2.4)*
+19. The students found the trip to Disneyland really ________. They were really tired. <kbd>EXHAUST</kbd> *(2023/24, zad. 2.4)*
     <details><summary>odpowiedź</summary>exhausting</details><br>
-20. That show was really ________. I thought it would be fun to watch. DISAPPOINT *(2018/19, zad. 3.8)*
+20. That show was really ________. I thought it would be fun to watch. <kbd>DISAPPOINT</kbd> *(2018/19, zad. 3.8)*
     <details><summary>odpowiedź</summary>disappointing</details>
 
 ## D. Rzeczownik (od czasownika lub przymiotnika)
@@ -130,45 +130,45 @@ Luka stoi po *the / a / my / his / any* albo jest podmiotem zdania.
 | -ship | scholar → scholarship |
 | -or / -er — osoba | compete → competitor, survive → survivor |
 
-21. It might look like ________ in fact, the kitten is practising its hunting skills. ENTERTAIN *(2024/25, zad. 2.1)*
+21. It might look like ________ in fact, the kitten is practising its hunting skills. <kbd>ENTERTAIN</kbd> *(2024/25, zad. 2.1)*
     <details><summary>odpowiedź</summary>entertainment</details><br>
-22. What's this ________ all about? Calm down, please! EXCITE *(2018/19, zad. 3.5)*
+22. What's this ________ all about? Calm down, please! <kbd>EXCITE</kbd> *(2018/19, zad. 3.5)*
     <details><summary>odpowiedź</summary>excitement</details><br>
-23. Our ________ was quite long and concerned the environment. DISCUSS *(2018/19, zad. 3.1)*
+23. Our ________ was quite long and concerned the environment. <kbd>DISCUSS</kbd> *(2018/19, zad. 3.1)*
     <details><summary>odpowiedź</summary>discussion</details><br>
-24. I couldn't find any ________ to this problem. SOLVE *(2022/23, zad. 2.1)*
+24. I couldn't find any ________ to this problem. <kbd>SOLVE</kbd> *(2022/23, zad. 2.1)*
     <details><summary>odpowiedź</summary>solution / solutions</details><br>
-25. Could you help me find a ________ to this problem, please? SOLVE *(2018/19, zad. 3.2)*
+25. Could you help me find a ________ to this problem, please? <kbd>SOLVE</kbd> *(2018/19, zad. 3.2)*
     <details><summary>odpowiedź</summary>solution</details><br>
-26. England has the ________ of over 67 million people. POPULATE *(2021/22, zad. 2.29)*
+26. England has the ________ of over 67 million people. <kbd>POPULATE</kbd> *(2021/22, zad. 2.29)*
     <details><summary>odpowiedź</summary>population</details><br>
-27. The teacher gave us a quick ________ on how to deal with the task and we got down to work. EXPLAIN *(2021/22, zad. 2.34)*
+27. The teacher gave us a quick ________ on how to deal with the task and we got down to work. <kbd>EXPLAIN</kbd> *(2021/22, zad. 2.34)*
     <details><summary>odpowiedź</summary>explanation</details><br>
-28. In the past internet ________ were usually slow. CONNECT *(2018/19, zad. 3.4)*
+28. In the past internet ________ were usually slow. <kbd>CONNECT</kbd> *(2018/19, zad. 3.4)*
     <details><summary>odpowiedź</summary>connections</details><br>
-29. The mysterious ________ of the local businessman resulted in murder investigation. DISAPPEAR *(2025/26, zad. 2.1)*
+29. The mysterious ________ of the local businessman resulted in murder investigation. <kbd>DISAPPEAR</kbd> *(2025/26, zad. 2.1)*
     <details><summary>odpowiedź</summary>disappearance</details><br>
-30. My best friend has a great ________ and everybody loves her. PERSON *(2025/26, zad. 2.4)*
+30. My best friend has a great ________ and everybody loves her. <kbd>PERSON</kbd> *(2025/26, zad. 2.4)*
     <details><summary>odpowiedź</summary>personality</details><br>
-31. The dog showed great ________ to its owner, never leaving his side. LOYAL *(2025/26, zad. 2.11)*
+31. The dog showed great ________ to its owner, never leaving his side. <kbd>LOYAL</kbd> *(2025/26, zad. 2.11)*
     <details><summary>odpowiedź</summary>loyalty</details><br>
-32. He received a medal for his outstanding ________. BRAVE *(2024/25, zad. 2.4)*
+32. He received a medal for his outstanding ________. <kbd>BRAVE</kbd> *(2024/25, zad. 2.4)*
     <details><summary>odpowiedź</summary>bravery</details><br>
-33. Cooking seems to be a ________ of science and art. MIX *(2025/26, zad. 2.6)*
+33. Cooking seems to be a ________ of science and art. <kbd>MIX</kbd> *(2025/26, zad. 2.6)*
     <details><summary>odpowiedź</summary>mixture</details><br>
-34. The nurse took my blood ________. PRESS *(2025/26, zad. 2.15)*
+34. The nurse took my blood ________. <kbd>PRESS</kbd> *(2025/26, zad. 2.15)*
     <details><summary>odpowiedź</summary>pressure</details><br>
-35. Having ________ means having a choice. FREE *(2019/20, zad. 3.10)*
+35. Having ________ means having a choice. <kbd>FREE</kbd> *(2019/20, zad. 3.10)*
     <details><summary>odpowiedź</summary>freedom</details><br>
-36. Peter lives in a beautiful ________ in the suburbs of Poznań. NEIGHBOUR *(2020/21, zad. 3.5)*
+36. Peter lives in a beautiful ________ in the suburbs of Poznań. <kbd>NEIGHBOUR</kbd> *(2020/21, zad. 3.5)*
     <details><summary>odpowiedź</summary>neighbourhood</details><br>
-37. Can you please tell me who was awarded the ________? SCHOLAR *(2025/26, zad. 2.7)*
+37. Can you please tell me who was awarded the ________? <kbd>SCHOLAR</kbd> *(2025/26, zad. 2.7)*
     <details><summary>odpowiedź</summary>scholarship</details><br>
-38. Each ________ must wear a dedicated number during the race. COMPETE *(2025/26, zad. 2.2)*
+38. Each ________ must wear a dedicated number during the race. <kbd>COMPETE</kbd> *(2025/26, zad. 2.2)*
     <details><summary>odpowiedź</summary>competitor</details><br>
-39. All ________ were given medals for participating in the event. COMPETE *(2021/22, zad. 2.33)*
+39. All ________ were given medals for participating in the event. <kbd>COMPETE</kbd> *(2021/22, zad. 2.33)*
     <details><summary>odpowiedź</summary>competitors</details><br>
-40. Cast Away is a film based on a true story. Tom Hanks plays the only ________ of a plane crash. SURVIVE *(2021/22, zad. 2.31)*
+40. Cast Away is a film based on a true story. Tom Hanks plays the only ________ of a plane crash. <kbd>SURVIVE</kbd> *(2021/22, zad. 2.31)*
     <details><summary>odpowiedź</summary>survivor</details>
 
 ## E. Przedrostki przeczące (un- / im- / in- / il-)
@@ -182,23 +182,23 @@ Wyraz bazowy jest już przymiotnikiem, trzeba tylko dodać właściwe przeczenie
 | in- | m.in. przed c, d, e, t | incorrect, independent, inexpensive, intolerant |
 | un- | w pozostałych | unfriendly, unhappy |
 
-41. This city is dangerous and ________ to newcomers. FRIENDLY *(2025/26, zad. 2.3)*
+41. This city is dangerous and ________ to newcomers. <kbd>FRIENDLY</kbd> *(2025/26, zad. 2.3)*
     <details><summary>odpowiedź</summary>unfriendly</details><br>
-42. Tim is really ________ now because he hasn't become a head teacher this year. HAPPY *(2021/22, zad. 2.32)*
+42. Tim is really ________ now because he hasn't become a head teacher this year. <kbd>HAPPY</kbd> *(2021/22, zad. 2.32)*
     <details><summary>odpowiedź</summary>unhappy</details><br>
-43. It's very ________ to interrupt when somebody else is speaking. POLITE *(2025/26, zad. 2.9)*
+43. It's very ________ to interrupt when somebody else is speaking. <kbd>POLITE</kbd> *(2025/26, zad. 2.9)*
     <details><summary>odpowiedź</summary>impolite</details><br>
-44. I was called ________ by my parents because I decided to travel for a year instead of going to study at university as they did. MATURE *(2025/26, zad. 2.12)*
+44. I was called ________ by my parents because I decided to travel for a year instead of going to study at university as they did. <kbd>MATURE</kbd> *(2025/26, zad. 2.12)*
     <details><summary>odpowiedź</summary>immature</details><br>
-45. Excuse me, it's ________ to smoke in here. LEGAL *(2021/22, zad. 2.28)*
+45. Excuse me, it's ________ to smoke in here. <kbd>LEGAL</kbd> *(2021/22, zad. 2.28)*
     <details><summary>odpowiedź</summary>illegal</details><br>
-46. I'm afraid your answers are ________ so the prize goes to the opponents. CORRECT *(2024/25, zad. 2.2)*
+46. I'm afraid your answers are ________ so the prize goes to the opponents. <kbd>CORRECT</kbd> *(2024/25, zad. 2.2)*
     <details><summary>odpowiedź</summary>incorrect</details><br>
-47. Oh come on, didn't you know that this country has been ________ for some time? DEPENDENT *(2020/21, zad. 3.9)*
+47. Oh come on, didn't you know that this country has been ________ for some time? <kbd>DEPENDENT</kbd> *(2020/21, zad. 3.9)*
     <details><summary>odpowiedź</summary>independent</details><br>
-48. This book seems pricey, but we've paid very little money, so it was actually ________. EXPENSIVE *(2019/20, zad. 3.2)*
+48. This book seems pricey, but we've paid very little money, so it was actually ________. <kbd>EXPENSIVE</kbd> *(2019/20, zad. 3.2)*
     <details><summary>odpowiedź</summary>inexpensive</details><br>
-49. How can you be so ________! Differences between people are normal and should be accepted. TOLERANT *(2019/20, zad. 3.7)*
+49. How can you be so ________! Differences between people are normal and should be accepted. <kbd>TOLERANT</kbd> *(2019/20, zad. 3.7)*
     <details><summary>odpowiedź</summary>intolerant / intolerable</details>
 
 ## F. Przedrostki over- / fore- / ex- i złożenia
@@ -211,15 +211,15 @@ Znaczenie zmienia przedrostek albo drugi człon wyrazu.
 | fore- | przód | foreground |
 | ex- | wymiana | change → exchange (= wymienić) |
 
-50. I'm a bit ________. I need to exercise more frequently to get slimmer and healthy. WEIGH *(2023/24, zad. 2.3)*
+50. I'm a bit ________. I need to exercise more frequently to get slimmer and healthy. <kbd>WEIGH</kbd> *(2023/24, zad. 2.3)*
     <details><summary>odpowiedź</summary>overweight</details><br>
-51. Some people are busy all the time nowadays and, as a result, they're tired and ________. WORK *(2020/21, zad. 3.4)*
+51. Some people are busy all the time nowadays and, as a result, they're tired and ________. <kbd>WORK</kbd> *(2020/21, zad. 3.4)*
     <details><summary>odpowiedź</summary>overworked</details><br>
-52. I never ________. I'm always on time. SLEEP *(2020/21, zad. 3.3)*
+52. I never ________. I'm always on time. <kbd>SLEEP</kbd> *(2020/21, zad. 3.3)*
     <details><summary>odpowiedź</summary>oversleep</details><br>
-53. In the ________ of this photograph you can see a cottage. FORE *(2019/20, zad. 3.6)*
+53. In the ________ of this photograph you can see a cottage. <kbd>FORE</kbd> *(2019/20, zad. 3.6)*
     <details><summary>odpowiedź</summary>foreground</details><br>
-54. I think I would like to ________ this pair for a bigger size, please. CHANGE *(2025/26, zad. 2.14)*
+54. I think I would like to ________ this pair for a bigger size, please. <kbd>CHANGE</kbd> *(2025/26, zad. 2.14)*
     <details><summary>odpowiedź</summary>exchange</details>
 
 ## G. Przekształcenia nieregularne i podwójne
@@ -247,43 +247,43 @@ Formy, których nie da się utworzyć zwykłym przyrostkiem, albo wymagające dw
 | dis- + -ment + -s | agree → disagreements |
 | un- + -able + -ly | believe → unbelievably |
 
-55. "What's the ________ of the palace tower?" "It's more than 60 metres." HIGH *(2023/24, zad. 2.1)*
+55. "What's the ________ of the palace tower?" "It's more than 60 metres." <kbd>HIGH</kbd> *(2023/24, zad. 2.1)*
     <details><summary>odpowiedź</summary>height</details><br>
-56. What's the ________ of that top over there? HIGH *(2020/21, zad. 3.6)*
+56. What's the ________ of that top over there? <kbd>HIGH</kbd> *(2020/21, zad. 3.6)*
     <details><summary>odpowiedź</summary>height</details><br>
-57. What's the ________ of the river which flows through your city? LONG *(2018/19, zad. 3.10)*
+57. What's the ________ of the river which flows through your city? <kbd>LONG</kbd> *(2018/19, zad. 3.10)*
     <details><summary>odpowiedź</summary>length</details><br>
-58. Is he telling the ________? I don't think we can believe what he is trying to say… TRUE *(2023/24, zad. 2.6)*
+58. Is he telling the ________? I don't think we can believe what he is trying to say… <kbd>TRUE</kbd> *(2023/24, zad. 2.6)*
     <details><summary>odpowiedź</summary>truth</details><br>
-59. I'm impressed with your ________ of biology and physics. KNOW *(2019/20, zad. 3.4)*
+59. I'm impressed with your ________ of biology and physics. <kbd>KNOW</kbd> *(2019/20, zad. 3.4)*
     <details><summary>odpowiedź</summary>knowledge (nie: <i>knowing</i>)</details><br>
-60. I can see ________ all over his face every time we meet. ANGRY *(2018/19, zad. 3.6)*
+60. I can see ________ all over his face every time we meet. <kbd>ANGRY</kbd> *(2018/19, zad. 3.6)*
     <details><summary>odpowiedź</summary>anger</details><br>
-61. If given a ________, would you stay here or emigrate? CHOOSE *(2018/19, zad. 3.7)*
+61. If given a ________, would you stay here or emigrate? <kbd>CHOOSE</kbd> *(2018/19, zad. 3.7)*
     <details><summary>odpowiedź</summary>choice</details><br>
-62. Mum was so ________ of me when I won the contest. PRIDE *(2019/20, zad. 3.1)*
+62. Mum was so ________ of me when I won the contest. <kbd>PRIDE</kbd> *(2019/20, zad. 3.1)*
     <details><summary>odpowiedź</summary>proud</details><br>
-63. It's an extremely difficult task to ________ all the Latin maxims. MEMORY *(2024/25, zad. 2.3)*
+63. It's an extremely difficult task to ________ all the Latin maxims. <kbd>MEMORY</kbd> *(2024/25, zad. 2.3)*
     <details><summary>odpowiedź</summary>memorise / memorize / remember</details><br>
-64. The invention of the Internet has ________ the world. REVOLUTION *(2022/23, zad. 2.5)*
+64. The invention of the Internet has ________ the world. <kbd>REVOLUTION</kbd> *(2022/23, zad. 2.5)*
     <details><summary>odpowiedź</summary>revolutionised / revolutionized</details><br>
-65. There could be more ________ organizations helping disabled people. VOLUNTEER *(2022/23, zad. 2.4)*
+65. There could be more ________ organizations helping disabled people. <kbd>VOLUNTEER</kbd> *(2022/23, zad. 2.4)*
     <details><summary>odpowiedź</summary>voluntary / volunteering</details><br>
-66. My mum isn't going to wear those shoes any longer. They are ________. COMFORT *(2023/24, zad. 2.5)*
+66. My mum isn't going to wear those shoes any longer. They are ________. <kbd>COMFORT</kbd> *(2023/24, zad. 2.5)*
     <details><summary>odpowiedź</summary>uncomfortable</details><br>
-67. Tom was given the sack, so he's ________ now and he's looking for a job. EMPLOY *(2021/22, zad. 2.30)*
+67. Tom was given the sack, so he's ________ now and he's looking for a job. <kbd>EMPLOY</kbd> *(2021/22, zad. 2.30)*
     <details><summary>odpowiedź</summary>unemployed</details><br>
-68. It's essential to make sure the hairdryer is ________ before you fix the switch. CONNECT *(2024/25, zad. 2.5)*
+68. It's essential to make sure the hairdryer is ________ before you fix the switch. <kbd>CONNECT</kbd> *(2024/25, zad. 2.5)*
     <details><summary>odpowiedź</summary>disconnected</details><br>
-69. We went to the wrong cinema because of a small ________. UNDERSTAND *(2020/21, zad. 3.2)*
+69. We went to the wrong cinema because of a small ________. <kbd>UNDERSTAND</kbd> *(2020/21, zad. 3.2)*
     <details><summary>odpowiedź</summary>misunderstanding</details><br>
-70. There were always constant ________ in their family. No one was friendly there, just screams all day long. AGREE *(2018/19, zad. 3.3)*
+70. There were always constant ________ in their family. No one was friendly there, just screams all day long. <kbd>AGREE</kbd> *(2018/19, zad. 3.3)*
     <details><summary>odpowiedź</summary>disagreements</details><br>
-71. Who can't wait too long? Who's the most ________ person you know? PATIENCE *(2022/23, zad. 2.6)*
+71. Who can't wait too long? Who's the most ________ person you know? <kbd>PATIENCE</kbd> *(2022/23, zad. 2.6)*
     <details><summary>odpowiedź</summary>impatient / patient</details><br>
-72. Although he works ________ hard, he still finds some time for his hobbies and family. BELIEVE *(2022/23, zad. 2.3)*
+72. Although he works ________ hard, he still finds some time for his hobbies and family. <kbd>BELIEVE</kbd> *(2022/23, zad. 2.3)*
     <details><summary>odpowiedź</summary>unbelievably</details><br>
-73. He was ________ much more successful than his older brother. ACADEMY *(2024/25, zad. 2.6)*
+73. He was ________ much more successful than his older brother. <kbd>ACADEMY</kbd> *(2024/25, zad. 2.6)*
     <details><summary>odpowiedź</summary>academically</details>
 
 ---
