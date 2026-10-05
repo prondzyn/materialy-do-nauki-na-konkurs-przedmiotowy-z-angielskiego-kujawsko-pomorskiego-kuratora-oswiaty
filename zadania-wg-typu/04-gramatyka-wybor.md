@@ -369,25 +369,65 @@ another part of The Enola Holmes Mysteries about the teenage detective?
 
 *(adapted from: https://www.commonsensemedia.org/movie-reviews/enola-holmes/)*
 
-54. a. didn't b. don't c. haven't d. hasn't
+54. Luka (54):
+    - a. didn't
+    - b. don't
+    - c. haven't
+    - d. hasn't
     <details><summary>odpowiedź</summary>c — haven't</details><br>
-55. a. its b. it is c. it's d. their
+55. Luka (55):
+    - a. its
+    - b. it is
+    - c. it's
+    - d. their
     <details><summary>odpowiedź</summary>a — its</details><br>
-56. a. by b. as c. on d. from
+56. Luka (56):
+    - a. by
+    - b. as
+    - c. on
+    - d. from
     <details><summary>odpowiedź</summary>d — from</details><br>
-57. a. exceptionally b. unexpected c. exceptional d. except
+57. Luka (57):
+    - a. exceptionally
+    - b. unexpected
+    - c. exceptional
+    - d. except
     <details><summary>odpowiedź</summary>a — exceptionally</details><br>
-58. a. politic b. political c. politics d. politician
+58. Luka (58):
+    - a. politic
+    - b. political
+    - c. politics
+    - d. politician
     <details><summary>odpowiedź</summary>d — politician</details><br>
-59. a. on b. for c. since d. by
+59. Luka (59):
+    - a. on
+    - b. for
+    - c. since
+    - d. by
     <details><summary>odpowiedź</summary>b — for</details><br>
-60. a. boarding b. dorm c. board d. dormant
+60. Luka (60):
+    - a. boarding
+    - b. dorm
+    - c. board
+    - d. dormant
     <details><summary>odpowiedź</summary>a — boarding</details><br>
-61. a. none b. brothers c. both d. either
+61. Luka (61):
+    - a. none
+    - b. brothers
+    - c. both
+    - d. either
     <details><summary>odpowiedź</summary>c — both</details><br>
-62. a. self b. alone c. own d. lonely
+62. Luka (62):
+    - a. self
+    - b. alone
+    - c. own
+    - d. lonely
     <details><summary>odpowiedź</summary>c — own</details><br>
-63. a. in order b. according c. so d. thanks
+63. Luka (63):
+    - a. in order
+    - b. according
+    - c. so
+    - d. thanks
     <details><summary>odpowiedź</summary>a — in order</details>
 
 ### Riverdale *(2019/20, zad. 8)* — pozycje 64–73
@@ -412,25 +452,55 @@ All in all, the show has something for everyone.
 
 *(adapted from: https://heatworld.com/entertainment/tv-movies/riverdale-everything-need-know/)*
 
-64. A. teens B. tiny C. teen
+64. Luka (64):
+    - A. teens
+    - B. tiny
+    - C. teen
     <details><summary>odpowiedź</summary>C — teen</details><br>
-65. A. tells B. speaks C. says
+65. Luka (65):
+    - A. tells
+    - B. speaks
+    - C. says
     <details><summary>odpowiedź</summary>A — tells</details><br>
-66. A. improve B. solve C. prove
+66. Luka (66):
+    - A. improve
+    - B. solve
+    - C. prove
     <details><summary>odpowiedź</summary>B — solve</details><br>
-67. A. in B. through C. behind
+67. Luka (67):
+    - A. in
+    - B. through
+    - C. behind
     <details><summary>odpowiedź</summary>B — through</details><br>
-68. A. recently B. last year C. in 2018
+68. Luka (68):
+    - A. recently
+    - B. last year
+    - C. in 2018
     <details><summary>odpowiedź</summary>A — recently</details><br>
-69. A. wants B. imagines C. looks forward
+69. Luka (69):
+    - A. wants
+    - B. imagines
+    - C. looks forward
     <details><summary>odpowiedź</summary>A — wants</details><br>
-70. A. that B. who C. which
+70. Luka (70):
+    - A. that
+    - B. who
+    - C. which
     <details><summary>odpowiedź</summary>B — who</details><br>
-71. A. loving B. loved C. in love
+71. Luka (71):
+    - A. loving
+    - B. loved
+    - C. in love
     <details><summary>odpowiedź</summary>C — in love</details><br>
-72. A. adopt B. adapt C. adept
+72. Luka (72):
+    - A. adopt
+    - B. adapt
+    - C. adept
     <details><summary>odpowiedź</summary>B — adapt</details><br>
-73. A. such B. so C. like
+73. Luka (73):
+    - A. such
+    - B. so
+    - C. like
     <details><summary>odpowiedź</summary>A — such</details>
 
 ---
