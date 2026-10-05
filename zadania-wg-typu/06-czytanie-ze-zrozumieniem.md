@@ -104,34 +104,31 @@ jednego miasta, tak jest w oryginale arkusza).*
    - b) The first public passenger train journey took place
    - c) The first high-speed train was launched
    - d) The first railway museum was created
+   <details><summary>odpowiedź</summary><b>b</b> — „the very first public passenger train".</details>
 2. Why is "Mr Henderson's Railway" in Spain also called a time capsule?
    - a) It has old-fashioned wooden carriages
    - b) It was filled with bandits
    - c) It still operates with steam engines
    - d) It reflects a moment in British and Spanish history
+   <details><summary>odpowiedź</summary><b>d</b> — „created by an interesting moment in British and Spanish history" (drewniane wagony i bandyci to pułapki z innych akapitów).</details>
 3. What is so special about the Baltic Express train in Central Europe?
    - a) It only stops in major cities
    - b) It is the oldest train in the region
    - c) It allows passengers to get on and off in different places
    - d) It only runs during the summer months
+   <details><summary>odpowiedź</summary><b>c</b> — „hop-on hop-off" = można wsiadać i wysiadać w różnych miejscach.</details>
 4. Why is Japan's Shinkansen train famous?
    - a) It offers the cheapest train tickets in Japan
    - b) It was the first high-speed rail line and is very punctual
    - c) It is the only train in Japan with luxury cabins
    - d) It allows the Japanese to travel to other countries
+   <details><summary>odpowiedź</summary><b>b</b> — „the world's first high-speed rail line… to-the-minute precision".</details>
 5. What makes the Vouga Historical Train ride in Portugal one-of-a-kind?
    - a) It travels through cities only at night
    - b) It is Portugal's only remaining narrow-gauge railway
    - c) It stops at castles and palaces
    - d) It uses modern electric engines and glass carriages
-
-**Odpowiedzi** (kliknij numer luki/pytania):
-
-<details><summary>1</summary><b>b</b> — „the very first public passenger train".</details>
-<details><summary>2</summary><b>d</b> — „created by an interesting moment in British and Spanish history" (drewniane wagony i bandyci to pułapki z innych akapitów).</details>
-<details><summary>3</summary><b>c</b> — „hop-on hop-off" = można wsiadać i wysiadać w różnych miejscach.</details>
-<details><summary>4</summary><b>b</b> — „the world's first high-speed rail line… to-the-minute precision".</details>
-<details><summary>5</summary><b>b</b> — „the country's only remaining narrow-gauge railway". (Uwaga na pułapkę w pytaniu 3: „only runs during the summer" to prawda o pociągu Vouga, nie o Baltic Express.)</details>
+   <details><summary>odpowiedź</summary><b>b</b> — „the country's only remaining narrow-gauge railway". (Uwaga na pułapkę w pytaniu 3: „only runs during the summer" to prawda o pociągu Vouga, nie o Baltic Express.)</details>
 
 ---
 
