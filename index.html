@@ -160,11 +160,17 @@
   .letters.ok .lt { border-color: var(--ok); color: var(--ok); }
   .letters.bad { background: var(--bad-bg); }
   .letters.bad input.lt { border-color: var(--bad); color: var(--bad); }
-  #wynik { float: right; color: var(--muted); }
+  #wynik-box { float: right; display: flex; gap: 10px; align-items: center; }
+  #wynik { color: var(--muted); }
+  #reset {
+    font: inherit; font-size: 12px; color: var(--muted); background: none; cursor: pointer;
+    border: 1px solid var(--line); border-radius: 12px; padding: 1px 9px;
+  }
+  #reset:hover { color: var(--bad); border-color: var(--bad); }
 </style>
 </head>
 <body>
-<header><nav><span id="wynik" hidden></span><a href="./">Strona główna</a> · <a href="?p=zadania-wg-typu/README.md">Zadania według typu</a></nav><nav id="dzialy" hidden aria-label="Działy"></nav></header>
+<header><nav><span id="wynik-box"><span id="wynik" hidden></span><button type="button" id="reset" hidden title="Wyczyść zapisane odpowiedzi na tej stronie">Zresetuj postęp</button></span><a href="./">Strona główna</a> · <a href="?p=zadania-wg-typu/README.md">Zadania według typu</a></nav><nav id="dzialy" hidden aria-label="Działy"></nav></header>
 <main id="content"><p>Wczytywanie…</p></main>
 
 <script src="https://cdn.jsdelivr.net/npm/marked@18.1.0/lib/marked.umd.js"></script>
@@ -335,11 +341,55 @@
     el.hidden = false;
     el.textContent = 'Rozwiązane: ' + solvedCount + ' / ' + total;
   }
-  function register(det) {
+  // --- zapamiętywanie postępu w przeglądarce (osobno dla każdej strony) ---
+  document.getElementById('reset').addEventListener('click', () => {
+    if (!confirm('Wyczyścić zapisane odpowiedzi na tej stronie? Inne strony zostaną bez zmian.')) return;
+    try { localStorage.removeItem(STORE); } catch (e) {}
+    location.reload();
+  });
+  const STORE = 'postep:' + page;
+  let saved = {};
+  try { saved = JSON.parse(localStorage.getItem(STORE) || '{}'); } catch (e) { saved = {}; }
+  const persist = () => { try { localStorage.setItem(STORE, JSON.stringify(saved)); } catch (e) {} };
+  const restorers = [];
+  const usedKeys = new Set();
+
+  // Zadanie rozpoznajemy po treści (pytanie + odpowiedź z klucza), a nie po kolejności
+  // na stronie, żeby poprawki w plikach .md nie przestawiały zapisanych odpowiedzi.
+  function itemKey(det) {
+    let ctx;
+    const li = det.closest('li');
+    if (li) {
+      const c = li.cloneNode(true);
+      c.querySelectorAll('details, ul, input, select').forEach(x => x.remove());
+      ctx = c.textContent;
+    } else {
+      let h = det;
+      while (h && !/^H[1-3]$/.test(h.tagName)) h = h.previousElementSibling || h.parentElement;
+      ctx = (h ? h.textContent : '') + '#' + det.querySelector('summary').textContent;
+    }
+    let str = (ctx + '|' + answerOf(det)).replace(/_+/g, '_').replace(/\s+/g, ' ').trim();
+    let hsh = 5381;
+    for (let i = 0; i < str.length; i++) hsh = ((hsh * 33) ^ str.charCodeAt(i)) >>> 0;
+    let key = hsh.toString(36);
+    for (let n = 2; usedKeys.has(key); n++) key = hsh.toString(36) + '-' + n;
+    usedKeys.add(key);
+    return key;
+  }
+
+  // Rejestruje zadanie. „restore(wartość)” odtwarza rozwiązanie po powrocie na stronę;
+  // zwracana funkcja „solve(wartość)” oznacza zadanie jako rozwiązane i zapisuje postęp.
+  function register(det, restore) {
     total++;
+    const key = itemKey(det);
     const s = det.querySelector('summary'); if (s) s.textContent = 'pokaż odpowiedź';
+    if (restore && key in saved) restorers.push(() => restore(saved[key]));
     let done = false;
-    return () => { if (done) return; done = true; solvedCount++; det.open = true; updateScore(); };
+    return value => {
+      if (done) return;
+      done = true; solvedCount++; det.open = true; updateScore();
+      saved[key] = value === undefined ? 1 : value; persist();
+    };
   }
 
   // a/b/c/d jako zagnieżdżona lista pod pytaniem
@@ -347,7 +397,7 @@
     const L = letterOf(ans);
     const opts = [...li.querySelectorAll(':scope > ul > li')].filter(o => OPT_RE.test(o.textContent));
     if (!L || opts.length < 2 || !opts.some(o => o.textContent.trim()[0].toLowerCase() === L)) return false;
-    const solve = register(det);
+    const solve = register(det, () => opts.find(o => o.textContent.trim()[0].toLowerCase() === L).click());
     opts.forEach(o => {
       const l = o.textContent.trim()[0].toLowerCase();
       o.classList.add('opt');
@@ -369,7 +419,8 @@
     const marks = [...text.matchAll(/(^|\s)([a-gA-G])[.)]\s/g)];
     if (marks.length < 2 || text.slice(0, marks[0].index).trim()) return false;
     if (!marks.some(m => m[2].toLowerCase() === L)) return false;
-    const solve = register(det);
+    let okSpan = null;
+    const solve = register(det, () => okSpan && okSpan.click());
     const frag = document.createDocumentFragment();
     marks.forEach((m, i) => {
       const start = m.index + m[1].length;
@@ -377,6 +428,7 @@
       const span = document.createElement('span');
       span.className = 'opt'; span.textContent = text.slice(start, end).trim();
       const l = m[2].toLowerCase();
+      if (l === L) okSpan = span;
       span.addEventListener('click', () => {
         if (li.classList.contains('done')) return;
         if (l === L) { span.classList.add('ok'); li.classList.add('done'); solve(); }
@@ -400,11 +452,13 @@
       if ((a === n || a.startsWith(n + ' ') || a.startsWith(n + '(')) && (!best || n.length > norm(best).length)) best = o;
     });
     if (!best) return false;
-    const solve = register(det);
+    let okBtn = null;
+    const solve = register(det, () => okBtn && okBtn.click());
     strong.textContent = '[ ';
     options.forEach((o, i) => {
       const b = document.createElement('button');
       b.type = 'button'; b.className = 'pick'; b.textContent = o;
+      if (o === best) okBtn = b;
       b.addEventListener('click', () => {
         if (li.classList.contains('done')) return;
         if (o === best) { b.classList.add('ok'); li.classList.add('done'); solve(); }
@@ -497,7 +551,12 @@
     const flat = s => s.toLowerCase().replace(/[\s-]/g, '');
     const accepted = new Set(variants.flatMap(v => expand(v)).map(flat).filter(w => w.length === pattern.length));
     if (!accepted.size) return false;
-    const solve = register(det);
+    let inputs = [], check = null;
+    const solve = register(det, v => {                // odtworzenie: wpisane litery z zapisu
+      if (!Array.isArray(v)) return;
+      inputs.forEach((inp, i) => { inp.value = v[i] || ''; });
+      check();
+    });
     const box = document.createElement('span');
     box.className = 'letters';
     const cells = [...pattern].map(ch => {
@@ -511,14 +570,14 @@
       inp.setAttribute('autocapitalize', 'off'); inp.setAttribute('aria-label', 'litera');
       box.append(inp); return { inp };
     });
-    const inputs = cells.filter(c => c.inp).map(c => c.inp);
+    inputs = cells.filter(c => c.inp).map(c => c.inp);
     const word = () => cells.map(c => c.fixed || c.inp.value || '_').join('');
-    const check = () => {
+    check = () => {
       box.classList.remove('ok', 'bad');
       const w = word();
       if (w.includes('_')) return;
       if (accepted.has(flat(w))) {
-        box.classList.add('ok'); inputs.forEach(i => { i.readOnly = true; }); solve();
+        box.classList.add('ok'); inputs.forEach(i => { i.readOnly = true; }); solve(inputs.map(i => i.value));
       } else box.classList.add('bad');
     };
     inputs.forEach((inp, k) => {
@@ -562,8 +621,12 @@
     // Tylko dwie szerokości, żeby długość pola nie zdradzała długości odpowiedzi.
     const width = multi ? 7 : longest > 14 ? 18 : 8;
 
-    const solve = register(det);
     const fields = [];
+    const solve = register(det, v => {                // odtworzenie: wpisana odpowiedź z zapisu
+      const vals = Array.isArray(v) ? v : [String(v)];
+      fields.forEach((f, i) => { f.input.value = vals[i] || ''; });
+      check();
+    });
     for (let i = used.length - 1; i >= 0; i--) fields.unshift(placeInput(used[i], width));
 
     const okOne = (f, set) => {
@@ -576,7 +639,7 @@
     });
     const isOk = () => fields.every((f, i) => okOne(f, parts[i]));
     const win = () => {
-      mark('ok'); fields.forEach(f => { f.input.readOnly = true; }); solve();
+      mark('ok'); fields.forEach(f => { f.input.readOnly = true; }); solve(fields.map(f => f.input.value));
       if (onOk) onOk(fields[0].input.value);
     };
     // Enter / wyjście z pola: ocena ostateczna
@@ -723,6 +786,7 @@
       after.before(sel);
       if (!selGroups.has(frags.table)) selGroups.set(frags.table, []);
       selGroups.get(frags.table).push(sel);
+      return sel;
     }
 
     // Luki w tekście: od końca, żeby wstawienie pola nie przesuwało pozostałych luk w akapicie.
@@ -737,11 +801,15 @@
       if (L) {                                  // wybór fragmentu a–g
         const frags = fragmentsBefore(det);
         if (!frags || !frags.some(f => f[0] === L)) return;
-        placeSelect(gap, frags, L, register(det));
+        let sel = null;
+        const solve = register(det, () => { sel.value = L; sel.dispatchEvent(new Event('change')); });
+        sel = placeSelect(gap, frags, L, solve);
       } else if (!setupTyping(null, det, acceptedOf(ans), null, [gap])) return;   // wpisywanie (np. po polsku)
       det.querySelector('summary').textContent = 'pokaż odpowiedź do luki ' + n;
     });
+    restorers.forEach(r => { try { r(); } catch (e) {} });
     updateScore();
+    if (total) document.getElementById('reset').hidden = false;
   }
 
   fetch(encodeURI(page))

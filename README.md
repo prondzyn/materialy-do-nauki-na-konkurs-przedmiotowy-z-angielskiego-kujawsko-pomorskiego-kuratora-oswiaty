@@ -18,6 +18,10 @@ obok. Formy skrócone liczą się tak samo jak pełne (*don't* = *do not*). W za
 wpisany wyraz sprawdza się od razu: zielony = dobrze, czerwony = inny wyraz z ramki,
 żółty = takiego wyrazu nie ma w ramce.
 
+Postęp zapisuje się w przeglądarce, osobno dla każdej strony: po powrocie rozwiązane zadania
+są od razu zaznaczone. Przycisk „Zresetuj postęp” u góry czyści tylko bieżącą stronę. Postęp
+nie przenosi się między urządzeniami ani przeglądarkami.
+
 <details><summary>Jak oznaczyć słówko z tłumaczeniem</summary>
 
 W pliku `.md` wpisz:
