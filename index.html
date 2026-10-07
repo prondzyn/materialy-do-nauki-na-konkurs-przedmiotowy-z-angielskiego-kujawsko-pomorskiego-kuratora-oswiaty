@@ -82,12 +82,10 @@
   }
   kbd .say, .baza .say { font-size: .95em; }
   .baza.klucz { font-weight: normal; }
-  /* Ikonka „uwaga” (zamiast znaku ⚠) */
+  /* Ikonka „uwaga”: znak ⚠ jako kolorowe emoji ⚠️ */
   .uwaga {
-    display: inline-flex; align-items: center; justify-content: center; vertical-align: .1em;
-    width: 1.15em; height: 1.15em; margin-right: .25em; border-radius: 50%;
-    font: 700 .8em/1 -apple-system, "Segoe UI", Roboto, Arial, sans-serif; font-style: normal;
-    color: #fff; background: var(--accent);
+    font-family: "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif;
+    font-style: normal; font-weight: normal; margin-right: .15em;
   }
   hr { border: 0; border-top: 1px solid var(--line); margin: 2em 0; }
   #error { color: #cf222e; }
@@ -975,7 +973,7 @@
       // żeby głośnik nie wchodził do tekstu, po którym rozpoznajemy zapisany postęp.
       if (synth) content.querySelectorAll('kbd').forEach(k => addSay(k, k.textContent.trim()));
       // …i w ramce ze słowem-kluczem w transformacjach (<span class="baza">BELONG</span>)
-      // ⚠ → ładna ikonka „uwaga”. Na końcu, bo sprawdzanie odpowiedzi rozpoznaje uwagi po znaku ⚠.
+      // ⚠ → kolorowe emoji ⚠️. Na końcu, bo sprawdzanie odpowiedzi rozpoznaje uwagi po znaku ⚠.
       const warn = document.createTreeWalker(content, NodeFilter.SHOW_TEXT);
       const warnNodes = [];
       while (warn.nextNode()) if (warn.currentNode.textContent.includes('⚠')) warnNodes.push(warn.currentNode);
@@ -984,7 +982,7 @@
         n.textContent.split(/⚠️?/).forEach((part, i) => {
           if (i) {
             const w = document.createElement('span');
-            w.className = 'uwaga'; w.textContent = '!';
+            w.className = 'uwaga'; w.textContent = '⚠️';
             w.setAttribute('role', 'img'); w.setAttribute('aria-label', 'Uwaga'); w.title = 'Uwaga';
             frag.append(w);
           }
