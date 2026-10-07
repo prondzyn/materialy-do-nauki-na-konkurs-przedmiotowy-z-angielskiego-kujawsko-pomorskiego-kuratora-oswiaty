@@ -128,9 +128,19 @@ W nawiasie nie zawsze jest czasownik. Od 2025/26 w zadaniu pojawiają się też 
 | Strona bierna z modalnym | must prepare / must be prepare | must **be prepared** |
 | Stopniowanie długiego przymiotnika | demandinger than | **more demanding than** |
 
-Nieregularne czasowniki z tych zadań: fall – fell – fallen; fight – fought – fought;
-steal – stole – stolen; eat – ate – eaten; see – saw – seen; make – made – made; do – did – done;
-swim – swam – swum; run – ran – run.
+Nieregularne czasowniki z tych zadań:
+
+| Bezokolicznik | Past Simple | 3. forma | Znaczenie |
+|---|---|---|---|
+| fall | fell | fallen | upaść, spaść |
+| fight | fought | fought | walczyć, bić się |
+| steal | stole | stolen | ukraść |
+| eat | ate | eaten | jeść |
+| see | saw | seen | widzieć |
+| make | made | made | robić, zrobić |
+| do | did | done | robić, zrobić |
+| swim | swam | swum | pływać |
+| run | ran | run | biec, biegać |
 
 ---
 
