@@ -292,28 +292,98 @@ Formy, których nie da się utworzyć zwykłym przyrostkiem, albo wymagające dw
 
 ## Klucz odpowiedzi
 
-**A.** 1. better · 2. driest · 3. injuries · 4. thieves
+**A.**
 
-**B.** 5. nervously · 6. reasonably / unreasonably
+1. better
+2. driest
+3. injuries
+4. thieves
 
-**C.** 7. rainy · 8. smoky / smokey · 9. weekly · 10. endless (też: never-ending / neverending) ·
-11. poisonous (nie: *poisoned*) · 12. fashionable · 13. reliable · 14. talkative · 15. imaginative ·
-16. competitive · 17. bored · 18. terrified · 19. exhausting · 20. disappointing
+**B.**
 
-**D.** 21. entertainment · 22. excitement · 23. discussion · 24. solution / solutions · 25. solution ·
-26. population · 27. explanation · 28. connections · 29. disappearance · 30. personality ·
-31. loyalty · 32. bravery · 33. mixture · 34. pressure · 35. freedom · 36. neighbourhood ·
-37. scholarship · 38. competitor · 39. competitors · 40. survivor
+5. nervously
+6. reasonably / unreasonably
 
-**E.** 41. unfriendly · 42. unhappy · 43. impolite · 44. immature · 45. illegal · 46. incorrect ·
-47. independent · 48. inexpensive · 49. intolerant / intolerable
+**C.**
 
-**F.** 50. overweight · 51. overworked · 52. oversleep · 53. foreground · 54. exchange
+7. rainy
+8. smoky / smokey
+9. weekly
+10. endless (też: never-ending / neverending)
+11. poisonous (nie: *poisoned*)
+12. fashionable
+13. reliable
+14. talkative
+15. imaginative
+16. competitive
+17. bored
+18. terrified
+19. exhausting
+20. disappointing
 
-**G.** 55. height · 56. height · 57. length · 58. truth · 59. knowledge (nie: *knowing*) · 60. anger ·
-61. choice · 62. proud · 63. memorise / memorize / remember · 64. revolutionised / revolutionized ·
-65. voluntary / volunteering · 66. uncomfortable · 67. unemployed · 68. disconnected ·
-69. misunderstanding · 70. disagreements · 71. impatient / patient · 72. unbelievably ·
+**D.**
+
+21. entertainment
+22. excitement
+23. discussion
+24. solution / solutions
+25. solution
+26. population
+27. explanation
+28. connections
+29. disappearance
+30. personality
+31. loyalty
+32. bravery
+33. mixture
+34. pressure
+35. freedom
+36. neighbourhood
+37. scholarship
+38. competitor
+39. competitors
+40. survivor
+
+**E.**
+
+41. unfriendly
+42. unhappy
+43. impolite
+44. immature
+45. illegal
+46. incorrect
+47. independent
+48. inexpensive
+49. intolerant / intolerable
+
+**F.**
+
+50. overweight
+51. overworked
+52. oversleep
+53. foreground
+54. exchange
+
+**G.**
+
+55. height
+56. height
+57. length
+58. truth
+59. knowledge (nie: *knowing*)
+60. anger
+61. choice
+62. proud
+63. memorise / memorize / remember
+64. revolutionised / revolutionized
+65. voluntary / volunteering
+66. uncomfortable
+67. unemployed
+68. disconnected
+69. misunderstanding
+70. disagreements
+71. impatient / patient
+72. unbelievably
 73. academically
 
 ⚠ 49. Klucz dopuszcza *intolerable*, ale w zdaniu o osobie („How can you be so…”) poprawne

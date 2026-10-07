@@ -262,6 +262,7 @@ Najtrudniejszy podtyp: nie ma listy do wyboru, więc przyimek trzeba przypomnie�
 ## Klucz odpowiedzi
 
 **2018/19, zad. 8**
+
 1. of
 2. on
 3. on
@@ -275,6 +276,7 @@ Najtrudniejszy podtyp: nie ma listy do wyboru, więc przyimek trzeba przypomnie�
 (niewykorzystane: by, from, to, with)
 
 **2025/26, zad. 8**
+
 11. by
 12. to
 13. with
@@ -288,6 +290,7 @@ Najtrudniejszy podtyp: nie ma listy do wyboru, więc przyimek trzeba przypomnie�
 (niewykorzystane: away, into) ⚠ Oficjalny klucz podaje „away, towards nie zostały wykorzystane”, ale w ramce nie ma *towards* — zostają *away* i *into*.
 
 **2024/25, zad. 8**
+
 21. in
 22. on
 23. by
@@ -301,6 +304,7 @@ Najtrudniejszy podtyp: nie ma listy do wyboru, więc przyimek trzeba przypomnie�
 (niewykorzystane: into — drugi egzemplarz, about)
 
 **2022/23, zad. 8**
+
 31. out
 32. on
 33. by
@@ -314,6 +318,7 @@ Najtrudniejszy podtyp: nie ma listy do wyboru, więc przyimek trzeba przypomnie�
 (niewykorzystane: from, with)
 
 **2023/24, zad. 8**
+
 41. in
 42. into
 43. out
@@ -327,6 +332,7 @@ Najtrudniejszy podtyp: nie ma listy do wyboru, więc przyimek trzeba przypomnie�
 (niewykorzystane: forward, down)
 
 **DO / GET / MAKE**
+
 51. get
 52. make
 53. make
@@ -334,6 +340,7 @@ Najtrudniejszy podtyp: nie ma listy do wyboru, więc przyimek trzeba przypomnie�
 55. do
 
 **Bez ramki**
+
 56. to
 57. off
 58. on

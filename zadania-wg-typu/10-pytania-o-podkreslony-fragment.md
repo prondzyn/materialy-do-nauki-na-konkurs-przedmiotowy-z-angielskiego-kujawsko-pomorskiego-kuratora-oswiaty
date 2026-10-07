@@ -244,6 +244,7 @@ przynależność (*Whose* + rzeczownik).
 Warianty w nawiasach są w kluczu opcjonalne. „/” oddziela warianty uznawane przez komisję.
 
 **A.**
+
 1. How old are the twins?
 2. How old is your stepbrother? — ⚠ w kluczu: *How old is your brother?* To błąd klucza, bo w zdaniu
    jest *stepbrother*. Pisz *stepbrother*.
@@ -268,12 +269,14 @@ Warianty w nawiasach są w kluczu opcjonalne. „/” oddziela warianty uznawane
 15. How fast are they going to drive? / At what speed are they going to drive?
 
 **B.**
+
 16. What do a lot of teenagers speak very well? / What do many teenagers speak very well?
 17. What does travel broaden?
 18. What did he pick up in the bank?
 19. What did Veronica cut on a piece of glass?
 
 **C.**
+
 20. What must you wear when riding a bike? / What do you have to wear when riding a bike?
 21. What is she going to study?
 22. What is Mary discussing with her classmates (at present)?
@@ -286,6 +289,7 @@ Warianty w nawiasach są w kluczu opcjonalne. „/” oddziela warianty uznawane
     w kluczu.
 
 **D.**
+
 27. What are they looking for?
 28. What is she an expert in?
 29. What is Jim having problems with (right now)?
@@ -299,6 +303,7 @@ Warianty w nawiasach są w kluczu opcjonalne. „/” oddziela warianty uznawane
     suffering from (for two hours now)?* Klucz podaje wersję z *problem*.
 
 **E.**
+
 37. Who builds houses?
 38. Who visits my grandma every Saturday?
 39. Who cooks better than anyone else?
@@ -313,6 +318,7 @@ Warianty w nawiasach są w kluczu opcjonalne. „/” oddziela warianty uznawane
 46. Who had to resign because of health problems?
 
 **F.**
+
 47. What should she do before the storm begins?
 48. What could Ben do when he was eight years old?
 49. What could Arianna do when she was just five?

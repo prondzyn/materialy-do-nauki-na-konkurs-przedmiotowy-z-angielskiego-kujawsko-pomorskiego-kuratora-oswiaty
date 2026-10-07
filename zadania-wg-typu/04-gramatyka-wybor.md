@@ -508,6 +508,7 @@ All in all, the show has something for everyone.
 ## Klucz odpowiedzi
 
 **Czasy, tryby warunkowe i formy czasownika**
+
 1. C — haven't finished
 2. B — stops
 3. B — doesn't belong
@@ -528,6 +529,7 @@ All in all, the show has something for everyone.
 18. go
 
 **Czasowniki modalne**
+
 19. C — didn't have to go
 20. C — mustn't
 21. D — can't
@@ -536,6 +538,7 @@ All in all, the show has something for everyone.
 24. be able to
 
 **Stopniowanie i porównania; so/such, too/enough**
+
 25. C — such a
 26. B — old enough
 27. A — too
@@ -545,6 +548,7 @@ All in all, the show has something for everyone.
 31. b — the richer
 
 **Kwantyfikatory, przedimki, liczba mnoga**
+
 32. D — a few / many
 33. A — the / a
 34. d — many
@@ -555,6 +559,7 @@ All in all, the show has something for everyone.
 39. anyone
 
 **Zaimki, zdania względne, question tags, pytania pośrednie**
+
 40. B — mine
 41. b — itself
 42. himself
@@ -566,6 +571,7 @@ All in all, the show has something for everyone.
 48. c — what time it is
 
 **Przyimki i czasowniki frazalne w wyborze**
+
 49. A — since
 50. B — on
 51. A — in
@@ -573,6 +579,7 @@ All in all, the show has something for everyone.
 53. B — takes after
 
 **Enola Holmes**
+
 54. c — haven't
 55. a — its
 56. d — from
@@ -585,6 +592,7 @@ All in all, the show has something for everyone.
 63. a — in order
 
 **Riverdale**
+
 64. C — teen
 65. A — tells
 66. B — solve

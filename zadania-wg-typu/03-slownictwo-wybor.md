@@ -612,6 +612,7 @@ Najbardziej zdradliwy podtyp: obie opcje są prawdziwymi słowami o podobnej for
 ## Klucz odpowiedzi
 
 **A. Dopasowanie definicji**
+
 1. viewers
 2. lose
 3. football players
@@ -634,6 +635,7 @@ Najbardziej zdradliwy podtyp: obie opcje są prawdziwymi słowami o podobnej for
 20. b — a sum of money to kidnappers
 
 **B. Słownictwo tematyczne**
+
 21. A — bunk bed
 22. C — plumber
 23. C — discount
@@ -664,6 +666,7 @@ Najbardziej zdradliwy podtyp: obie opcje są prawdziwymi słowami o podobnej for
 48. d — sentenced
 
 **C. Kolokacje, idiomy i stałe zwroty**
+
 49. D — runny nose
 50. D — bat
 51. B — cucumber
@@ -703,6 +706,7 @@ Najbardziej zdradliwy podtyp: obie opcje są prawdziwymi słowami o podobnej for
 85. TONE
 
 **D. Pary mylone**
+
 86. C — suit
 87. C — prescription
 88. B — Grate
