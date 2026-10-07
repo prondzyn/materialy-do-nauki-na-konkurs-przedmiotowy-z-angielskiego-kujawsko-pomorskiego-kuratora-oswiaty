@@ -89,11 +89,11 @@
     font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer;
     border-bottom: 2px dotted var(--accent);
   }
-  .slowko .say {
+  .say {
     font-size: .8em; background: none; border: 0; padding: 0 0 0 .2em; cursor: pointer;
     opacity: .75; vertical-align: baseline;
   }
-  .slowko .say:hover { opacity: 1; }
+  .say:hover { opacity: 1; }
   .slowko .tr {
     position: absolute; left: 0; top: 100%; z-index: 10; margin-top: 4px;
     background: var(--bubble); color: var(--fg); border: 1px solid var(--line);
@@ -396,6 +396,20 @@
     };
   }
 
+  // 🔊 przy krótkiej odpowiedzi do wyboru (1–3 słowa, po angielsku), żeby odsłuchać wymowę.
+  // Kliknięcie głośnika nie wybiera odpowiedzi.
+  function addSay(el, text) {
+    if (!synth || el.querySelector('.say')) return;
+    text = text.replace(OPT_RE, '').replace(/[.,;:!?]+$/, '').trim();
+    if (!text || text.split(/\s+/).length > 3 || /[_ąćęłńóśźż]/i.test(text)) return;
+    const s = document.createElement('button');
+    s.type = 'button'; s.className = 'say'; s.textContent = '🔊';
+    s.setAttribute('aria-label', 'Wymowa: ' + text);
+    s.title = 'Posłuchaj wymowy';
+    s.addEventListener('click', e => { e.stopPropagation(); say(text); });
+    el.append(' ', s);
+  }
+
   // a/b/c/d jako zagnieżdżona lista pod pytaniem
   function setupNestedOptions(li, det, ans) {
     const L = letterOf(ans);
@@ -405,6 +419,7 @@
     opts.forEach(o => {
       const l = o.textContent.trim()[0].toLowerCase();
       o.classList.add('opt');
+      addSay(o, o.textContent);
       o.addEventListener('click', () => {
         if (li.classList.contains('done')) return;
         if (l === L) { o.classList.add('ok'); li.classList.add('done'); solve(); }
@@ -438,6 +453,7 @@
         if (l === L) { span.classList.add('ok'); li.classList.add('done'); solve(); }
         else span.classList.add('bad');
       });
+      addSay(span, span.textContent);
       frag.append(span, ' ');
     });
     node.replaceWith(frag);
