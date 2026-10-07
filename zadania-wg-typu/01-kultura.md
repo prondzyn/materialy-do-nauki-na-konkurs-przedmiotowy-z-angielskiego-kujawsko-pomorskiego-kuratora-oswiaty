@@ -56,72 +56,72 @@ Najczęstszy temat. Daty urodzin, żony Henryka VIII, śmierć Elżbiety II — 
    - b) Elisabeth II
    - c) Victoria II
    - d) Camilla Parker Bowles
-   <details><summary>odpowiedź</summary>a — Diana Spencer</details><br>
+   <details><summary>odpowiedź</summary>a — Diana Spencer<br>Tak nazwał ją premier Tony Blair po jej śmierci w 1997 r. Była bardzo lubiana za działalność charytatywną. Elżbieta II była królową (w opcji jest literówka: <i>Elisabeth</i>), królowej Wiktorii II nigdy nie było (była tylko Wiktoria, 1837–1901), a Camilla to druga żona Karola, dziś królowa.</details><br>
 2. The king of the UK who had six wives was: *(2025/26, zad. 10.8)*
    - a) King Henry II
    - b) King Henry V
    - c) King Henry VIII
    - d) King Henry III
-   <details><summary>odpowiedź</summary>c — King Henry VIII</details><br>
+   <details><summary>odpowiedź</summary>c — King Henry VIII<br>Henryk VIII (1509–1547) miał sześć żon, to najsłynniejszy fakt o nim. Henryk II, III i V żyli dużo wcześniej (XII–XV w.) i każdy miał jedną żonę.</details><br>
 3. When was King Charles born? *(2024/25, zad. 10.2)*
    - a) 1945
    - b) 1948
    - c) 1952
    - d) 1950
-   <details><summary>odpowiedź</summary>b — 1948</details><br>
+   <details><summary>odpowiedź</summary>b — 1948<br>Karol III urodził się 14 listopada 1948 r. Królem został w 2022 r., w wieku 73 lat, jako najstarszy monarcha obejmujący tron w historii Wielkiej Brytanii. Rok 1950 to data urodzin jego siostry, księżniczki Anny.</details><br>
 4. The official home of the British Monarch since Queen Victoria (1837-1901) is: *(2023/24, zad. 10.1)*
    - a) St. Paul's Cathedral
    - b) Buckingham Palace
    - c) Tower of London
    - d) Westminster Abbey
-   <details><summary>odpowiedź</summary>b — Buckingham Palace</details><br>
+   <details><summary>odpowiedź</summary>b — Buckingham Palace<br>Wiktoria jako pierwsza monarchini zamieszkała tam w 1837 r. St Paul's Cathedral i Westminster Abbey to kościoły (w opactwie Westminster odbywają się koronacje), a Tower of London to dawna twierdza i więzienie, dziś muzeum z klejnotami koronnymi.</details><br>
 5. When was Queen Elizabeth II born? *(2023/24, zad. 10.4)*
    - a) 1922
    - b) 1924
    - c) 1926
    - d) 1929
-   <details><summary>odpowiedź</summary>c — 1926</details><br>
+   <details><summary>odpowiedź</summary>c — 1926<br>Urodziła się 21 kwietnia 1926 r., zmarła w 2022 r. w wieku 96 lat. Łatwo zapamiętać: 1926 + 96 = 2022.</details><br>
 6. How many grandchildren did Queen Elizabeth II have on the day of her death? *(2023/24, zad. 10.5)*
    - a) 8
    - b) 9
    - c) 10
    - d) 11
-   <details><summary>odpowiedź</summary>a — 8</details><br>
+   <details><summary>odpowiedź</summary>a — 8<br>Miała czworo dzieci (Karol, Anna, Andrzej, Edward) i ośmioro wnuków: William i Harry (dzieci Karola), Peter i Zara (Anny), Beatrice i Eugenie (Andrzeja), Louise i James (Edwarda).</details><br>
 7. Queen Elizabeth II died on 8th September 2022 in ______ . *(2022/23, zad. 10.6)*
    - a) Windsor Castle
    - b) Balmoral Castle
    - c) Buckingham Palace
    - d) Holyrood Palace
-   <details><summary>odpowiedź</summary>b — Balmoral Castle</details><br>
+   <details><summary>odpowiedź</summary>b — Balmoral Castle<br>Balmoral to letnia rezydencja rodziny królewskiej w Szkocji, królowa spędzała tam każde lato. Windsor to zamek pod Londynem (tam została pochowana), Holyrood Palace to oficjalna rezydencja w Edynburgu.</details><br>
 8. _______, Elizabeth II's ______, died on 9th April 2021. *(2021/22, zad. 6.72)*
    - A. Philip / son
    - B. Philip / husband
    - C. William / grandson
    - D. Diana / daughter
-   <details><summary>odpowiedź</summary>B — Philip / husband</details><br>
+   <details><summary>odpowiedź</summary>B — Philip / husband<br>Książę Filip był mężem Elżbiety II przez 73 lata. Zmarł 9 kwietnia 2021 r., dwa miesiące przed setnymi urodzinami. William to wnuk królowej i żyje, a Diana była synową (nie córką) i zmarła w 1997 r.</details><br>
 9. ______ established the Church of England in the 1530s. *(2021/22, zad. 6.75)*
    - A. Henry VIII
    - B. Elizabeth I
    - C. Elizabeth II
    - D. William I
-   <details><summary>odpowiedź</summary>A — Henry VIII</details><br>
+   <details><summary>odpowiedź</summary>A — Henry VIII<br>Papież nie zgodził się unieważnić jego małżeństwa z Katarzyną Aragońską, więc Henryk zerwał z Rzymem i w 1534 r. ogłosił się głową Kościoła Anglii. Elżbieta I później umocniła Kościół anglikański, ale go nie założyła. Wilhelm I to Wilhelm Zdobywca z 1066 r.</details><br>
 10. Who was the fourth wife of Henry VIII? *(2020/21, zad. 9.3)*
     - a) Jane Seymour
     - b) Catherine Howard
     - c) Henrietta
     - d) Anne of Cleves
-    <details><summary>odpowiedź</summary>d — Anne of Cleves</details><br>
+    <details><summary>odpowiedź</summary>d — Anne of Cleves<br>Żony po kolei: Katarzyna Aragońska, Anna Boleyn, Jane Seymour, <b>Anna Kliwijska</b> (4.), Katarzyna Howard (5.), Katarzyna Parr (6.). Jane Seymour była trzecia, Catherine Howard piąta, a Henrietty w ogóle nie było wśród żon.</details><br>
 11. Who is first in line to the throne of England? *(2020/21, zad. 9.5)*
     - a) Prince Charles
     - b) Prince Harry
     - c) Prince William
     - d) Prince Andrew
-    <details><summary>odpowiedź</summary>a — Prince Charles ⚠ poprawne w październiku 2020. Od września 2022 Karol jest królem (Karol III), a pierwszy w kolejce do tronu jest <b>Prince William</b>.</details><br>
+    <details><summary>odpowiedź</summary>a — Prince Charles<br>W 2020 r. królową była Elżbieta II, a jej najstarszy syn Karol był pierwszy w kolejce. ⚠ Od września 2022 Karol jest królem (Karol III), a pierwszy w kolejce do tronu jest <b>Prince William</b>, za nim jego syn George.</details><br>
 12. Elizabeth II loves dogs, especially the breed called _________. *(2019/20, zad. 12.6)*
     - a) Newfoundlands
     - b) corgis
     - c) German shepherds
-    <details><summary>odpowiedź</summary>b — corgis</details>
+    <details><summary>odpowiedź</summary>b — corgis<br>Królowa miała przez całe życie ponad 30 corgi. Pierwszą (Susan) dostała na 18. urodziny. Corgi to walijska rasa psów pasterskich.</details>
 
 ## USA — historia i polityka
 
@@ -132,94 +132,94 @@ Drugi najczęstszy temat: 4 lipca 1776, 11 września 2001, Kongres na Kapitolu, 
     - b) Florida
     - c) Hawaii
     - d) New York
-    <details><summary>odpowiedź</summary>c — Hawaii</details><br>
+    <details><summary>odpowiedź</summary>c — Hawaii<br>Hawaje zostały 50. stanem 21 sierpnia 1959 r., kilka miesięcy po Alasce (49. stan, styczeń 1959). Floryda dołączyła w 1845 r., a Nowy Jork był jednym z 13 pierwszych stanów.</details><br>
 14. When did the attack on the World Trade Centre take place? *(2025/26, zad. 10.5)*
     - a) 11th September 2011
     - b) 11th September 2001
     - c) 11th September 2010
     - d) 11th September 2000
-    <details><summary>odpowiedź</summary>b — 11th September 2001</details><br>
+    <details><summary>odpowiedź</summary>b — 11th September 2001<br>11 września 2001 r. terroryści z Al-Kaidy uprowadzili samoloty i uderzyli nimi w dwie wieże WTC w Nowym Jorku oraz w Pentagon. Pozostałe daty to pułapki z podobnymi cyframi.</details><br>
 15. The Capitol in Washington D.C. is the meeting place of the US.... *(2025/26, zad. 10.6)*
     - a) Senate
     - b) Parliament
     - c) Congress
     - d) Ministers
-    <details><summary>odpowiedź</summary>c — Congress</details><br>
+    <details><summary>odpowiedź</summary>c — Congress<br>Kongres ma dwie izby, Senat i Izbę Reprezentantów, i obie obradują w Kapitolu. Sam Senat to tylko jedna izba. <i>Parliament</i> to nazwa brytyjska, a ministrowie (w USA: <i>secretaries</i>) pracują w swoich departamentach.</details><br>
 16. Which date is marked as the beginning of the USA? *(2025/26, zad. 10.10)*
     - a) July 4, 1776
     - b) December 25, 1776
     - c) November 11, 1783
     - d) September 17, 1787
-    <details><summary>odpowiedź</summary>a — July 4, 1776</details><br>
+    <details><summary>odpowiedź</summary>a — July 4, 1776<br>4 lipca 1776 r. przyjęto Deklarację Niepodległości, stąd święto Independence Day. Wojna o niepodległość skończyła się w 1783 r., a 17 września 1787 r. podpisano Konstytucję USA.</details><br>
 17. When was Barack Obama elected the 44th President of the USA? *(2024/25, zad. 10.8)*
     - a) 2004
     - b) 2008
     - c) 2016
     - d) 2000
-    <details><summary>odpowiedź</summary>b — 2008</details><br>
+    <details><summary>odpowiedź</summary>b — 2008<br>Wybory były w listopadzie 2008 r. Obama objął urząd w styczniu 2009 r. i rządził dwie kadencje, do 2017 r. W 2000 i 2004 r. wygrywał George W. Bush, a w 2016 r. Donald Trump.</details><br>
 18. Where was the first permanent European settlement established in North America? *(2024/25, zad. 10.3)*
     - a) New York
     - b) New Amsterdam
     - c) Boston
     - d) Plymouth
-    <details><summary>odpowiedź</summary>d — Plymouth ⚠ spośród podanych opcji to najstarsza osada (1620), ale historycznie wcześniejsze były Jamestown (1607) i St. Augustine na Florydzie (1565).</details><br>
+    <details><summary>odpowiedź</summary>d — Plymouth<br>Pielgrzymi przypłynęli tam na statku Mayflower w 1620 r. Nowy Amsterdam (dziś Nowy Jork) założyli Holendrzy w 1625 r., a Boston powstał w 1630 r. ⚠ Spośród podanych opcji Plymouth jest najstarsze, ale historycznie wcześniejsze były Jamestown (1607) i St. Augustine na Florydzie (1565).</details><br>
 19. The US Capitol in Washington is the meeting place of the United States ……. . *(2023/24, zad. 10.9)*
     - a) President
     - b) Parties
     - c) Workers
     - d) Congress
-    <details><summary>odpowiedź</summary>d — Congress</details><br>
+    <details><summary>odpowiedź</summary>d — Congress<br>To samo co w pozycji 15: w Kapitolu obraduje Kongres. Prezydent pracuje w Białym Domu.</details><br>
 20. _______ is the current 46th president of the United States. *(2021/22, zad. 6.74)*
     - A. Kamala Harris
     - B. Boris Johnson
     - C. Joe Biden
     - D. Michael Martin
-    <details><summary>odpowiedź</summary>C — Joe Biden ⚠ poprawne w październiku 2021. Od 20 stycznia 2025 prezydentem jest Donald Trump (47. prezydent).</details><br>
+    <details><summary>odpowiedź</summary>C — Joe Biden<br>Biden był 46. prezydentem USA (2021–2025). Kamala Harris była jego wiceprezydentką, Boris Johnson premierem Wielkiej Brytanii, a Micheál Martin premierem Irlandii. ⚠ Od 20 stycznia 2025 prezydentem jest Donald Trump (47. prezydent).</details><br>
 21. The ______ were the first Europeans to settle down in New York in the 17th century. *(2021/22, zad. 6.76)*
     - A. Scottish
     - B. Dutch
     - C. Poles
     - D. Italians
-    <details><summary>odpowiedź</summary>B — Dutch</details><br>
+    <details><summary>odpowiedź</summary>B — Dutch<br>Holendrzy założyli Nowy Amsterdam na Manhattanie. W 1664 r. przejęli go Anglicy i zmienili nazwę na New York. Holenderskie ślady zostały w nazwach dzielnic: Harlem, Brooklyn (od Breukelen).</details><br>
 22. The two towers of the World Trade Centre in New York were destroyed as the result of the terrorist
     attacks _____ years ago, on 11th September. *(2021/22, zad. 6.77)*
     - A. eight
     - B. ten
     - C. nineteen
     - D. twenty
-    <details><summary>odpowiedź</summary>D — twenty (w 2021 minęło 20 lat od 2001)</details><br>
+    <details><summary>odpowiedź</summary>D — twenty<br>Arkusz był z jesieni 2021 r.: 2021 − 2001 = 20 lat.</details><br>
 23. The first people on the American continent are often called _________. *(2019/20, zad. 12.1)*
     - a) the Inuits
     - b) the Native Americans
     - c) the Aborigines
-    <details><summary>odpowiedź</summary>b — the Native Americans</details><br>
+    <details><summary>odpowiedź</summary>b — the Native Americans<br>Tak w USA nazywa się rdzennych mieszkańców Ameryki (dawniej <i>American Indians</i>). Inuici to tylko jedna z grup, żyją w Arktyce (Alaska, Kanada, Grenlandia). Aborygeni to rdzenni mieszkańcy Australii.</details><br>
 24. _________ honours American soldiers killed in war. On that day there are numerous parades. It is
     celebrated on the last Monday of May. *(2019/20, zad. 12.2)*
     - a) Memorial Day
     - b) Mayday
     - c) Labour Day
-    <details><summary>odpowiedź</summary>a — Memorial Day</details><br>
+    <details><summary>odpowiedź</summary>a — Memorial Day<br>Ostatni poniedziałek maja to dzień pamięci poległych żołnierzy. Labor Day to święto pracy (pierwszy poniedziałek września), a <i>Mayday</i> to sygnał wzywania pomocy albo święto 1 maja.</details><br>
 25. What is the first name of President Trump's wife? *(2019/20, zad. 12.4)*
     - a) Melania
     - b) Melinda
     - c) Mary
-    <details><summary>odpowiedź</summary>a — Melania</details><br>
+    <details><summary>odpowiedź</summary>a — Melania<br>Melania Trump pochodzi ze Słowenii. Melinda to była żona Billa Gatesa.</details><br>
 26. The Fourth of July, or ______________, is the most important American holiday. *(2018/19, zad. 12.4)*
     - a) President's Day
     - b) Independence Day
     - c) Columbus Day
-    <details><summary>odpowiedź</summary>b — Independence Day</details><br>
+    <details><summary>odpowiedź</summary>b — Independence Day<br>4 lipca to rocznica Deklaracji Niepodległości (1776). Presidents' Day jest w lutym, a Columbus Day w październiku.</details><br>
 27. The previous president of the USA was _____________ . *(2018/19, zad. 12.6)*
     - a) Barack Obama
     - b) Donald Trump
     - c) Bill Clinton
-    <details><summary>odpowiedź</summary>a — Barack Obama ⚠ poprawne w 2018 (urzędował wtedy Trump). Dziś „poprzednim prezydentem” byłby Joe Biden.</details><br>
+    <details><summary>odpowiedź</summary>a — Barack Obama<br>W 2018 r. urzędował Donald Trump, więc „poprzedni” prezydent to Obama (2009–2017). Bill Clinton rządził jeszcze wcześniej (1993–2001). ⚠ Dziś „poprzednim prezydentem” byłby Joe Biden.</details><br>
 28. The first European explorer in Hawaii was _____ . *(2022/23, zad. 10.9)*
     - a) James Cook
     - b) Christopher Columbus
     - c) Ferdinand Magellan
     - d) Walter Raleigh
-    <details><summary>odpowiedź</summary>a — James Cook</details>
+    <details><summary>odpowiedź</summary>a — James Cook<br>Brytyjski kapitan James Cook dotarł na Hawaje w 1778 r. i nazwał je Wyspami Sandwich. Kolumb dopłynął na Karaiby (1492), wyprawa Magellana opłynęła świat (1519–1522), a Walter Raleigh próbował zakładać kolonie w Wirginii.</details>
 
 ## Wielka Brytania — geografia, symbole narodowe, jednostki
 
@@ -230,75 +230,75 @@ Szkocja, Walia, szczyty i jeziora, waluta i miary. Tu najłatwiej pomylić kraje
     - b) Loch Lomond
     - c) Loch Ness
     - d) Lake Windermere
-    <details><summary>odpowiedź</summary>c — Loch Ness</details><br>
+    <details><summary>odpowiedź</summary>c — Loch Ness<br>Legendarny potwór z Loch Ness to „Nessie”. Loch Lomond też jest w Szkocji, ale bez potwora, Lough Neagh leży w Irlandii Północnej, a Windermere w Anglii (Lake District). <i>Loch</i> to po szkocku jezioro, <i>lough</i> to samo po irlandzku.</details><br>
 30. What is the national symbol of Wales? *(2023/24, zad. 10.2)*
     - a) The leek and the daffodil
     - b) The red rose
     - c) The thistle
     - d) The shamrock
-    <details><summary>odpowiedź</summary>a — The leek and the daffodil</details><br>
+    <details><summary>odpowiedź</summary>a — The leek and the daffodil<br>Por i żonkil to symbole Walii, nosi się je w Dniu św. Dawida (1 marca). Czerwona róża to Anglia, oset Szkocja, a koniczyna Irlandia.</details><br>
 31. The national emblems of Wales are _______. *(2020/21, zad. 9.9)*
     - a) the leek and the daffodil
     - b) the red rose and the leek
     - c) the shamrock and the thistle
     - d) the thistle and the daffodil
-    <details><summary>odpowiedź</summary>a — the leek and the daffodil</details><br>
+    <details><summary>odpowiedź</summary>a — the leek and the daffodil<br>To samo co w pozycji 30. Pozostałe opcje mieszają symbole różnych krajów.</details><br>
 32. Saint ______ is the patron saint of Wales. *(2022/23, zad. 10.2)*
     - a) David
     - b) Patrick
     - c) Andrew
     - d) Anthony
-    <details><summary>odpowiedź</summary>a — David</details><br>
+    <details><summary>odpowiedź</summary>a — David<br>Św. Dawid to patron Walii (1 marca), św. Patryk Irlandii (17 marca), a św. Andrzej Szkocji (30 listopada). Patronem Anglii jest św. Jerzy (23 kwietnia). Św. Antoni nie jest patronem żadnego z tych krajów.</details><br>
 33. The ______ is the national symbol of Scotland. *(2021/22, zad. 6.73)*
     - A. maple leaf
     - B. shamrock
     - C. leek
     - D. thistle
-    <details><summary>odpowiedź</summary>D — thistle</details><br>
+    <details><summary>odpowiedź</summary>D — thistle<br>Oset to symbol Szkocji. Liść klonu to symbol Kanady, koniczyna Irlandii, a por Walii.</details><br>
 34. Curling, one of the oldest team sports, comes from _______. *(2020/21, zad. 9.2)*
     - a) England
     - b) Scotland
     - c) Wales
     - d) Ireland
-    <details><summary>odpowiedź</summary>b — Scotland</details><br>
+    <details><summary>odpowiedź</summary>b — Scotland<br>Curling wymyślono w Szkocji w XVI w. Gra się granitowymi kamieniami na lodzie, a najstarszy znany kamień do curlingu ma wyrytą datę 1511.</details><br>
 35. 'For auld lang syne' is the song originally related to _________. *(2019/20, zad. 12.9)*
     - a) Wales
     - b) Scotland
     - c) Ireland
-    <details><summary>odpowiedź</summary>b — Scotland</details><br>
+    <details><summary>odpowiedź</summary>b — Scotland<br><i>Auld Lang Syne</i> to wiersz szkockiego poety Roberta Burnsa (1788). Śpiewa się go na całym świecie w sylwestra o północy. <i>Auld lang syne</i> znaczy po szkocku „dawne czasy”.</details><br>
 36. The highest peak in England is ______ . *(2022/23, zad. 10.1)*
     - a) Snowdon
     - b) Ben Nevis
     - c) Scafell Pike
     - d) McKinley
-    <details><summary>odpowiedź</summary>c — Scafell Pike</details><br>
+    <details><summary>odpowiedź</summary>c — Scafell Pike<br>Scafell Pike (978 m) leży w Lake District w Anglii. Ben Nevis jest wyższy, ale leży w Szkocji, Snowdon w Walii, a McKinley (Denali) na Alasce.</details><br>
 37. _______ is the highest mountain top in Britain. *(2018/19, zad. 12.7)*
     - a) Ben Navis
     - b) Ben Hur
     - c) Benny Hill
-    <details><summary>odpowiedź</summary>a — Ben Navis ⚠ literówka w arkuszu, poprawna nazwa to <b>Ben Nevis</b>.</details><br>
+    <details><summary>odpowiedź</summary>a — Ben Navis<br>Ben Nevis (1345 m) w Szkocji to najwyższy szczyt całej Wielkiej Brytanii. Ben Hur to tytuł filmu, a Benny Hill to brytyjski komik. ⚠ W arkuszu jest literówka, poprawna nazwa to <b>Ben Nevis</b>.</details><br>
 38. Which county in Britain is known as 'the Garden of England'? *(2019/20, zad. 12.5)*
     - a) Stonehenge
     - b) Kent
     - c) Hyde Park
-    <details><summary>odpowiedź</summary>b — Kent</details><br>
+    <details><summary>odpowiedź</summary>b — Kent<br>Hrabstwo Kent w południowo-wschodniej Anglii słynie z sadów i chmielu. Pozostałe opcje to nie hrabstwa: Stonehenge to krąg kamienny, a Hyde Park to park w Londynie.</details><br>
 39. Which is the international symbol of the pound sterling? *(2023/24, zad. 10.7)*
     - a) GBP
     - b) GBS
     - c) PS
     - d) BP
-    <details><summary>odpowiedź</summary>a — GBP</details><br>
+    <details><summary>odpowiedź</summary>a — GBP<br>GBP (od <i>Great Britain Pound</i>) to kod waluty używany w bankach i kantorach. Sam znak funta to £.</details><br>
 40. How many inches are there in a foot? *(2023/24, zad. 10.10)*
     - a) 5
     - b) 10
     - c) 6
     - d) 12
-    <details><summary>odpowiedź</summary>d — 12</details><br>
+    <details><summary>odpowiedź</summary>d — 12<br>1 foot (stopa, ok. 30,5 cm) = 12 inches (cali, po ok. 2,54 cm). Do tego 3 feet = 1 yard.</details><br>
 41. London Underground, or the __________, is the oldest underground transport system in the world. *(2018/19, zad. 12.10)*
     - a) Royal Metro
     - b) Tube
     - c) Tunnel of London
-    <details><summary>odpowiedź</summary>b — Tube</details>
+    <details><summary>odpowiedź</summary>b — Tube<br>Tak londyńczycy nazywają metro, od okrągłych tuneli. Otwarte w 1863 r., to najstarsze metro na świecie.</details>
 
 ## Wielka Brytania — kultura: film, muzyka, literatura, sztuka, jedzenie
 
@@ -309,63 +309,63 @@ Popkultura i klasyka. Dystraktory to zwykle Amerykanie (Imagine Dragons, *Catche
     - b) Collin Firth
     - c) Rowan Atkinson
     - d) Christian Bale
-    <details><summary>odpowiedź</summary>c — Rowan Atkinson</details><br>
+    <details><summary>odpowiedź</summary>c — Rowan Atkinson<br>Rowan Atkinson grał też w <i>Czarnej Żmii</i> (<i>Blackadder</i>) i w <i>Johnnym Englishu</i>. Michael Caine i Colin Firth to inni brytyjscy aktorzy, a Christian Bale (też Brytyjczyk) grał m.in. Batmana.</details><br>
 43. Where were the Beatles formed? *(2023/24, zad. 10.6)*
     - a) In London
     - b) In Liverpool
     - c) In Manchester
     - d) In Oxford
-    <details><summary>odpowiedź</summary>b — In Liverpool</details><br>
+    <details><summary>odpowiedź</summary>b — In Liverpool<br>The Beatles założyło w 1960 r. czterech chłopaków z Liverpoolu. Z Manchesteru pochodzi np. Oasis, a z Londynu The Rolling Stones.</details><br>
 44. Who did not belong to The Beatles? *(2019/20, zad. 12.7)*
     - a) George Harrison
     - b) John McCartney
     - c) John Lennon
-    <details><summary>odpowiedź</summary>b — John McCartney (w zespole był Paul McCartney)</details><br>
+    <details><summary>odpowiedź</summary>b — John McCartney<br>To pułapka: w zespole był <b>Paul</b> McCartney, a John to Lennon. Skład: John Lennon, Paul McCartney, George Harrison, Ringo Starr.</details><br>
 45. ________________________ is one of the most popular bands in the history of British music. *(2024/25, zad. 10.7)*
     - a) Imagine Dragons
     - b) The Rolling Stones
     - c) Earth, Wind & Fire
     - d) Jonas Brothers
-    <details><summary>odpowiedź</summary>b — The Rolling Stones</details><br>
+    <details><summary>odpowiedź</summary>b — The Rolling Stones<br>Brytyjski zespół rockowy z Londynu, gra od 1962 r. (wokalista Mick Jagger). Pozostałe zespoły są amerykańskie.</details><br>
 46. ______________________________ is one of the greatest achievements of British literature: *(2024/25, zad. 10.5)*
     - a) 'Sense and Sensibility'
     - b) 'Catcher in the Rye'
     - c) 'Catch 22'
     - d) 'The Green Mile'
-    <details><summary>odpowiedź</summary>a — 'Sense and Sensibility' (Jane Austen; pozostałe to książki amerykańskie)</details><br>
+    <details><summary>odpowiedź</summary>a — 'Sense and Sensibility'<br>Powieść Jane Austen z 1811 r. (<i>Rozważna i romantyczna</i>). Pozostałe to książki amerykańskie: <i>Buszujący w zbożu</i> (Salinger), <i>Paragraf 22</i> (Heller), <i>Zielona mila</i> (Stephen King).</details><br>
 47. The author of Jane Eyre was: *(2019/20, zad. 12.8)*
     - a) Charlotte Brontë
     - b) Jane Austen
     - c) Mary Shelley
-    <details><summary>odpowiedź</summary>a — Charlotte Brontë</details><br>
+    <details><summary>odpowiedź</summary>a — Charlotte Brontë<br><i>Jane Eyre</i> (1847) napisała najstarsza z sióstr Brontë. Jane Austen napisała m.in. <i>Dumę i uprzedzenie</i>, a Mary Shelley <i>Frankensteina</i>. Nie myl bohaterki z autorką: Jane Eyre to postać z powieści.</details><br>
 48. The author of Romeo and Juliet was born in _____________ . *(2018/19, zad. 12.5)*
     - a) Oxford
     - b) Stratford-upon-Avon
     - c) London
-    <details><summary>odpowiedź</summary>b — Stratford-upon-Avon</details><br>
+    <details><summary>odpowiedź</summary>b — Stratford-upon-Avon<br>Szekspir urodził się tam w 1564 r. i tam zmarł. W Londynie pracował jako aktor i dramatopisarz (teatr Globe).</details><br>
 49. One of the greatest British street artists is: *(2024/25, zad. 10.10)*
     - a) Andy Warhol
     - b) David Kushner
     - c) Lady Pink
     - d) Banksy
-    <details><summary>odpowiedź</summary>d — Banksy</details><br>
+    <details><summary>odpowiedź</summary>d — Banksy<br>Anonimowy artysta graffiti z Bristolu. Andy Warhol to amerykański twórca pop-artu, a Lady Pink to amerykańska artystka graffiti z Nowego Jorku.</details><br>
 50. The British dish of sausages baked with batter is called ____ . *(2022/23, zad. 10.4)*
     - a) Yorkshire pudding
     - b) toad in the hole
     - c) hot-dog
     - d) haddock
-    <details><summary>odpowiedź</summary>b — toad in the hole</details><br>
+    <details><summary>odpowiedź</summary>b — toad in the hole<br>Dosłownie „ropucha w dziurze”: kiełbaski zapiekane w cieście naleśnikowym. Yorkshire pudding to samo ciasto, ale bez kiełbasek (dodatek do pieczeni), a haddock to ryba (łupacz).</details><br>
 51. A kind of biscuit which is made out of flour, butter and sugar is called _____________ . *(2018/19, zad. 12.8)*
     - a) Haggis
     - b) Shortbread
     - c) Yorkshire Pudding
-    <details><summary>odpowiedź</summary>b — Shortbread</details><br>
+    <details><summary>odpowiedź</summary>b — Shortbread<br>Szkockie kruche ciastka z mąki, masła i cukru. Haggis to szkockie danie z owczych podrobów, a Yorkshire pudding to dodatek z ciasta do mięsa.</details><br>
 52. The name pub is the shortened form of a _____ . *(2022/23, zad. 10.5)*
     - a) public block
     - b) place under bar
     - c) public house
     - d) privately used bar
-    <details><summary>odpowiedź</summary>c — public house</details>
+    <details><summary>odpowiedź</summary>c — public house<br><i>Pub</i> to skrót od <i>public house</i>, czyli „dom otwarty dla wszystkich”, w którym można się napić i zjeść.</details>
 
 ## USA — geografia, symbole, popkultura
 
@@ -376,60 +376,60 @@ Miejsca na mapie, flaga i hymn. Uwaga na pytania-pułapki typu „które NIE jes
     - b) Ireland
     - c) Australia
     - d) the USA
-    <details><summary>odpowiedź</summary>d — the USA</details><br>
+    <details><summary>odpowiedź</summary>d — the USA<br>Mount Rushmore leży w Dakocie Południowej. W skale wykuto głowy czterech prezydentów: Washingtona, Jeffersona, Theodore'a Roosevelta i Lincolna.</details><br>
 54. 'The Star-Spangled Banner' is the name of American: *(2024/25, zad. 10.6)*
     - a) anthem
     - b) flag
     - c) emblem
     - d) state seal
-    <details><summary>odpowiedź</summary>a — anthem</details><br>
+    <details><summary>odpowiedź</summary>a — anthem<br><i>The Star-Spangled Banner</i> („Gwiaździsty sztandar”) to hymn USA. Tytuł nawiązuje do flagi, dlatego łatwo się pomylić.</details><br>
 55. There are _______ stars on the flag of the United States of America. *(2020/21, zad. 9.4)*
     - a) 13
     - b) 44
     - c) 50
     - d) 51
-    <details><summary>odpowiedź</summary>c — 50</details><br>
+    <details><summary>odpowiedź</summary>c — 50<br>Jedna gwiazda na każdy stan, w tej wersji od 1960 r. (po dołączeniu Hawajów). 13 to liczba pasów, od pierwszych 13 kolonii.</details><br>
 56. Which of these is not a nickname for the flag of the United States of America? *(2020/21, zad. 9.8)*
     - a) Old Glory
     - b) the Stars and Stripes
     - c) the Red, White and Blue
     - d) the Saltire
-    <details><summary>odpowiedź</summary>d — the Saltire (to flaga Szkocji)</details><br>
+    <details><summary>odpowiedź</summary>d — the Saltire<br>Saltire to biały ukośny krzyż św. Andrzeja na niebieskim tle, czyli flaga Szkocji. Pozostałe trzy to przydomki flagi USA.</details><br>
 57. Washington D.C. is located on the _____ River. *(2022/23, zad. 10.8)*
     - a) Mississippi
     - b) Thames
     - c) Potomac
     - d) Shannon
-    <details><summary>odpowiedź</summary>c — Potomac</details><br>
+    <details><summary>odpowiedź</summary>c — Potomac<br>Waszyngton leży nad Potomakiem. Missisipi to najdłuższa rzeka USA, ale płynie przez środek kraju, Tamiza płynie przez Londyn, a Shannon to najdłuższa rzeka Irlandii.</details><br>
 58. You can see the magnificent Golden Gate Bridge in ______ . *(2021/22, zad. 6.79)*
     - A. Los Angeles
     - B. Sacramento
     - C. San Francisco
     - D. Chicago
-    <details><summary>odpowiedź</summary>C — San Francisco</details><br>
+    <details><summary>odpowiedź</summary>C — San Francisco<br>Czerwony most wiszący nad cieśniną Golden Gate, otwarty w 1937 r. Sacramento to stolica Kalifornii, ale tego mostu tam nie ma.</details><br>
 59. Which of the following animals lives mainly in Alaska? *(2021/22, zad. 6.78)*
     - A. the moose
     - B. the platypus
     - C. the giraffe
     - D. the dingo
-    <details><summary>odpowiedź</summary>A — the moose</details><br>
+    <details><summary>odpowiedź</summary>A — the moose<br>Łoś żyje na Alasce i w Kanadzie. Dziobak i dingo żyją w Australii, a żyrafa w Afryce.</details><br>
 60. _________, which lie/lies on the border between Canada and the United States, are/is the largest
     concentration of fresh water in the world. *(2019/20, zad. 12.3)*
     - a) Niagara Falls
     - b) The Lake District
     - c) The Great Lakes
-    <details><summary>odpowiedź</summary>c — The Great Lakes</details><br>
+    <details><summary>odpowiedź</summary>c — The Great Lakes<br>Pięć jezior: Superior, Michigan, Huron, Erie i Ontario. Niagara Falls to wodospad między jeziorami Erie i Ontario, a Lake District to kraina jezior w Anglii.</details><br>
 61. Which of the following cities isn't situated in the United States? It's ____________ . *(2018/19, zad. 12.2)*
     - a) Chicago
     - b) Oakland
     - c) Toronto
-    <details><summary>odpowiedź</summary>c — Toronto</details><br>
+    <details><summary>odpowiedź</summary>c — Toronto<br>Toronto to największe miasto Kanady. Chicago leży w stanie Illinois, a Oakland w Kalifornii.</details><br>
 62. The two largest American companies operating in the comic book industry are Marvel Comics and ____ Comics. *(2022/23, zad. 10.10)*
     - a) BBC
     - b) DC
     - c) CNN
     - d) AB
-    <details><summary>odpowiedź</summary>b — DC</details>
+    <details><summary>odpowiedź</summary>b — DC<br>DC wydaje komiksy o Supermanie i Batmanie, Marvel o Spider-Manie i Avengersach. BBC to brytyjska telewizja, a CNN amerykańska stacja informacyjna.</details>
 
 ## Wielka Brytania — historia i polityka
 
@@ -440,40 +440,40 @@ Mniej przewidywalne: bohaterowie narodowi, premierzy, legendy i prehistoria.
     - b) William Wallace
     - c) Owain Glyndwr
     - d) Oliver Cromwell
-    <details><summary>odpowiedź</summary>b — William Wallace</details><br>
+    <details><summary>odpowiedź</summary>b — William Wallace<br>Szkocki bohater walki o niepodległość z Anglikami (koniec XIII w.), w filmie grał go Mel Gibson. Owain Glyndŵr to bohater Walii, Theobald Wolfe Tone bohater Irlandii, a Oliver Cromwell to Anglik, który rządził krajem po ścięciu króla Karola I.</details><br>
 64. How many times was Winston Churchill the Prime Minister of Great Britain? *(2024/25, zad. 10.9)*
     - a) 3
     - b) 1
     - c) 2
     - d) 0
-    <details><summary>odpowiedź</summary>c — 2 (1940–1945 i 1951–1955)</details><br>
+    <details><summary>odpowiedź</summary>c — 2<br>Pierwszy raz w czasie II wojny światowej (1940–1945), drugi raz w latach 1951–1955.</details><br>
 65. _____ is the new British PM. *(2022/23, zad. 10.7)*
     - a) Kamala Harris
     - b) Theresa May
     - c) Boris Johnson
     - d) Liz Truss
-    <details><summary>odpowiedź</summary>d — Liz Truss ⚠ poprawne w dniu konkursu (13.10.2022). Truss urzędowała tylko 7 tygodni, po niej był Rishi Sunak, od lipca 2024 Keir Starmer, a od 20 lipca 2026 premierem jest <b>Andy Burnham</b>.</details><br>
+    <details><summary>odpowiedź</summary>d — Liz Truss<br>Theresa May i Boris Johnson byli premierami wcześniej, a Kamala Harris to polityczka amerykańska. ⚠ Poprawne w dniu konkursu (13.10.2022). Truss urzędowała tylko 7 tygodni, po niej był Rishi Sunak, od lipca 2024 Keir Starmer, a od 20 lipca 2026 premierem jest <b>Andy Burnham</b>.</details><br>
 66. After Theresa May __________ became another British Prime Minister. *(2019/20, zad. 12.10)*
     - a) David Cameron
     - b) Boris Johnson
     - c) Tony Blair
-    <details><summary>odpowiedź</summary>b — Boris Johnson</details><br>
+    <details><summary>odpowiedź</summary>b — Boris Johnson<br>Theresa May rządziła w latach 2016–2019, po niej Boris Johnson (2019–2022). David Cameron był przed nią (2010–2016), a Tony Blair dużo wcześniej (1997–2007).</details><br>
 67. The language of Anglo-Saxons in the British Isles is called ______ English. *(2022/23, zad. 10.3)*
     - a) Ancient
     - b) Middle
     - c) Old
     - d) Renaissance
-    <details><summary>odpowiedź</summary>c — Old</details><br>
+    <details><summary>odpowiedź</summary>c — Old<br><i>Old English</i> (staroangielski) to język Anglosasów, mniej więcej od V do XI w. <i>Middle English</i> to średnioangielski (ok. 1100–1500), a renesans to epoka, nie etap rozwoju języka.</details><br>
 68. King Arthur's wife, _________, had a love affair with one of the Knights of the Round Table. *(2018/19, zad. 12.1)*
     - a) Lady Elaine
     - b) Lady Guinevere
     - c) Lady Godiva
-    <details><summary>odpowiedź</summary>b — Lady Guinevere</details><br>
+    <details><summary>odpowiedź</summary>b — Lady Guinevere<br>Romans Ginewry z Lancelotem to jeden z głównych wątków legend o królu Arturze. Lady Godiva to bohaterka innej legendy: przejechała nago konno przez Coventry w proteście przeciw podatkom.</details><br>
 69. _______ is a Neolithic village situated on the Orkneys (north of Scotland). *(2018/19, zad. 12.9)*
     - a) Inverness
     - b) Stonehenge
     - c) Skara Brae
-    <details><summary>odpowiedź</summary>c — Skara Brae</details>
+    <details><summary>odpowiedź</summary>c — Skara Brae<br>Kamienna wioska sprzed ok. 5000 lat, odsłonięta przez sztorm w 1850 r. Stonehenge to krąg kamieni w Anglii, a Inverness to miasto w Szkocji.</details>
 
 ## Inne kraje anglojęzyczne — Kanada, Australia, Nowa Zelandia
 
@@ -484,36 +484,36 @@ Pojawiają się rzadziej, ale stolica Australii i premier Kanady były już po d
     - b) Keir Starmer
     - c) Rishi Sunak
     - d) Anthony Albanese
-    <details><summary>odpowiedź</summary>a — Justin Trudeau ⚠ poprawne w październiku 2024. Od marca 2025 premierem Kanady jest Mark Carney.</details><br>
+    <details><summary>odpowiedź</summary>a — Justin Trudeau<br>Justin Trudeau był premierem Kanady w latach 2015–2025. Keir Starmer i Rishi Sunak to premierzy Wielkiej Brytanii, a Anthony Albanese to premier Australii. ⚠ Od marca 2025 premierem Kanady jest Mark Carney.</details><br>
 71. Who is the prime minister in Canada? *(2020/21, zad. 9.7)*
     - a) Scott Morrison
     - b) Celine Dion
     - c) Jason Trudeau
     - d) Jacinda Ardern
-    <details><summary>odpowiedź</summary>c — Jason Trudeau ⚠ tak podaje oficjalny klucz, ale to błąd w arkuszu: premier nazywał się <b>Justin</b> Trudeau. Dziś premierem jest Mark Carney.</details><br>
+    <details><summary>odpowiedź</summary>c — Jason Trudeau<br>Scott Morrison był wtedy premierem Australii, Jacinda Ardern premierką Nowej Zelandii, a Céline Dion to kanadyjska piosenkarka. ⚠ Tak podaje oficjalny klucz, ale to błąd w arkuszu: premier nazywał się <b>Justin</b> Trudeau. Dziś premierem jest Mark Carney.</details><br>
 72. What is the capital of Australia? *(2023/24, zad. 10.8)*
     - a) Sydney
     - b) Melbourne
     - c) Canberra
     - d) Brisbane
-    <details><summary>odpowiedź</summary>c — Canberra</details><br>
+    <details><summary>odpowiedź</summary>c — Canberra<br>Canberrę zbudowano specjalnie na stolicę, jako kompromis między Sydney i Melbourne, które rywalizowały o ten tytuł. Sydney to największe miasto Australii, a Melbourne było tymczasową stolicą (1901–1927).</details><br>
 73. The capital of Australia is ___________ . *(2018/19, zad. 12.3)*
     - a) Sydney
     - b) Melbourne
     - c) Canberra
-    <details><summary>odpowiedź</summary>c — Canberra</details><br>
+    <details><summary>odpowiedź</summary>c — Canberra<br>To samo co w pozycji 72.</details><br>
 74. What is the name of the ritual dance performed by New Zealand's rugby team before each game? *(2024/25, zad. 10.4)*
     - a) step dancing
     - b) ceilidh
     - c) haka
     - d) country dance
-    <details><summary>odpowiedź</summary>c — haka</details><br>
+    <details><summary>odpowiedź</summary>c — haka<br>Maoryski taniec wojenny, który reprezentacja rugby (All Blacks) wykonuje przed meczem. Ceilidh to szkocka i irlandzka zabawa taneczna, a step dancing to taniec irlandzki.</details><br>
 75. Which country has the largest English-speaking population in terms of people using this language? *(2023/24, zad. 10.3)*
     - a) Australia
     - b) Canada
     - c) the United States
     - d) the United Kingdom
-    <details><summary>odpowiedź</summary>c — the United States</details>
+    <details><summary>odpowiedź</summary>c — the United States<br>W USA mieszka ponad 330 mln ludzi, z których większość mówi po angielsku. To kilka razy więcej niż w Wielkiej Brytanii (niecałe 70 mln).</details>
 
 ## Irlandia
 
@@ -524,13 +524,13 @@ Na etapie szkolnym tylko podstawy: stolica i przydomek.
     - B. Ulster
     - C. Cork
     - D. Dublin
-    <details><summary>odpowiedź</summary>D — Dublin</details><br>
+    <details><summary>odpowiedź</summary>D — Dublin<br>Belfast to stolica Irlandii Północnej (część Wielkiej Brytanii), Cork to drugie co do wielkości miasto Irlandii, a Ulster to historyczna prowincja na północy wyspy.</details><br>
 77. 'The Emerald Isle' is the name for _______. *(2020/21, zad. 9.6)*
     - a) Australia
     - b) Scotland
     - c) Ireland
     - d) New Zealand
-    <details><summary>odpowiedź</summary>c — Ireland</details>
+    <details><summary>odpowiedź</summary>c — Ireland<br>„Szmaragdowa Wyspa” to nazwa od intensywnej zieleni, którą Irlandia zawdzięcza deszczowemu klimatowi.</details>
 
 ## Różne — święta i daty
 
@@ -541,13 +541,13 @@ Kalendarz świąt; łatwe, jeśli się je raz zestawi.
     - b) September 28th
     - c) November 30th
     - d) May 8th
-    <details><summary>odpowiedź</summary>a — September 26th</details><br>
+    <details><summary>odpowiedź</summary>a — September 26th<br>Europejski Dzień Języków ustanowiła Rada Europy w 2001 r. 30 listopada to dzień św. Andrzeja (patrona Szkocji), a 8 maja to koniec II wojny światowej w Europie.</details><br>
 79. Which of these takes place in October? *(2020/21, zad. 9.10)*
     - a) Guy Fawkes Night
     - b) Halloween
     - c) Thanksgiving Day
     - d) Saint George's Day
-    <details><summary>odpowiedź</summary>b — Halloween (31 października)</details>
+    <details><summary>odpowiedź</summary>b — Halloween<br>Halloween jest 31 października. Guy Fawkes Night jest 5 listopada, Thanksgiving w czwarty czwartek listopada, a Dzień św. Jerzego 23 kwietnia.</details>
 
 ---
 
