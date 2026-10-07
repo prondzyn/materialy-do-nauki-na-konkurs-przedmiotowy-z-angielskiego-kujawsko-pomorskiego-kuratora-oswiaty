@@ -151,6 +151,10 @@
   }
   .gapsel.ok { width: auto; color: var(--ok); background: var(--ok-bg); border-color: var(--ok); opacity: 1; }
   .gapsel.bad { color: var(--bad); background: var(--bad-bg); border-color: var(--bad); }
+  .baza {
+    font-weight: 700; color: var(--accent); background: var(--bubble);
+    border-radius: 4px; padding: 0 .3em; white-space: nowrap;
+  }
   .gapin.part { border-bottom-color: var(--accent); background: var(--bubble); }
   /* Kratki na litery (_ t _ i _) */
   .letters { display: inline-flex; gap: 2px; vertical-align: middle; padding: 2px; border-radius: 6px; }
@@ -579,6 +583,15 @@
     const after = gap.node.splitText(gap.index);
     after.textContent = after.textContent.slice(gap.len);
     after.before(input);
+    // Wyraz bazowy w nawiasie tuż za luką, np. „(fall)” — wyróżniony, żeby nie ginął w zdaniu.
+    const base = after.textContent.match(/^(\s*)\(([^()\n]{1,30})\)/);
+    if (base && base[2].trim().split(/\s+/).length <= 3) {
+      const rest = after.splitText(base[0].length);
+      const b = document.createElement('span');
+      b.className = 'baza'; b.textContent = '(' + base[2] + ')';
+      after.textContent = base[1];
+      rest.before(b);
+    }
     return { input, pre, post };
   }
 
