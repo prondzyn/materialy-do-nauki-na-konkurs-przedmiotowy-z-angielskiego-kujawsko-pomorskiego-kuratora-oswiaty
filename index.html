@@ -81,6 +81,7 @@
     border-radius: 5px; padding: .05em .45em; white-space: nowrap;
   }
   kbd .say, .baza .say { font-size: .95em; }
+  .baza.klucz { font-weight: normal; }
   hr { border: 0; border-top: 1px solid var(--line); margin: 2em 0; }
   #error { color: #cf222e; }
 
@@ -967,8 +968,10 @@
       // żeby głośnik nie wchodził do tekstu, po którym rozpoznajemy zapisany postęp.
       if (synth) content.querySelectorAll('kbd').forEach(k => addSay(k, k.textContent.trim()));
       // …i w ramce ze słowem-kluczem w transformacjach (<span class="baza">BELONG</span>)
-      if (synth) content.querySelectorAll('span.baza').forEach(b => {
-        if (/^[A-Z][A-Z' ]*$/.test(b.textContent.trim())) addSay(b, b.textContent.trim());
+      content.querySelectorAll('span.baza').forEach(b => {
+        if (!/^[A-Z][A-Z' ]*$/.test(b.textContent.trim())) return;
+        b.classList.add('klucz');
+        if (synth) addSay(b, b.textContent.trim());
       });
       addSectionNav();
       const hdr = () => document.documentElement.style.setProperty("--hdr", document.querySelector("header").offsetHeight + "px");
