@@ -764,6 +764,52 @@
       if (accepted.length) setupTyping(li, det, accepted, box.words, null, v => useCell(box, v));
     });
 
+    // Teksty z lukami, w których opcje są w liście pod tekstem („Luka (54):” + a/b/c/d):
+    // wybór przenosimy w miejsce luki w tekście. Pozycja w liście zostaje (z odpowiedzią
+    // i wyjaśnieniem), ale bez opcji. Kliknięcie w tekście = kliknięcie opcji w liście,
+    // więc sprawdzanie i zapisany postęp działają tak samo.
+    root.querySelectorAll('li').forEach(li => {
+      const m = li.textContent.match(/^\s*Luka \((\d+)\)/);
+      if (!m) return;
+      const opts = [...li.querySelectorAll(':scope > ul > li.opt')];
+      if (opts.length < 2) return;
+      const gapRe = new RegExp('\\(' + m[1] + '\\)\\s*_{3,}');
+      let node = null;
+      for (let p = li.parentElement.previousElementSibling; p && !node && !/^(H[1-3]|HR)$/.test(p.tagName); p = p.previousElementSibling) {
+        const w = document.createTreeWalker(p, NodeFilter.SHOW_TEXT);
+        while (w.nextNode()) if (gapRe.test(w.currentNode.textContent)) { node = w.currentNode; break; }
+      }
+      if (!node) return;
+      const texts = opts.map(o => {
+        const c = o.cloneNode(true);
+        c.querySelectorAll('.say').forEach(x => x.remove());
+        return c.textContent.replace(OPT_RE, '').trim();
+      });
+      const speak = synth && !texts.some(t => /[_ąćęłńóśźż]/i.test(t));
+      const strong = document.createElement('strong');
+      strong.append('[ ');
+      texts.forEach((t, i) => {
+        const box = document.createElement('span');
+        box.className = 'pick';
+        const b = document.createElement('button');
+        b.type = 'button'; b.className = 'pickword'; b.textContent = t;
+        b.addEventListener('click', () => opts[i].click());
+        // stan z listy (też po odtworzeniu postępu) przenosimy na ramkę w tekście
+        opts[i].addEventListener('click', () => {
+          box.classList.toggle('ok', opts[i].classList.contains('ok'));
+          box.classList.toggle('bad', opts[i].classList.contains('bad'));
+        });
+        box.append(b);
+        if (speak) addSay(box, t);
+        strong.append(box, i + 1 < texts.length ? ' / ' : ' ]');
+      });
+      const mm = node.textContent.match(gapRe);
+      const after = node.splitText(mm.index);
+      after.textContent = after.textContent.slice(mm[0].length);
+      after.before('(' + m[1] + ') ', strong);
+      li.querySelector(':scope > ul').hidden = true;
+    });
+
     // Czytanie: odpowiedzi 1–5 zebrane pod tekstem w osobnych polach <details>.
     const gapDets = [];   // luki w tekście (wybór fragmentu albo wpisywanie)
     root.querySelectorAll('details').forEach(det => {
