@@ -718,14 +718,21 @@
     return {
       words: new Set(texts.map(normAns)),
       cells: tds.map((td, i) => ({ td, key: normAns(texts[i]) })),
-      exclusive: !(prev && /więcej niż raz/i.test(prev.textContent)),
+      need: new Map(), done: new Map(),   // ile luk potrzebuje wyrazu / ile już rozwiązano
     };
   }
-  // Skreśla w ramce jeden (jeszcze nieskreślony) egzemplarz wyrazu.
+  // Wyszarza w ramce wyraz, który został wpisany. Jeśli wyraz jest w ramce tyle razy, ile luk
+  // go potrzebuje, skreślamy po jednym egzemplarzu na każdą lukę. Jeśli luk jest więcej niż
+  // egzemplarzy (ramka „wyrazów możesz użyć więcej niż raz”), wyraz szarzeje dopiero wtedy,
+  // gdy nie jest już potrzebny w żadnej luce.
   function useCell(box, word) {
-    if (!box.exclusive) return;
-    const c = box.cells.find(c => c.key === normAns(word) && !c.td.classList.contains('used'));
-    if (c) c.td.classList.add('used');
+    const key = normAns(word);
+    const copies = box.cells.filter(c => c.key === key);
+    const done = (box.done.get(key) || 0) + 1;
+    box.done.set(key, done);
+    const need = box.need.get(key) || 0;
+    const grey = need <= copies.length ? done : (done >= need ? copies.length : 0);
+    copies.slice(0, grey).forEach(c => c.td.classList.add('used'));
   }
 
   // Odpowiedzi uznawane w kluczu → lista wariantów (surowy tekst, rozwijany potem przez expand):
@@ -764,7 +771,10 @@
       if (!box) return;
       // W lukę wpisuje się wyraz z ramki (bez dopisków typu „(niewykorzystane: …)”).
       const accepted = acceptedOf(ans).filter(w => box.words.has(normAns(w)));
-      if (accepted.length) setupTyping(li, det, accepted, box.words, null, v => useCell(box, v));
+      if (!accepted.length) return;
+      const k = normAns(accepted[0]);
+      box.need.set(k, (box.need.get(k) || 0) + 1);
+      setupTyping(li, det, accepted, box.words, null, v => useCell(box, v));
     });
 
     // Teksty z lukami, w których opcje są w liście pod tekstem („Luka (54):” + a/b/c/d):
