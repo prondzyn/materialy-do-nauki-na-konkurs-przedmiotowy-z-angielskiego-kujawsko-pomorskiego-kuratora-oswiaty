@@ -492,7 +492,9 @@
         if (o === best) { b.classList.add('ok'); li.classList.add('done'); solve(); }
         else b.classList.add('bad');
       });
-      strong.append(b, i + 1 < options.length ? ' / ' : ' ]');
+      strong.append(b);
+      if (synth && !options.some(t => /[_ąćęłńóśźż]/i.test(t))) addSay(strong, o);
+      strong.append(i + 1 < options.length ? ' / ' : ' ]');
     });
     return true;
   }
