@@ -396,12 +396,18 @@
     };
   }
 
-  // 🔊 przy krótkiej odpowiedzi do wyboru (1–3 słowa, po angielsku), żeby odsłuchać wymowę.
-  // Kliknięcie głośnika nie wybiera odpowiedzi.
+  // 🔊 przy odpowiedziach do wyboru, żeby odsłuchać wymowę. Wszystkie albo żadna:
+  // głośniki są tylko wtedy, gdy co najmniej połowa odpowiedzi w pytaniu jest krótka (1–3 słowa).
+  // Nie przy lukach (___) i odpowiedziach po polsku. Kliknięcie głośnika nie wybiera odpowiedzi.
+  function addSays(els) {
+    if (!synth) return;
+    const texts = els.map(el => el.textContent.replace(OPT_RE, '').replace(/[.,;:!?]+$/, '').trim());
+    if (texts.some(t => !t || /[_ąćęłńóśźż]/i.test(t))) return;
+    const short = texts.filter(t => t.split(/\s+/).length <= 3).length;
+    if (short * 2 < texts.length) return;
+    els.forEach((el, i) => { if (!el.querySelector('.say')) addSay(el, texts[i]); });
+  }
   function addSay(el, text) {
-    if (!synth || el.querySelector('.say')) return;
-    text = text.replace(OPT_RE, '').replace(/[.,;:!?]+$/, '').trim();
-    if (!text || text.split(/\s+/).length > 3 || /[_ąćęłńóśźż]/i.test(text)) return;
     const s = document.createElement('button');
     s.type = 'button'; s.className = 'say'; s.textContent = '🔊';
     s.setAttribute('aria-label', 'Wymowa: ' + text);
@@ -419,13 +425,13 @@
     opts.forEach(o => {
       const l = o.textContent.trim()[0].toLowerCase();
       o.classList.add('opt');
-      addSay(o, o.textContent);
       o.addEventListener('click', () => {
         if (li.classList.contains('done')) return;
         if (l === L) { o.classList.add('ok'); li.classList.add('done'); solve(); }
         else o.classList.add('bad');
       });
     });
+    addSays(opts);
     return true;
   }
 
@@ -441,6 +447,7 @@
     let okSpan = null;
     const solve = register(det, () => okSpan && okSpan.click());
     const frag = document.createDocumentFragment();
+    const spans = [];
     marks.forEach((m, i) => {
       const start = m.index + m[1].length;
       const end = i + 1 < marks.length ? marks[i + 1].index : text.length;
@@ -453,9 +460,10 @@
         if (l === L) { span.classList.add('ok'); li.classList.add('done'); solve(); }
         else span.classList.add('bad');
       });
-      addSay(span, span.textContent);
+      spans.push(span);
       frag.append(span, ' ');
     });
+    addSays(spans);
     node.replaceWith(frag);
     return true;
   }
