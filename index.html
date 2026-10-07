@@ -960,6 +960,13 @@
       fixLinks(content);
       enhanceWords(content);
       enhanceExercises(content);
+      // 🔊 przy wyrazie bazowym w ramce <kbd> (słowotwórstwo). Dodawane po zadaniach,
+      // żeby głośnik nie wchodził do tekstu, po którym rozpoznajemy zapisany postęp.
+      if (synth) content.querySelectorAll('kbd').forEach(k => {
+        const tmp = document.createElement('span');
+        addSay(tmp, k.textContent.trim());
+        k.after(...tmp.childNodes);
+      });
       addSectionNav();
       const hdr = () => document.documentElement.style.setProperty("--hdr", document.querySelector("header").offsetHeight + "px");
       hdr(); window.addEventListener("resize", hdr);
