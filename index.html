@@ -597,6 +597,15 @@
       after.textContent = base[1];
       rest.before(b);
     }
+    // Fragment w nawiasie tuż przed luką, np. „(ma jedenaście lat) ___” albo „(Why / have) ___”.
+    const lead = gap.node.textContent.match(/\(([^()\n]{1,40})\)(\s*)$/);
+    if (lead && lead[1].trim().split(/\s+/).length <= 6) {
+      const mid = gap.node.splitText(lead.index);
+      mid.splitText(lead[0].length - lead[2].length);
+      const b = document.createElement('span');
+      b.className = 'baza'; b.textContent = '(' + lead[1] + ')';
+      mid.replaceWith(b);
+    }
     return { input, pre, post };
   }
 
@@ -706,9 +715,12 @@
       if (onOk) onOk(fields[0].input.value);
       // po dobrej odpowiedzi 🔊 za polem — wymowa wpisanego tekstu. Nie w lukach w tekstach do
       // czytania (gapsOverride): tam odpowiedzi są po polsku.
-      const spoken = fields.map(f => f.input.value.trim()).join(' ');
+      // Całe zdanie z wpisaną odpowiedzią (bez nawiasów z podpowiedziami, „→”, „A:/B:”).
+      const clean = s => s.replace(/\([^)]*\)/g, ' ').replace(/_+/g, ' ').replace(/^\s*(→|[AB]:)\s*/, '')
+        .replace(/\s+([.,!?])/g, '$1').replace(/\s+/g, ' ').trim();
+      const spoken = clean(fields[0].pre + fields.map(f => ' ' + f.input.value + ' ' + f.post).join(''));
       const last = fields[fields.length - 1].input;
-      if (synth && !gapsOverride && !/[ąćęłńóśźż]/i.test(spoken) && !last.nextElementSibling?.classList.contains('say')) {
+      if (synth && !gapsOverride && !fields.some(f => /[ąćęłńóśźż]/i.test(f.input.value)) && !last.nextElementSibling?.classList.contains('say')) {
         const tmp = document.createElement('span');
         addSay(tmp, spoken);
         last.after(...tmp.childNodes);
