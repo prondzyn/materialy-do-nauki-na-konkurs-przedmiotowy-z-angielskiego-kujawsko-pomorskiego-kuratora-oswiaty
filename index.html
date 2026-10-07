@@ -699,6 +699,15 @@
     const win = () => {
       mark('ok'); fields.forEach(f => { f.input.readOnly = true; }); solve(fields.map(f => f.input.value));
       if (onOk) onOk(fields[0].input.value);
+      // po dobrej odpowiedzi 🔊 za polem — wymowa wpisanego tekstu. Nie w lukach w tekstach do
+      // czytania (gapsOverride): tam odpowiedzi są po polsku.
+      const spoken = fields.map(f => f.input.value.trim()).join(' ');
+      const last = fields[fields.length - 1].input;
+      if (synth && !gapsOverride && !/[ąćęłńóśźż]/i.test(spoken) && !last.nextElementSibling?.classList.contains('say')) {
+        const tmp = document.createElement('span');
+        addSay(tmp, spoken);
+        last.after(...tmp.childNodes);
+      }
     };
     // Enter / wyjście z pola: ocena ostateczna
     const check = () => {
