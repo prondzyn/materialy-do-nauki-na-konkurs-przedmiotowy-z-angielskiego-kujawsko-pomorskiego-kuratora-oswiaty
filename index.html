@@ -629,6 +629,13 @@
       if (w.includes('_')) return;
       if (accepted.has(flat(w))) {
         box.classList.add('ok'); inputs.forEach(i => { i.readOnly = true; }); solve(inputs.map(i => i.value));
+        // po dobrej odpowiedzi 🔊 za kratkami — wymowa całego wyrazu (z kluczem, np. „guest house”)
+        if (synth && !box.nextElementSibling?.classList.contains('say')) {
+          const spoken = variants.flatMap(v => expand(v)).find(v => flat(v) === flat(w))?.trim() || w;
+          const tmp = document.createElement('span');
+          addSay(tmp, spoken);
+          box.after(...tmp.childNodes);
+        }
       } else box.classList.add('bad');
     };
     inputs.forEach((inp, k) => {
