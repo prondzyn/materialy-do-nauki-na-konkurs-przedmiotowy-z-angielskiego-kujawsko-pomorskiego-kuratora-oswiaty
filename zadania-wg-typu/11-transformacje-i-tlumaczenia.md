@@ -512,6 +512,14 @@ Liczba wystąpień w 55 transformacjach (2018/19, 2020/21, 2022/23 – 2025/26).
 | *be good at handling* | czasownik + *well* | *Amy handles problems well.* | 1× |
 
 **Powtórki w tłumaczeniach i mini-dialogach** (warto znać na pamięć):
-*What a pity / What a shame* (2×), wiek *is eleven (years old)* / *isn't ten years old* (2×),
-*What is … like?*, *Have you ever eaten …?*, *Why don't you …?*, *Do you fancy going …?*,
-*didn't mean to hurt*, *Better luck next time*, *How did you get on?*, *leave a message after the tone*.
+
+- *What a pity! / What a shame!* — Jaka szkoda! (2×)
+- wiek: *is eleven (years old)* / *isn't ten years old* — ma jedenaście lat / nie ma dziesięciu lat (2×)
+- *What is … like?* — Jaki jest …?
+- *Have you ever eaten …?* — Czy kiedykolwiek jadłeś …?
+- *Why don't you …?* — Może byś …?
+- *Do you fancy going …?* — Masz ochotę pójść …?
+- *didn't mean to hurt* — nie chciałem zranić
+- *Better luck next time!* — Następnym razem się uda!
+- *How did you get on?* — Jak ci poszło?
+- *leave a message after the tone* — zostaw wiadomość po sygnale
