@@ -347,6 +347,8 @@ Najtrudniejszy podtyp: w jednym tekście mieszają się gramatyka, słownictwo i
 
 ### Enola Holmes *(2020/21, zad. 1)* — pozycje 54–63
 
+<div class="tekst">
+
 Have you heard of Sherlock Holmes? I bet you have. What about Enola Holmes? Well, some of you
 know the name and some of you (54) ________ heard it before. In this case, you should know that Netflix
 has just added a new Sherlock film to (55) ________ teen collection, this time about Sherlock's sister Enola.
@@ -368,6 +370,9 @@ compare the book with the film. Which is better? Do you think Netflix should con
 another part of The Enola Holmes Mysteries about the teenage detective?
 
 *(adapted from: https://www.commonsensemedia.org/movie-reviews/enola-holmes/)*
+
+</div>
+
 
 54. Luka (54):
     - a. didn't
@@ -432,6 +437,8 @@ another part of The Enola Holmes Mysteries about the teenage detective?
 
 ### Riverdale *(2019/20, zad. 8)* — pozycje 64–73
 
+<div class="tekst">
+
 Nowadays, lots of teenagers are glued to their tablet or TV screens to watch Riverdale. This
 new (64) ________ drama television series has been written by Roberto Aguirre-Sacasa and produced
 by Greg Berlanti, who stands behind the success of The Flash and Dawson's Creek.
@@ -451,6 +458,9 @@ feminism, loyalty or morality. Each episode is unique in the opinion of some Riv
 All in all, the show has something for everyone.
 
 *(adapted from: https://heatworld.com/entertainment/tv-movies/riverdale-everything-need-know/)*
+
+</div>
+
 
 64. Luka (64):
     - A. teens

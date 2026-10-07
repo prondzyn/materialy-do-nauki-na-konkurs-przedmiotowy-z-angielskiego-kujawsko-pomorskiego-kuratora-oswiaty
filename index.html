@@ -138,7 +138,10 @@
     font: 700 .72em/1 -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
     letter-spacing: .08em; color: var(--accent);
   }
-  .tekst > p:first-of-type strong { font-size: 1.15em; }
+  .tekst > p:first-of-type strong:not(:has(.pick)) { font-size: 1.15em; }
+  /* Tekst z wyborem w lukach: więcej miejsca między liniami, żeby ramki nie nachodziły na siebie */
+  .tekst p:has(.pick) { line-height: 2.3; }
+  .tekst .pick { font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif; font-size: .9em; }
   /* Lista w luce: wąska, żeby nie łamała tekstu (rozwinięte opcje są w pełnej długości);
      po dobrym wyborze rozszerza się, żeby zdanie dało się przeczytać ze wstawionym fragmentem. */
   .gapsel {
