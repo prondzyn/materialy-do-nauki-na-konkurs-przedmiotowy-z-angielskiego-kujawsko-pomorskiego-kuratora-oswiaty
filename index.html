@@ -326,14 +326,9 @@
   const OPT_RE = /^\s*([a-gA-G])[).\/]\s/;
   let total = 0, solvedCount = 0;
 
+  // Sama odpowiedź z klucza: pierwsza linia pola, bez wyjaśnienia i tłumaczeń dopisanych po <br>.
+  // Dzięki temu dopisanie lub poprawienie wyjaśnienia nie psuje sprawdzania ani zapisanego postępu.
   function answerOf(det) {
-    const c = det.cloneNode(true);
-    const s = c.querySelector('summary'); if (s) s.remove();
-    return c.textContent.trim();
-  }
-  // Sama odpowiedź, bez wyjaśnienia dopisanego po <br> — do rozpoznawania zadań w zapisanym
-  // postępie, żeby dopisanie lub poprawienie wyjaśnienia nie kasowało postępu.
-  function answerHead(det) {
     const c = det.cloneNode(true);
     const s = c.querySelector('summary'); if (s) s.remove();
     const br = c.querySelector('br');
@@ -377,7 +372,7 @@
       while (h && !/^H[1-3]$/.test(h.tagName)) h = h.previousElementSibling || h.parentElement;
       ctx = (h ? h.textContent : '') + '#' + det.querySelector('summary').textContent;
     }
-    let str = (ctx + '|' + answerHead(det)).replace(/_+/g, '_').replace(/\s+/g, ' ').trim();
+    let str = (ctx + '|' + answerOf(det)).replace(/_+/g, '_').replace(/\s+/g, ' ').trim();
     let hsh = 5381;
     for (let i = 0; i < str.length; i++) hsh = ((hsh * 33) ^ str.charCodeAt(i)) >>> 0;
     let key = hsh.toString(36);
