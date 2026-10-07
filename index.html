@@ -113,8 +113,10 @@
   .done .opt:not(.ok) { cursor: default; }
   .pick {
     font: inherit; font-weight: 600; color: var(--link); background: var(--soft);
-    border: 1px solid var(--line); border-radius: 4px; padding: 0 .4em; cursor: pointer;
+    border: 1px solid var(--line); border-radius: 4px; padding: 0 .4em; white-space: nowrap;
   }
+  .pickword { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; text-decoration: inherit; }
+  .pick .say { display: inline-block; }   /* bez przekreślenia przy złej odpowiedzi */
   .pick.ok { color: var(--ok); background: var(--ok-bg); border-color: var(--ok); }
   .pick.bad { color: var(--bad); background: var(--bad-bg); border-color: var(--bad); text-decoration: line-through; }
   .gapin {
@@ -484,17 +486,20 @@
     const solve = register(det, () => okBtn && okBtn.click());
     strong.textContent = '[ ';
     options.forEach((o, i) => {
+      // Ramka (span.pick) mieści słowo do kliknięcia i głośnik — przycisk nie może być w przycisku.
+      const box = document.createElement('span');
+      box.className = 'pick';
       const b = document.createElement('button');
-      b.type = 'button'; b.className = 'pick'; b.textContent = o;
+      b.type = 'button'; b.className = 'pickword'; b.textContent = o;
       if (o === best) okBtn = b;
       b.addEventListener('click', () => {
         if (li.classList.contains('done')) return;
-        if (o === best) { b.classList.add('ok'); li.classList.add('done'); solve(); }
-        else b.classList.add('bad');
+        if (o === best) { box.classList.add('ok'); li.classList.add('done'); solve(); }
+        else box.classList.add('bad');
       });
-      strong.append(b);
-      if (synth && !options.some(t => /[_ąćęłńóśźż]/i.test(t))) addSay(strong, o);
-      strong.append(i + 1 < options.length ? ' / ' : ' ]');
+      box.append(b);
+      if (synth && !options.some(t => /[_ąćęłńóśźż]/i.test(t))) addSay(box, o);
+      strong.append(box, i + 1 < options.length ? ' / ' : ' ]');
     });
     return true;
   }
