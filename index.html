@@ -80,6 +80,7 @@
     color: var(--accent); background: var(--soft); border: 1.5px solid var(--accent);
     border-radius: 5px; padding: .05em .45em; white-space: nowrap;
   }
+  kbd .say { font-size: .95em; }
   hr { border: 0; border-top: 1px solid var(--line); margin: 2em 0; }
   #error { color: #cf222e; }
 
@@ -960,13 +961,9 @@
       fixLinks(content);
       enhanceWords(content);
       enhanceExercises(content);
-      // 🔊 przy wyrazie bazowym w ramce <kbd> (słowotwórstwo). Dodawane po zadaniach,
+      // 🔊 w ramce z wyrazem bazowym <kbd> (słowotwórstwo). Dodawane po zadaniach,
       // żeby głośnik nie wchodził do tekstu, po którym rozpoznajemy zapisany postęp.
-      if (synth) content.querySelectorAll('kbd').forEach(k => {
-        const tmp = document.createElement('span');
-        addSay(tmp, k.textContent.trim());
-        k.after(...tmp.childNodes);
-      });
+      if (synth) content.querySelectorAll('kbd').forEach(k => addSay(k, k.textContent.trim()));
       addSectionNav();
       const hdr = () => document.documentElement.style.setProperty("--hdr", document.querySelector("header").offsetHeight + "px");
       hdr(); window.addEventListener("resize", hdr);
